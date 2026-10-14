@@ -181,7 +181,8 @@
       "Bash(cp scripts/.data-en.json /tmp/old-data-en.json)",
       "Bash(cp scripts/translations/data-0.json /tmp/old-data-0.json)",
       "Bash(python3 scripts/gen-circuit-diagrams.py)",
-      "Bash(pkill -f \"vite preview\")"
+      "Bash(pkill -f \"vite preview\")",
+      "Bash(git config *)"
     ]
   }
 }
