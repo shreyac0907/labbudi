@@ -1,0 +1,275 @@
+{
+ "game.on_fire_10": [
+  "ON FIRE! 10 in a row!",
+  "火力全开！连续10次！",
+  "불타오르네요! 10연속!",
+  "MEMBARA! 10 berturut-turut!",
+  "आग लगा दी! लगातार 10!"
+ ],
+ "game.nice": [
+  "Nice!",
+  "不错！",
+  "좋아요!",
+  "Bagus!",
+  "बढ़िया!"
+ ],
+ "game.zone_miss": [
+  "MISS",
+  "未击中",
+  "놓침",
+  "TERLEPAS",
+  "चूके"
+ ],
+ "game.zone_good": [
+  "GOOD",
+  "很好",
+  "좋아요",
+  "BAGUS",
+  "अच्छा"
+ ],
+ "game.zone_perfect": [
+  "PERFECT",
+  "完美",
+  "완벽",
+  "SEMPURNA",
+  "एकदम सही"
+ ],
+ "equip.heat_mat": [
+  "Heat-proof mat",
+  "隔热垫",
+  "내열 매트",
+  "Pelapik kalis haba",
+  "ऊष्मारोधी चटाई"
+ ],
+ "equip.ramp": [
+  "Ramp",
+  "斜面",
+  "경사면",
+  "Satah condong",
+  "आनत तल"
+ ],
+ "equip.clamp_stand": [
+  "Clamp stand",
+  "铁架台",
+  "클램프 스탠드",
+  "Kaki retort",
+  "क्लैंप स्टैंड"
+ ],
+ "equip.newton_meter": [
+  "Newton meter",
+  "弹簧测力计",
+  "뉴턴미터",
+  "Meter Newton",
+  "न्यूटन मीटर"
+ ],
+ "equip.block": [
+  "Block",
+  "木块",
+  "블록",
+  "Blok",
+  "ब्लॉक"
+ ],
+ "equip.tripod": [
+  "Tripod",
+  "三脚架",
+  "삼발이",
+  "Tungku kaki tiga",
+  "तिपाई"
+ ],
+ "equip.gauze": [
+  "Gauze",
+  "石棉网",
+  "철망",
+  "Kasa dawai",
+  "जाली"
+ ],
+ "equip.evaporating_dish": [
+  "Evaporating dish",
+  "蒸发皿",
+  "증발 접시",
+  "Mangkuk penyejat",
+  "वाष्पन प्याली"
+ ],
+ "equip.bunsen_burner": [
+  "Bunsen burner",
+  "本生灯",
+  "분젠 버너",
+  "Penunu Bunsen",
+  "बुन्सेन बर्नर"
+ ],
+ "equip.slide": [
+  "Slide",
+  "载玻片",
+  "슬라이드",
+  "Slaid",
+  "स्लाइड"
+ ],
+ "equip.microscope": [
+  "Microscope",
+  "显微镜",
+  "현미경",
+  "Mikroskop",
+  "सूक्ष्मदर्शी"
+ ],
+ "equip.battery": [
+  "Battery",
+  "电池",
+  "배터리",
+  "Bateri",
+  "बैटरी"
+ ],
+ "equip.bulb": [
+  "Bulb",
+  "灯泡",
+  "전구",
+  "Mentol",
+  "बल्ब"
+ ],
+ "equip.switch": [
+  "Switch",
+  "开关",
+  "스위치",
+  "Suis",
+  "स्विच"
+ ],
+ "equip.ammeter": [
+  "Ammeter",
+  "电流表",
+  "전류계",
+  "Ammeter",
+  "अमीटर"
+ ],
+ "game.quiz_right": [
+  "Nice, that's exactly right!",
+  "不错，完全正确！",
+  "좋아요, 정확해요!",
+  "Bagus, tepat sekali!",
+  "बढ़िया, बिल्कुल सही!"
+ ],
+ "game.quiz_wrong": [
+  "Not quite, it's \"{{answer}}.\"",
+  "不太对，答案是“{{answer}}”。",
+  "아쉬워요, 정답은 “{{answer}}”예요.",
+  "Belum tepat, jawapannya “{{answer}}.”",
+  "ठीक नहीं, सही उत्तर “{{answer}}” है।"
+ ],
+ "game.quiz_perfect": [
+  "PERFECT! Master Biologist!",
+  "完美！生物学大师！",
+  "완벽해요! 생물학 마스터!",
+  "SEMPURNA! Pakar Biologi!",
+  "एकदम सही! जीव विज्ञान मास्टर!"
+ ],
+ "game.quiz_good": [
+  "Good scientist!",
+  "好科学家！",
+  "훌륭한 과학자예요!",
+  "Saintis yang bagus!",
+  "अच्छे वैज्ञानिक!"
+ ],
+ "game.circuit_timeout": [
+  "Good try! Parallel circuits are tricky, you can retry anytime.",
+  "好尝试！并联电路很难，你随时可以重试。",
+  "잘 시도했어요! 병렬 회로는 까다로워요. 언제든 다시 도전할 수 있어요.",
+  "Cubaan yang bagus! Litar selari agak rumit, anda boleh cuba lagi pada bila-bila masa.",
+  "अच्छी कोशिश! समांतर परिपथ मुश्किल होते हैं, आप कभी भी दोबारा कोशिश कर सकते हैं।"
+ ],
+ "game.circuit_master_msg": [
+  "CIRCUIT MASTER! You cracked the parallel circuit!",
+  "电路大师！你攻克了并联电路！",
+  "회로 마스터! 병렬 회로를 해냈어요!",
+  "MAHIR LITAR! Anda berjaya menyelesaikan litar selari!",
+  "परिपथ मास्टर! आपने समांतर परिपथ बना लिया!"
+ ],
+ "game.circuit_wired_switch": [
+  "Circuit wired! Close the switch to test it.",
+  "电路接好了！合上开关来测试。",
+  "회로가 연결됐어요! 스위치를 닫아 테스트하세요.",
+  "Litar telah disambung! Tutup suis untuk mengujinya.",
+  "परिपथ जुड़ गया! जाँचने के लिए स्विच बंद करें।"
+ ],
+ "game.circuit_wired_live": [
+  "Circuit wired! Watch it go live.",
+  "电路接好了！看它通电。",
+  "회로가 연결됐어요! 전기가 들어오는 걸 보세요.",
+  "Litar telah disambung! Lihat ia mula berfungsi.",
+  "परिपथ जुड़ गया! इसे चालू होते देखें।"
+ ],
+ "game.circuit_no_connect": [
+  "Those two don't connect, check the circuit path.",
+  "这两个不能连接，检查一下电路的路径。",
+  "이 둘은 연결되지 않아요. 회로 경로를 확인해 보세요.",
+  "Kedua-duanya tidak bersambung, semak laluan litar.",
+  "ये दोनों नहीं जुड़ते, परिपथ का रास्ता जाँचें।"
+ ],
+ "game.circuit_on": [
+  "THE BULB IS ON! The circuit is complete, electrons are flowing!",
+  "灯亮了！电路完整了，电子正在流动！",
+  "전구가 켜졌어요! 회로가 완성돼서 전자가 흐르고 있어요!",
+  "MENTOL MENYALA! Litar sudah lengkap, elektron sedang mengalir!",
+  "बल्ब जल गया! परिपथ पूरा हो गया, इलेक्ट्रॉन बह रहे हैं!"
+ ],
+ "game.circuit_clean": [
+  "Zero wiring errors, engineer quality!",
+  "接线零错误，工程师水准！",
+  "배선 실수 0개, 엔지니어 수준이에요!",
+  "Sifar kesilapan pendawaian, mutu jurutera!",
+  "तारों में कोई गलती नहीं, इंजीनियर जैसा काम!"
+ ],
+ "game.firm_contact_warn": [
+  "Careful, make firm contact!",
+  "小心，要接触牢固！",
+  "조심하세요, 단단히 접촉시키세요!",
+  "Berhati-hati, pastikan sentuhan yang kukuh!",
+  "सावधान, संपर्क मज़बूत बनाएँ!"
+ ],
+ "game.read_needle": [
+  "Look again at exactly where the needle points.",
+  "再仔细看看指针到底指在哪里。",
+  "바늘이 정확히 어디를 가리키는지 다시 보세요.",
+  "Lihat sekali lagi dengan tepat di mana jarum menunjuk.",
+  "फिर से ठीक से देखें कि सुई कहाँ इशारा कर रही है।"
+ ],
+ "game.circuit_master_banner": [
+  "CIRCUIT MASTER!",
+  "电路大师！",
+  "회로 마스터!",
+  "MAHIR LITAR!",
+  "परिपथ मास्टर!"
+ ],
+ "game.tap_firm_contact": [
+  "Tap for firm contact!",
+  "点击以接触牢固！",
+  "눌러서 단단히 접촉시키세요!",
+  "Ketik untuk sentuhan yang kukuh!",
+  "मज़बूत संपर्क के लिए टैप करें!"
+ ],
+ "game.tap_switch_lever": [
+  "Tap the lever to flip the switch.",
+  "点击拨杆来拨动开关。",
+  "레버를 눌러 스위치를 켜고 끄세요.",
+  "Ketik tuil untuk menogol suis.",
+  "स्विच पलटने के लिए लीवर पर टैप करें।"
+ ],
+ "game.circuit_times_up": [
+  "Time's up! Resetting for another try...",
+  "时间到！正在重置，再试一次……",
+  "시간이 다 됐어요! 다시 도전할 수 있게 초기화하고 있어요...",
+  "Masa tamat! Menetapkan semula untuk cubaan lagi...",
+  "समय समाप्त! एक और कोशिश के लिए रीसेट हो रहा है..."
+ ],
+ "game.real_circuit": [
+  "Real Circuit",
+  "实物电路",
+  "실제 회로",
+  "Litar Sebenar",
+  "वास्तविक परिपथ"
+ ],
+ "game.circuit_diagram": [
+  "Circuit Diagram",
+  "电路图",
+  "회로도",
+  "Gambar Rajah Litar",
+  "परिपथ आरेख"
+ ]
+}

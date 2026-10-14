@@ -1,0 +1,37 @@
+{
+ "game.knot_thread": [
+  "Press the glowing ring to feed the string through it.",
+  "按下发光的圆环，让绳子穿过去。",
+  "빛나는 고리를 눌러 끈을 통과시키세요.",
+  "Tekan gelang yang bercahaya untuk memasukkan tali melaluinya.",
+  "चमकती हुई अंगूठी को दबाएँ ताकि डोरी उसमें से निकल जाए।"
+ ],
+ "game.knot_loop": [
+  "Now press the loose end to loop it over the string.",
+  "现在按下松开的绳头，让它绕过绳子打个圈。",
+  "이제 풀린 끝을 눌러 끈 위로 고리를 만드세요.",
+  "Sekarang tekan hujung yang longgar untuk membuat gelung di atas tali.",
+  "अब ढीले सिरे को दबाएँ ताकि वह डोरी के ऊपर से लूप बन जाए।"
+ ],
+ "game.knot_tighten": [
+  "Press the loop to pull the knot tight.",
+  "按下绳圈，把结拉紧。",
+  "고리를 눌러 매듭을 단단히 조이세요.",
+  "Tekan gelung untuk mengetatkan simpulan.",
+  "लूप को दबाएँ ताकि गाँठ कस जाए।"
+ ],
+ "game.knot_next_end": [
+  "The block's end is tied. Now do the same at the Newton meter's hook ring.",
+  "木块这一端系好了。现在在牛顿测力计的挂环上做同样的事。",
+  "블록 쪽 끝이 묶였어요. 이제 뉴턴 미터의 고리에서도 똑같이 하세요.",
+  "Hujung blok sudah diikat. Sekarang lakukan perkara yang sama pada gelang cangkuk meter Newton.",
+  "ब्लॉक वाला सिरा बँध गया। अब न्यूटन मीटर के हुक वाले छल्ले पर भी यही करें।"
+ ],
+ "game.knot_wrong": [
+  "Not there. Press the glowing spot.",
+  "不是那里。请按发光的位置。",
+  "거기가 아니에요. 빛나는 곳을 누르세요.",
+  "Bukan di situ. Tekan tempat yang bercahaya.",
+  "वहाँ नहीं। चमकते स्थान को दबाएँ।"
+ ]
+}

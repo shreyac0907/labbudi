@@ -1,0 +1,67 @@
+{
+ "scrap.title": ["Chemicals are everywhere!", "化学物质无处不在！", "화학 물질은 어디에나 있어요!", "Bahan kimia ada di mana-mana!", "रसायन हर जगह हैं!"],
+ "scrap.hint": [
+  "Tap each photo to see where you've seen it before.",
+  "点击每张照片，看看你在哪里见过它。",
+  "사진을 하나씩 눌러 어디서 본 적이 있는지 확인하세요.",
+  "Ketik setiap gambar untuk lihat di mana anda pernah melihatnya.",
+  "हर फ़ोटो पर टैप करें और देखें कि आपने इसे पहले कहाँ देखा है।"
+ ],
+ "scrap.journal_empty": [
+  "Tap a photo to write it into your scrapbook.",
+  "点击一张照片，把它写进你的剪贴簿。",
+  "사진을 눌러 스크랩북에 적어 보세요.",
+  "Ketik gambar untuk menulisnya dalam buku skrap anda.",
+  "अपनी स्क्रैपबुक में लिखने के लिए किसी फ़ोटो पर टैप करें।"
+ ],
+ "scrap.found": [
+  "{{n}} of {{total}} found",
+  "已找到 {{n}} / {{total}}",
+  "{{n}} / {{total}} 발견",
+  "{{n}} daripada {{total}} ditemui",
+  "{{n}} / {{total}} मिले"
+ ],
+ "scrap.ph": ["pH {{n}}", "pH {{n}}", "pH {{n}}", "pH {{n}}", "pH {{n}}"],
+ "scrap.credits": [
+  "Photos: Wikimedia Commons ({{names}})",
+  "照片：维基共享资源（{{names}}）",
+  "사진: 위키미디어 공용 ({{names}})",
+  "Foto: Wikimedia Commons ({{names}})",
+  "फ़ोटो: विकिमीडिया कॉमन्स ({{names}})"
+ ],
+ "scrap.note_lemon": [
+  "Lemon juice is a strong food acid, pH 2. You squeeze it over fish and pancakes and into lemonade, and the sour taste you get is the acid.",
+  "柠檬汁是一种较强的食用酸，pH 为 2。你会把它挤在鱼和煎饼上，或加进柠檬水里，那种酸味就来自酸。",
+  "레몬즙은 pH 2의 강한 식용 산이에요. 생선이나 팬케이크에 뿌리고 레모네이드에도 넣는데, 그 신맛이 바로 산이에요.",
+  "Jus lemon ialah asid makanan yang kuat, pH 2. Anda memerahnya ke atas ikan dan penkek serta ke dalam minuman limau, dan rasa masam yang anda rasa ialah asid itu.",
+  "नींबू का रस एक तेज़ खाद्य अम्ल है, pH 2। आप इसे मछली और पैनकेक पर निचोड़ते हैं और शिकंजी में डालते हैं, और उसका खट्टा स्वाद ही अम्ल है।"
+ ],
+ "scrap.note_vinegar": [
+  "Vinegar is a weak acid, pH 4. It gives chips and salad dressing their tang, cooks use it to pickle vegetables, and at home it dissolves limescale in kettles.",
+  "醋是一种弱酸，pH 为 4。它让薯条和沙拉酱有了酸爽的味道，厨师用它腌制蔬菜，在家里还能溶解水壶里的水垢。",
+  "식초는 pH 4의 약한 산이에요. 감자튀김과 샐러드 드레싱에 새콤한 맛을 더하고, 채소를 피클로 담글 때도 쓰며, 집에서는 주전자의 물때를 녹여 줘요.",
+  "Cuka ialah asid lemah, pH 4. Ia memberi rasa masam pada kerepek dan sos salad, tukang masak menggunakannya untuk menjeruk sayur, dan di rumah ia melarutkan kerak kapur dalam cerek.",
+  "सिरका एक दुर्बल अम्ल है, pH 4। यह चिप्स और सलाद ड्रेसिंग को चटपटा स्वाद देता है, रसोइये इससे सब्ज़ियों का अचार बनाते हैं, और घर में यह केतली की जमी हुई परत घोल देता है।"
+ ],
+ "scrap.note_water": [
+  "Pure water is neutral, pH 7. It is in every tap, bottle and puddle, and it is the reference point that every other pH is measured against.",
+  "纯水是中性的，pH 为 7。每个水龙头、水瓶和水坑里都有它，其他所有 pH 值都是以它为参照来衡量的。",
+  "순수한 물은 pH 7의 중성이에요. 수도꼭지와 물병, 물웅덩이 어디에나 있고, 다른 모든 pH는 물을 기준으로 재요.",
+  "Air tulen bersifat neutral, pH 7. Ia ada dalam setiap paip, botol dan lopak, dan ia menjadi titik rujukan untuk mengukur semua pH yang lain.",
+  "शुद्ध पानी उदासीन है, pH 7। यह हर नल, बोतल और गड्ढे में मिलता है, और बाकी सभी pH इसी के मुकाबले मापे जाते हैं।"
+ ],
+ "scrap.note_bicarb": [
+  "Bicarbonate of soda is a weak alkali, pH 8. It makes cakes rise in the oven, and many people use it to soften bad smells in the fridge or to settle an upset stomach.",
+  "小苏打是一种弱碱，pH 为 8。它能让蛋糕在烤箱里膨胀起来，很多人还用它来去除冰箱里的异味，或缓解胃部不适。",
+  "베이킹소다는 pH 8의 약한 알칼리예요. 오븐에서 케이크를 부풀게 하고, 냉장고의 나쁜 냄새를 줄이거나 속이 불편할 때 쓰는 사람도 많아요.",
+  "Soda bikarbonat ialah alkali lemah, pH 8. Ia membuat kek kembang dalam ketuhar, dan ramai orang menggunakannya untuk mengurangkan bau busuk dalam peti sejuk atau meredakan perut yang tidak selesa.",
+  "बेकिंग सोडा एक दुर्बल क्षार है, pH 8। यह ओवन में केक को फुलाता है, और बहुत से लोग इसे फ्रिज की बदबू कम करने या पेट की गड़बड़ी शांत करने के लिए इस्तेमाल करते हैं।"
+ ],
+ "scrap.note_bleach": [
+  "Bleach is a strong alkali, pH 13. It disinfects toilets and kitchen floors, but it burns skin, so always wear gloves and never mix it with other cleaning products.",
+  "漂白剂是一种强碱，pH 为 13。它可以给马桶和厨房地面消毒，但会灼伤皮肤，所以一定要戴手套，也绝不能和其他清洁产品混用。",
+  "표백제는 pH 13의 강한 알칼리예요. 변기와 부엌 바닥을 소독하지만 피부를 태울 수 있으니, 꼭 장갑을 끼고 다른 청소 제품과 절대 섞지 마세요.",
+  "Peluntur ialah alkali kuat, pH 13. Ia membasmi kuman pada tandas dan lantai dapur, tetapi ia membakar kulit, jadi sentiasa pakai sarung tangan dan jangan sekali-kali campurkannya dengan produk pembersih lain.",
+  "ब्लीच एक प्रबल क्षार है, pH 13। यह शौचालय और रसोई के फ़र्श को कीटाणुमुक्त करता है, लेकिन त्वचा जला देता है, इसलिए हमेशा दस्ताने पहनें और इसे कभी दूसरे सफ़ाई उत्पादों के साथ न मिलाएँ।"
+ ]
+}

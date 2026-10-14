@@ -1,0 +1,23 @@
+{
+ "game.circuit_all_placed": [
+  "All placed! Now drag from one glowing connector to the next to join them with a wire.",
+  "全部放好了！现在从一个发光的接线柱拖到下一个，用导线把它们连起来。",
+  "모두 놓았어요! 이제 빛나는 연결 단자에서 다음 단자로 끌어서 전선으로 이어 주세요.",
+  "Semua sudah diletakkan! Sekarang seret dari satu penyambung yang bercahaya ke yang seterusnya untuk menyambungkannya dengan wayar.",
+  "सब रख दिया! अब एक चमकते कनेक्टर से अगले कनेक्टर तक खींचकर तार से उन्हें जोड़ें।"
+ ],
+ "game.circuit_wrong_spot": [
+  "That spot is for the {{label}}. Drag this part to its own dashed spot.",
+  "那个位置是给{{label}}的。请把这个元件拖到它自己的虚线位置。",
+  "그 자리는 {{label}}의 자리예요. 이 부품은 자기 점선 자리로 끌어 주세요.",
+  "Tempat itu untuk {{label}}. Seret bahagian ini ke tempat bergarisnya sendiri.",
+  "वह जगह {{label}} की है। इस हिस्से को उसकी अपनी बिंदीदार जगह पर खींचें।"
+ ],
+ "game.circuit_drop_hint": [
+  "Drag the part onto its dashed spot.",
+  "把元件拖到它的虚线位置上。",
+  "부품을 점선 자리로 끌어 놓으세요.",
+  "Seret bahagian itu ke tempat bergarisnya.",
+  "हिस्से को उसकी बिंदीदार जगह पर खींचें।"
+ ]
+}

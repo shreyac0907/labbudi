@@ -1,0 +1,51 @@
+{
+ "game.ms_focus_first": [
+  "It's centred, but still blurry. Turn the fine focus knob until the cells are sharp.",
+  "细胞已经居中，但还是模糊的。转动细调焦旋钮，直到细胞变清晰。",
+  "가운데에 왔지만 아직 흐려요. 세포가 선명해질 때까지 미세 초점 손잡이를 돌리세요.",
+  "Sudah di tengah, tetapi masih kabur. Pusing tombol fokus halus sehingga sel jelas.",
+  "बीच में आ गई है, पर अभी धुँधली है। कोशिकाएँ साफ़ होने तक महीन फ़ोकस घुंडी घुमाएँ।"
+ ],
+ "game.mic_in_focus": [
+  "In focus",
+  "清晰",
+  "선명함",
+  "Jelas",
+  "साफ़"
+ ],
+ "game.mic_blurry": [
+  "Blurry",
+  "模糊",
+  "흐림",
+  "Kabur",
+  "धुँधला"
+ ],
+ "game.lens_chart": [
+  "Objective lenses",
+  "物镜",
+  "대물렌즈",
+  "Kanta objektif",
+  "अभिदृश्यक लेंस"
+ ],
+ "game.lens_low": [
+  "Low power",
+  "低倍",
+  "저배율",
+  "Kuasa rendah",
+  "कम क्षमता"
+ ],
+ "game.lens_med": [
+  "Medium power",
+  "中倍",
+  "중배율",
+  "Kuasa sederhana",
+  "मध्यम क्षमता"
+ ],
+ "game.lens_high": [
+  "High power",
+  "高倍",
+  "고배율",
+  "Kuasa tinggi",
+  "अधिक क्षमता"
+ ]
+}

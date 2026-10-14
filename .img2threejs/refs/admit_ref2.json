@@ -1,0 +1,14 @@
+{
+  "admitted": true,
+  "reasons": [],
+  "provenance": {
+    "viewpoint": "lab_use_detail",
+    "sourcePath": "/Users/shreya/Desktop/a-microscope-set-up-in-a-school-science-lab-to-look-at-a-sample-S477JE.jpg",
+    "width": 974,
+    "height": 1390,
+    "foregroundCoverage": 0.7319,
+    "largestComponentFraction": 0.9898,
+    "pHash": 16929589245493117136,
+    "duplicateOfHash": null
+  }
+}

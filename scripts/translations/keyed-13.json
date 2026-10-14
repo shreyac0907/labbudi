@@ -1,0 +1,37 @@
+{
+ "nav.home_page": [
+  "Home\nPage",
+  "主页",
+  "홈 페이지",
+  "Laman\nUtama",
+  "होम\nपेज"
+ ],
+ "nav.change_language": [
+  "Change\nLanguage",
+  "更改语言",
+  "언어 변경",
+  "Tukar\nBahasa",
+  "भाषा\nबदलें"
+ ],
+ "nav.our_mission": [
+  "Our\nMission",
+  "我们的使命",
+  "우리의 미션",
+  "Misi\nKami",
+  "हमारा\nमिशन"
+ ],
+ "nav.main_aria": [
+  "Main navigation",
+  "主导航",
+  "메인 내비게이션",
+  "Navigasi utama",
+  "मुख्य नेविगेशन"
+ ],
+ "nav.copyright": [
+  "© 2026 LabBudi.\nCreated & Founded\nby Shreya Challagali.\nAll Rights Reserved.",
+  "© 2026 LabBudi。\n由 Shreya Challagali\n创建并创立。\n保留所有权利。",
+  "© 2026 LabBudi.\nShreya Challagali가\n만들고 설립했어요.\n모든 권리 보유.",
+  "© 2026 LabBudi.\nDicipta & Diasaskan\noleh Shreya Challagali.\nHak Cipta Terpelihara.",
+  "© 2026 LabBudi.\nShreya Challagali द्वारा\nनिर्मित एवं स्थापित।\nसर्वाधिकार सुरक्षित।"
+ ]
+}

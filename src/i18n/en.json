@@ -1,0 +1,58 @@
+{
+  "home": {
+    "subtext": "Discover science through play — in your language.",
+    "startButton": "Let's Start!"
+  },
+  "nav": {
+    "ourMission": "Our Mission",
+    "changeLanguage": "Change Language"
+  },
+  "yearSelect": {
+    "meetCrew": "Meet the crew",
+    "y7Label": "Year 7",
+    "y7Sub": "Ages 10–11",
+    "y8Label": "Year 8",
+    "y8Sub": "Ages 11–12",
+    "y9Label": "Year 9",
+    "y9Sub": "Ages 13–14"
+  },
+  "characters": {
+    "pip": {
+      "name": "Pip",
+      "intro": "Hi! I'm Pip. I ask all the questions — even the embarrassing ones!"
+    },
+    "lili": {
+      "name": "Lili",
+      "intro": "I'm Lili. I have notes on everything. Including this introduction."
+    },
+    "madu": {
+      "name": "Madu",
+      "intro": "MADU! Did you know honey never expires? Anyway — science!"
+    },
+    "lumi": {
+      "name": "Lumi",
+      "intro": "Lumi. I'll be here when things get interesting."
+    }
+  },
+  "notebook": {
+    "practicalsTitle": "{{year}} Practicals",
+    "start": "Start",
+    "comingSoon": "Coming soon!"
+  },
+  "mission": {
+    "heading1": "Why I built LabBudi",
+    "quote": "I'm a student too. I built LabBudi because I kept thinking about all the science I got to do with my own hands — mixing colours that shouldn't mix, watching a flame turn green, finally understanding why a spring stretches the way it does — and how much of that depends on something as simple as which school you happened to be born near.",
+    "body1": "Not every student gets a lab. Not every student gets equipment, or a teacher with time to demonstrate, or instructions written in the language they think in. In Malaysia, where so many of us grow up speaking Mandarin at home, or Tamil, or Malay, or Korean, or Hindi, English-only science can mean the idea gets lost before the experiment even starts. That always felt backwards to me — the chemistry doesn't care what language you learned it in, so why should access to it?",
+    "body2": "LabBudi started as a question: what if the lab could come to you? Not a video of someone else doing the experiment. Not a worksheet. An actual, hands-on, drag-and-pour, watch-it-change, mess-it-up-and-try-again lab — drawn like a storybook, narrated by characters who get just as excited as you do, available in the language that makes the most sense to your brain.",
+    "body3": "Pip, Lili, Madu, and Lumi are a little bit me and a little bit every student I've ever watched light up over something they finally understood. They ask the questions out loud so you don't have to feel silly asking them yourself. They mess up sometimes too — on purpose, because messing up is half of how science actually works.",
+    "heading2": "What we hope LabBudi does",
+    "body4": "We hope a student in an NGO learning centre who has never held a real Bunsen burner gets to feel what it's like to light one, safely, and watch copper sulfate turn from blue to white right in front of them — and understand, properly understand, why.",
+    "body5": "We hope a student whose first language isn't English stops feeling like science is something happening in a language just out of reach, and starts feeling like it's something that belongs to them too.",
+    "body6": "We hope every practical on this platform — all fifteen of them, across three year groups — gives a student the same thing a real lab gives: the chance to be curious, to get it wrong, to try again, and to walk away actually understanding something about how the world works.",
+    "heading3": "Who this is for",
+    "body7": "LabBudi is built for Year 7 to Year 9 students in Malaysia — in international schools, national schools, and NGO education centres alike. It follows both the UK KS3 curriculum and Malaysia's KSSM, with our Year 9 content matched to Pearson Edexcel IGCSE level, so the science here isn't a simplified version of the real thing. It's the real thing, just drawn a little more like a children's book and a little more in your language.",
+    "heading4": "LabBudi will always be free",
+    "body8": "This platform exists because we believe access to practical science shouldn't depend on your postcode or your bank account. LabBudi is built to run on the smallest budget possible — and any grant funding we receive goes toward making the content richer, the languages more complete, and the reach wider. It will never charge students. It will never put content behind a paywall. That's not a promise we're making lightly — it's the entire reason this exists.",
+    "cta": "Back to the lab →"
+  }
+}

@@ -1,0 +1,4 @@
+{
+ "game.circuit_main_wire": ["Main loop", "主回路", "주 회로", "Gelung utama", "मुख्य लूप"],
+ "game.circuit_parallel_wire": ["Parallel branch", "并联支路", "병렬 가지", "Cabang selari", "समानांतर शाखा"]
+}

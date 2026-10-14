@@ -1,0 +1,135 @@
+{
+ "game.go": [
+  "Go →",
+  "开始 →",
+  "시작 →",
+  "Mula →",
+  "चलें →"
+ ],
+ "overworld.pip_bubble": [
+  "Who are we?",
+  "我们是谁？",
+  "우리는 누구일까요?",
+  "Siapa kami?",
+  "हम कौन हैं?"
+ ],
+ "overworld.coming_soon_blurb": [
+  "We're still planting the seeds for this year's garden. Come back soon.",
+  "我们还在为今年的花园播种。请过一阵再来看看。",
+  "올해의 정원에 아직 씨앗을 심고 있어요. 곧 다시 와 주세요.",
+  "Kami masih menyemai benih untuk taman tahun ini. Datang semula tidak lama lagi.",
+  "हम इस साल के बगीचे के लिए अभी बीज बो रहे हैं। जल्द ही फिर आइए।"
+ ],
+ "overworld.map_alt": [
+  "Year 7: Lab World",
+  "七年级：实验世界",
+  "7학년: 실험실 세계",
+  "Tingkatan 1: Dunia Makmal",
+  "कक्षा 7: प्रयोगशाला की दुनिया"
+ ],
+ "results.no_results": [
+  "No results yet for this practical.",
+  "这个实验还没有结果。",
+  "이 실험은 아직 결과가 없어요.",
+  "Belum ada keputusan untuk amali ini.",
+  "इस प्रयोग का अभी कोई परिणाम नहीं है।"
+ ],
+ "results.new_best": [
+  "New best! (previous: {{prev}})",
+  "新纪录！（之前：{{prev}}）",
+  "새 최고 기록! (이전: {{prev}})",
+  "Rekod baharu! (sebelum ini: {{prev}})",
+  "नया सर्वश्रेष्ठ! (पिछला: {{prev}})"
+ ],
+ "results.daily_still": [
+  "Daily Challenge: best is still {{prev}}. Give it another go!",
+  "每日挑战：最高分仍是{{prev}}。再试一次吧！",
+  "데일리 챌린지: 최고 기록은 아직 {{prev}}이에요. 다시 도전해 보세요!",
+  "Cabaran Harian: skor terbaik masih {{prev}}. Cuba sekali lagi!",
+  "दैनिक चुनौती: सर्वश्रेष्ठ अभी भी {{prev}} है। एक बार और कोशिश करें!"
+ ],
+ "roadmap.not_built": [
+  "This practical isn't built yet.",
+  "这个实验还没有做好。",
+  "이 실험은 아직 만들어지지 않았어요.",
+  "Amali ini belum dibina.",
+  "यह प्रयोग अभी बना नहीं है।"
+ ],
+ "roadmap.view_results": [
+  "View Results",
+  "查看结果",
+  "결과 보기",
+  "Lihat Keputusan",
+  "परिणाम देखें"
+ ],
+ "checkpoint.not_available": [
+  "This checkpoint isn't available.",
+  "这个检查点暂时无法使用。",
+  "이 체크포인트는 사용할 수 없어요.",
+  "Pusat pemeriksaan ini tidak tersedia.",
+  "यह चेकपॉइंट उपलब्ध नहीं है।"
+ ],
+ "checkpoint.complete": [
+  "{{name}}: Complete!",
+  "{{name}}：完成！",
+  "{{name}}: 완료!",
+  "{{name}}: Selesai!",
+  "{{name}}: पूरा हुआ!"
+ ],
+ "nav.home_aria": [
+  "LabBudi home",
+  "LabBudi 首页",
+  "LabBudi 홈",
+  "Laman utama LabBudi",
+  "LabBudi होम"
+ ],
+ "nav.menu_aria": [
+  "Menu",
+  "菜单",
+  "메뉴",
+  "Menu",
+  "मेनू"
+ ],
+ "mission.footer_title": [
+  "LabBudi footer",
+  "LabBudi 页脚",
+  "LabBudi 푸터",
+  "Pengaki LabBudi",
+  "LabBudi फ़ुटर"
+ ],
+ "language.english_sub": [
+  "(English)",
+  "（英语）",
+  "(영어)",
+  "(Inggeris)",
+  "(अंग्रेज़ी)"
+ ],
+ "language.mandarin_sub": [
+  "(Mandarin)",
+  "（普通话）",
+  "(중국어)",
+  "(Mandarin)",
+  "(मंदारिन)"
+ ],
+ "language.korean_sub": [
+  "(Korean)",
+  "（韩语）",
+  "(한국어)",
+  "(Korea)",
+  "(कोरियाई)"
+ ],
+ "language.malay_sub": [
+  "(Malay)",
+  "（马来语）",
+  "(말레이어)",
+  "(Bahasa Melayu)",
+  "(मलय)"
+ ],
+ "language.hindi_sub": [
+  "(Hindi)",
+  "（印地语）",
+  "(힌디어)",
+  "(Hindi)",
+  "(हिन्दी)"
+ ]
+}

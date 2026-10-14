@@ -1,0 +1,16 @@
+{
+ "nav.back": [
+  "Back",
+  "返回",
+  "뒤로",
+  "Kembali",
+  "वापस"
+ ],
+ "nav.back_aria": [
+  "Go back",
+  "返回上一页",
+  "이전 화면으로 돌아가기",
+  "Kembali ke halaman sebelumnya",
+  "पिछले पेज पर वापस जाएँ"
+ ]
+}

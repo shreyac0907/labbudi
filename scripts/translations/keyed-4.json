@@ -1,0 +1,170 @@
+{
+ "game.pipette_full": [
+  "The pipette is full! Now drag it above the test tube and squeeze.",
+  "移液管满了！现在把它拖到试管上方，然后挤压。",
+  "피펫이 가득 찼어요! 이제 시험관 위로 끌어다 놓고 짜 보세요.",
+  "Pipet sudah penuh! Sekarang seret ke atas tabung uji dan picit.",
+  "पिपेट भर गया! अब इसे परखनली के ऊपर खींचकर ले जाएँ और दबाएँ।"
+ ],
+ "game.pipette_hold_longer": [
+  "Hold a little longer to draw more up!",
+  "再多按住一会儿，多吸一点！",
+  "조금 더 오래 눌러 더 빨아올리세요!",
+  "Tahan sedikit lebih lama untuk menyedut lebih banyak!",
+  "और ऊपर खींचने के लिए थोड़ी देर और दबाए रखें!"
+ ],
+ "game.pipette_hint": [
+  "Hold the bulb to draw up the {{indicator}}",
+  "按住橡胶球，吸取{{indicator}}",
+  "고무공을 눌러 {{indicator}}을(를) 빨아올리세요",
+  "Tahan bebuli untuk menyedut {{indicator}}",
+  "{{indicator}} खींचने के लिए बल्ब को दबाए रखें"
+ ],
+ "game.protractor_notquite": [
+  "Not quite, reach {{angle}}° on the protractor.",
+  "还不对，让量角器指到{{angle}}°。",
+  "아직이에요, 각도기에서 {{angle}}°에 맞추세요.",
+  "Belum tepat, capai {{angle}}° pada protraktor.",
+  "अभी नहीं, चाँदे पर {{angle}}° तक पहुँचें।"
+ ],
+ "game.confirmed_check": [
+  "Confirmed ✓",
+  "已确认 ✓",
+  "확인됨 ✓",
+  "Disahkan ✓",
+  "पुष्टि हुई ✓"
+ ],
+ "game.confirm_angle_check": [
+  "Confirm angle ✓",
+  "确认角度 ✓",
+  "각도 확인 ✓",
+  "Sahkan sudut ✓",
+  "कोण की पुष्टि करें ✓"
+ ],
+ "game.confirm_angle": [
+  "Confirm angle",
+  "确认角度",
+  "각도 확인",
+  "Sahkan sudut",
+  "कोण की पुष्टि करें"
+ ],
+ "game.textbook_accuracy": [
+  "That's textbook accuracy!",
+  "简直是教科书般的精确！",
+  "교과서 같은 정확도예요!",
+  "Itulah ketepatan buku teks!",
+  "यह तो पाठ्यपुस्तक जैसी सटीकता है!"
+ ],
+ "game.your_angle": [
+  "{{angle}}°! That's your angle.",
+  "{{angle}}°！这就是你的角度。",
+  "{{angle}}°! 이게 여러분의 각도예요.",
+  "{{angle}}°! Itulah sudut anda.",
+  "{{angle}}°! यही आपका कोण है।"
+ ],
+ "game.locked_in": [
+  "Locked in!",
+  "已锁定！",
+  "고정됐어요!",
+  "Dikunci!",
+  "लॉक हो गया!"
+ ],
+ "game.drag_ramp_handle": [
+  "Drag the handle at the top of the ramp",
+  "拖动斜面顶端的把手",
+  "경사면 맨 위의 손잡이를 끌어 보세요",
+  "Seret pemegang di bahagian atas satah condong",
+  "आनत तल के ऊपरी हिस्से का हैंडल खींचें"
+ ],
+ "game.water_loaded": [
+  "Water loaded, drag it above the dish and squeeze.",
+  "水已吸好，把它拖到蒸发皿上方并挤压。",
+  "물을 채웠어요, 접시 위로 끌어다 놓고 짜세요.",
+  "Air telah dimuatkan, seret ke atas mangkuk dan picit.",
+  "पानी भर गया, इसे प्याली के ऊपर खींचकर दबाएँ।"
+ ],
+ "game.aim_dish": [
+  "Aim above the evaporating dish!",
+  "对准蒸发皿的上方！",
+  "증발 접시 위를 겨냥하세요!",
+  "Bidik di atas mangkuk penyejat!",
+  "वाष्पन प्याली के ऊपर निशाना लगाएँ!"
+ ],
+ "game.blue_again": [
+  "IT'S BLUE AGAIN! Reversible. Physical change confirmed!",
+  "又变蓝了！可逆。确认是物理变化！",
+  "다시 파래졌어요! 가역적이에요. 물리적 변화가 확인됐어요!",
+  "IA BIRU SEMULA! Boleh balik. Perubahan fizikal disahkan!",
+  "फिर से नीला हो गया! उत्क्रमणीय। भौतिक परिवर्तन की पुष्टि हुई!"
+ ],
+ "game.drag_circle_rotate": [
+  "Drag in a circle to rotate",
+  "沿圆圈拖动来旋转",
+  "원을 그리며 끌어서 돌리세요",
+  "Seret secara membulat untuk memutar",
+  "घुमाने के लिए गोल घेरे में खींचें"
+ ],
+ "game.natural_talent": [
+  "Natural microscopy talent!",
+  "天生的显微镜操作天赋！",
+  "타고난 현미경 실력이에요!",
+  "Bakat semula jadi dalam mikroskopi!",
+  "सूक्ष्मदर्शी का स्वाभाविक हुनर!"
+ ],
+ "game.still_blurry_knob": [
+  "Still blurry, keep turning the knob.",
+  "还是模糊的，继续转动旋钮。",
+  "아직 흐릿해요, 나사를 계속 돌리세요.",
+  "Masih kabur, teruskan memutar tombol.",
+  "अभी भी धुँधला है, नॉब को घुमाते रहें।"
+ ],
+ "game.drag_to_focus": [
+  "Drag to focus",
+  "拖动来对焦",
+  "끌어서 초점 맞추기",
+  "Seret untuk fokus",
+  "फ़ोकस करने के लिए खींचें"
+ ],
+ "game.tap_first": [
+  "Tap \"{{label}}\" first.",
+  "请先点击“{{label}}”。",
+  "먼저 “{{label}}”을(를) 누르세요.",
+  "Ketik “{{label}}” dahulu.",
+  "पहले “{{label}}” पर टैप करें।"
+ ],
+ "game.quick_next": [
+  "Quick! Next one!",
+  "快！下一个！",
+  "빨리! 다음 거요!",
+  "Cepat! Yang seterusnya!",
+  "जल्दी! अगला!"
+ ],
+ "game.quick_champion_msg": [
+  "QUICK FIRE CHAMPION! You beat the clock!",
+  "快速挑战冠军！你战胜了时间！",
+  "번개 라운드 챔피언! 시간을 이겼어요!",
+  "JUARA CABARAN PANTAS! Anda mengalahkan masa!",
+  "तेज़ राउंड चैंपियन! आपने घड़ी को हरा दिया!"
+ ],
+ "game.quick_champion_banner": [
+  "QUICK FIRE CHAMPION!",
+  "快速挑战冠军！",
+  "번개 라운드 챔피언!",
+  "JUARA CABARAN PANTAS!",
+  "तेज़ राउंड चैंपियन!"
+ ],
+ "game.all5_pulled": [
+  "All 5 pulled, nice work!",
+  "5次都拉完了，干得好！",
+  "5번 모두 당겼어요, 잘했어요!",
+  "Kesemua 5 ditarik, syabas!",
+  "सभी 5 खींच लिए, बढ़िया काम!"
+ ],
+ "game.times_up_practice": [
+  "Time's up! You'll get faster with practice.",
+  "时间到！多练习就会更快。",
+  "시간이 다 됐어요! 연습하면 더 빨라질 거예요.",
+  "Masa tamat! Anda akan jadi lebih pantas dengan latihan.",
+  "समय समाप्त! अभ्यास से आप और तेज़ हो जाएँगे।"
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "mission.tagline": [
+  "A garden for curious minds.",
+  "好奇心的花园",
+  "호기심 있는 마음을 위한 정원",
+  "Taman untuk minda yang ingin tahu",
+  "जिज्ञासु मन के लिए एक बगीचा"
+ ],
+ "mission.scroll_hint": [
+  "Scroll to read",
+  "向下滚动阅读",
+  "스크롤하여 읽기",
+  "Tatal untuk membaca",
+  "पढ़ने के लिए स्क्रॉल करें"
+ ],
+ "mission.block1": [
+  "LabBudi is a <blue>virtual</blue> app platform that attempts to turn practical science into something students can explore.<br/>This web app is a videogame-inspired, <green>interactive</green> virtual laboratory hosting a collection of these simulations, initially centred around <amber>iGCSE</amber> practicals for students aged 11 to 14.<br/>Students can handle virtual equipment, change variables, make observations and work with real scientific datasets, while receiving feedback as they experiment.<br/>The platform is being developed in <blue>multiple languages</blue> to reduce the <coral>language barrier</coral>, and its interface draws from the things that first made learning feel exciting to me: <amber>children's books</amber>, <amber>engaging illustrations</amber> and <amber>interactive games</amber>.",
+  "LabBudi 是一个<blue>虚拟</blue>应用平台，希望把实践科学变成学生可以亲自探索的东西。<br/>这个网页应用是受电子游戏启发的<green>互动</green>虚拟实验室，收录了一系列这样的模拟实验，最初围绕面向11至14岁学生的<amber>iGCSE</amber>实验展开。<br/>学生可以操作虚拟器材、改变变量、进行观察，并使用真实的科学数据集，同时在实验过程中获得反馈。<br/>这个平台正在以<blue>多种语言</blue>开发，以减少<coral>语言障碍</coral>，它的界面灵感来自最初让我觉得学习令人兴奋的东西：<amber>儿童读物</amber>、<amber>引人入胜的插画</amber>和<amber>互动游戏</amber>。",
+  "LabBudi는 실습 과학을 학생들이 직접 탐험할 수 있는 것으로 바꿔 보려는 <blue>가상</blue> 앱 플랫폼이에요.<br/>이 웹 앱은 비디오 게임에서 영감을 받은 <green>인터랙티브</green> 가상 실험실로, 이런 시뮬레이션을 모아 두었고, 처음에는 11세에서 14세 학생을 위한 <amber>iGCSE</amber> 실습을 중심으로 만들었어요.<br/>학생들은 가상 실험 기구를 다루고, 변수를 바꾸고, 관찰하고, 실제 과학 데이터 세트로 작업하면서 실험하는 동안 피드백을 받을 수 있어요.<br/>이 플랫폼은 <coral>언어 장벽</coral>을 줄이기 위해 <blue>여러 언어</blue>로 개발되고 있으며, 인터페이스는 배움이 처음으로 신나게 느껴지게 해 준 것들, 즉 <amber>어린이 책</amber>, <amber>매력적인 일러스트</amber>, <amber>인터랙티브 게임</amber>에서 영감을 얻었어요.",
+  "LabBudi ialah platform aplikasi <blue>maya</blue> yang cuba menjadikan sains amali sesuatu yang boleh diterokai oleh pelajar.<br/>Aplikasi web ini ialah makmal maya <green>interaktif</green> yang diilhamkan oleh permainan video, menempatkan koleksi simulasi ini, pada mulanya berpusat pada amali <amber>iGCSE</amber> untuk pelajar berumur 11 hingga 14 tahun.<br/>Pelajar boleh mengendalikan peralatan maya, menukar pemboleh ubah, membuat pemerhatian dan bekerja dengan set data saintifik sebenar, sambil menerima maklum balas semasa mereka bereksperimen.<br/>Platform ini sedang dibangunkan dalam <blue>pelbagai bahasa</blue> untuk mengurangkan <coral>halangan bahasa</coral>, dan antara mukanya mengambil inspirasi daripada perkara yang mula-mula membuatkan pembelajaran terasa menarik bagi saya: <amber>buku kanak-kanak</amber>, <amber>ilustrasi yang menarik</amber> dan <amber>permainan interaktif</amber>.",
+  "LabBudi एक <blue>आभासी</blue> ऐप प्लेटफ़ॉर्म है जो प्रयोगात्मक विज्ञान को ऐसी चीज़ में बदलने की कोशिश करता है जिसे विद्यार्थी खुद खोज सकें।<br/>यह वेब ऐप वीडियो गेम से प्रेरित एक <green>इंटरैक्टिव</green> आभासी प्रयोगशाला है, जिसमें ऐसे सिमुलेशन का संग्रह है, और शुरुआत में यह 11 से 14 साल के विद्यार्थियों के लिए <amber>iGCSE</amber> प्रयोगों पर केंद्रित है।<br/>विद्यार्थी आभासी उपकरण संभाल सकते हैं, चर बदल सकते हैं, अवलोकन कर सकते हैं और वास्तविक वैज्ञानिक डेटासेट के साथ काम कर सकते हैं, और प्रयोग करते समय उन्हें प्रतिक्रिया भी मिलती है।<br/>इस प्लेटफ़ॉर्म को <coral>भाषा की बाधा</coral> कम करने के लिए <blue>कई भाषाओं में</blue> विकसित किया जा रहा है, और इसका इंटरफ़ेस उन चीज़ों से प्रेरित है जिनकी वजह से मुझे सबसे पहले सीखना रोमांचक लगा: <amber>बच्चों की किताबें</amber>, <amber>आकर्षक चित्र</amber> और <amber>इंटरैक्टिव खेल</amber>।"
+ ],
+ "mission.block2": [
+  "The goal is for each practical to feel like entering a little world of its own. A student might follow an illustrated trail into a virtual laboratory, uncover an experiment through a <green>storybook-like</green> interface, interact with equipment through play and discover the scientific reasoning behind their results. The goal is not to turn science into a game for the sake of being entertaining; it is to use interaction to make understanding active. I believe that students should be able to try something, <coral>get it wrong</coral>, <amber>wonder why</amber>, and <green>try again</green>.",
+  "目标是让每个实验都像走进一个属于它自己的小世界。学生可能会沿着一条插画小径走进虚拟实验室，通过<green>故事书般</green>的界面揭开一个实验，在玩耍中与器材互动，并发现结果背后的科学道理。我们的目标不是为了好玩而把科学变成游戏；而是用互动让理解变得主动。我相信学生应该能够尝试一些事情，<coral>犯错</coral>，<amber>想想为什么</amber>，然后<green>再试一次</green>。",
+  "목표는 각 실험이 저마다의 작은 세계에 들어서는 것처럼 느껴지게 하는 거예요. 학생은 그림이 있는 오솔길을 따라 가상 실험실로 들어가서, <green>동화책 같은</green> 인터페이스로 실험을 알아내고, 놀이를 통해 기구와 상호작용하며, 결과 뒤에 있는 과학적 원리를 발견할 수 있어요. 목표는 재미를 위해 과학을 게임으로 만드는 것이 아니에요. 상호작용으로 이해를 능동적으로 만드는 것이에요. 저는 학생들이 무언가를 시도하고, <coral>틀려 보고</coral>, <amber>왜 그런지 궁금해하고</amber>, <green>다시 시도할</green> 수 있어야 한다고 믿어요.",
+  "Matlamatnya ialah supaya setiap amali terasa seperti memasuki dunia kecilnya sendiri. Seorang pelajar mungkin mengikuti denai berilustrasi ke dalam makmal maya, menyingkap sesuatu eksperimen melalui antara muka yang <green>seperti buku cerita</green>, berinteraksi dengan peralatan melalui permainan dan menemui sebab saintifik di sebalik keputusan mereka. Matlamatnya bukan untuk menjadikan sains sebagai permainan semata-mata supaya menghiburkan; ia adalah menggunakan interaksi untuk menjadikan pemahaman aktif. Saya percaya pelajar patut dapat mencuba sesuatu, <coral>tersilap</coral>, <amber>tertanya-tanya mengapa</amber>, dan <green>mencuba lagi</green>.",
+  "लक्ष्य यह है कि हर प्रयोग अपनी एक छोटी-सी दुनिया में कदम रखने जैसा लगे। एक विद्यार्थी चित्रों से सजी पगडंडी पर चलकर किसी आभासी प्रयोगशाला में पहुँच सकता है, <green>कहानी की किताब जैसे</green> इंटरफ़ेस से कोई प्रयोग खोल सकता है, खेल-खेल में उपकरणों के साथ जुड़ सकता है और अपने परिणामों के पीछे का वैज्ञानिक तर्क खोज सकता है। लक्ष्य मनोरंजन के लिए विज्ञान को खेल बना देना नहीं है; बल्कि सहभागिता के ज़रिए समझ को सक्रिय बनाना है। मेरा मानना है कि विद्यार्थियों को कुछ आज़माने, <coral>गलती करने</coral>, <amber>सोचने कि ऐसा क्यों हुआ</amber>, और <green>फिर से कोशिश करने</green> का मौका मिलना चाहिए।"
+ ],
+ "mission.block3_s1": [
+  "I first began thinking about barriers to understanding when I started my own science club.",
+  "当我创办自己的科学社团时，我第一次开始思考理解上的障碍。",
+  "저는 제 과학 동아리를 시작하면서 이해를 가로막는 장벽에 대해 처음 생각하기 시작했어요.",
+  "Saya mula memikirkan halangan kepada pemahaman apabila saya memulakan kelab sains saya sendiri.",
+  "मैंने समझ में आने वाली बाधाओं के बारे में तब पहली बार सोचना शुरू किया जब मैंने अपना खुद का विज्ञान क्लब शुरू किया।"
+ ],
+ "mission.block3_s2": [
+  "As I mentored younger students and watched the international student population grow, I began noticing how <coral>language</coral> could become a <coral>barrier</coral> to science itself.",
+  "当我指导年纪更小的学生，并看着国际学生越来越多时，我开始注意到<coral>语言</coral>如何成为通往科学本身的<coral>障碍</coral>。",
+  "어린 학생들을 지도하고 국제 학생이 늘어나는 걸 지켜보면서, <coral>언어</coral>가 과학 자체에 이르는 <coral>장벽</coral>이 될 수 있다는 걸 알아차리기 시작했어요.",
+  "Semasa saya membimbing pelajar yang lebih muda dan melihat bilangan pelajar antarabangsa bertambah, saya mula menyedari bagaimana <coral>bahasa</coral> boleh menjadi <coral>halangan</coral> kepada sains itu sendiri.",
+  "जब मैंने छोटे विद्यार्थियों का मार्गदर्शन किया और अंतरराष्ट्रीय विद्यार्थियों की संख्या बढ़ते देखी, तो मैंने देखना शुरू किया कि <coral>भाषा</coral> कैसे स्वयं विज्ञान के लिए एक <coral>बाधा</coral> बन सकती है।"
+ ],
+ "mission.block3_s3": [
+  "A student could be curious, capable and excited to learn, yet still struggle to understand a practical simply because the instructions were not in a language they were fully comfortable with.",
+  "一个学生可能充满好奇、能力出众、渴望学习，却仍然很难理解一个实验，仅仅因为说明不是用他们完全熟悉的语言写的。",
+  "학생이 호기심 많고, 능력 있고, 배우고 싶어 신이 나 있어도, 안내문이 완전히 편하게 읽을 수 있는 언어로 되어 있지 않다는 이유만으로 실험을 이해하는 데 어려움을 겪을 수 있어요.",
+  "Seorang pelajar mungkin ingin tahu, berkebolehan dan teruja untuk belajar, namun masih sukar memahami sesuatu amali hanya kerana arahannya tidak dalam bahasa yang mereka selesa sepenuhnya.",
+  "कोई विद्यार्थी जिज्ञासु, सक्षम और सीखने को उत्साहित हो सकता है, फिर भी किसी प्रयोग को समझने में सिर्फ़ इसलिए जूझ सकता है क्योंकि निर्देश उस भाषा में नहीं थे जिसमें वह पूरी तरह सहज हो।"
+ ],
+ "mission.block3_s4": [
+  "Sometimes, the hardest part of learning science is not the science itself, but being given a way to access it.",
+  "有时候，学习科学最难的部分并不是科学本身，而是得到一条能够接触科学的途径。",
+  "때로는 과학을 배우는 데 가장 어려운 부분이 과학 자체가 아니라, 과학에 다가갈 방법을 얻는 것이에요.",
+  "Kadangkala, bahagian paling sukar dalam mempelajari sains bukanlah sains itu sendiri, tetapi diberi jalan untuk mengaksesnya.",
+  "कभी-कभी विज्ञान सीखने का सबसे कठिन हिस्सा विज्ञान खुद नहीं होता, बल्कि उस तक पहुँचने का रास्ता मिलना होता है।"
+ ],
+ "mission.block4": [
+  "Volunteering with under-resourced communities showed me another side of that same problem. Here, the barrier was practical. Some students did not have consistent access to the laboratory equipment and experiments that I had come to take for granted at school. They could learn what a <blue>microscope</blue> was from a textbook, but not necessarily have the opportunity to use one. They could memorise the steps of an experiment without being able to explore what would happen if they changed something. I began to understand that <green>practical science</green> is not just about demonstrating knowledge; it is often how that <amber>knowledge becomes real</amber>.",
+  "在资源匮乏的社区做志愿者，让我看到了同一个问题的另一面。在这里，障碍是实际层面的。有些学生无法稳定地接触到我在学校里早已习以为常的实验器材和实验。他们可以从课本上了解<blue>显微镜</blue>是什么，却不一定有机会真正使用一台。他们可以背下一个实验的步骤，却无法探索如果改变某个条件会发生什么。我渐渐明白，<green>实践科学</green>不只是为了展示知识；它常常是让<amber>知识变得真实</amber>的方式。",
+  "자원이 부족한 지역 사회에서 봉사하면서 같은 문제의 또 다른 면을 보게 됐어요. 여기서의 장벽은 현실적인 것이었어요. 어떤 학생들은 제가 학교에서 당연하게 여기던 실험 기구와 실험을 꾸준히 접할 수 없었어요. <blue>현미경</blue>이 무엇인지는 교과서로 배울 수 있어도, 직접 써 볼 기회는 없을 수 있어요. 실험 순서는 외울 수 있어도, 무언가를 바꾸면 어떻게 되는지 탐구해 볼 수는 없었죠. 저는 <green>실습 과학</green>이 단지 지식을 보여 주는 일이 아니라, 종종 그 <amber>지식이 현실이 되는 방법</amber>이라는 걸 이해하게 됐어요.",
+  "Menjadi sukarelawan dengan komuniti yang kekurangan sumber menunjukkan kepada saya satu lagi sisi masalah yang sama. Di sini, halangannya bersifat praktikal. Sesetengah pelajar tidak mempunyai akses yang konsisten kepada peralatan makmal dan eksperimen yang telah saya anggap biasa di sekolah. Mereka boleh belajar apa itu <blue>mikroskop</blue> daripada buku teks, tetapi belum tentu berpeluang menggunakannya. Mereka boleh menghafal langkah-langkah sesuatu eksperimen tanpa dapat meneroka apa yang akan berlaku jika mereka mengubah sesuatu. Saya mula memahami bahawa <green>sains amali</green> bukan sekadar menunjukkan pengetahuan; ia selalunya cara <amber>pengetahuan itu menjadi nyata</amber>.",
+  "संसाधनों की कमी वाले समुदायों के साथ स्वयंसेवा करने से मुझे उसी समस्या का एक और पहलू दिखा। यहाँ बाधा व्यावहारिक थी। कुछ विद्यार्थियों को प्रयोगशाला के उन उपकरणों और प्रयोगों तक लगातार पहुँच नहीं थी जो मुझे स्कूल में सहज ही मिल जाते थे। वे किताब से जान सकते थे कि <blue>सूक्ष्मदर्शी</blue> क्या होता है, पर ज़रूरी नहीं कि उसे इस्तेमाल करने का मौका मिले। वे किसी प्रयोग के चरण रट सकते थे, पर यह खोज नहीं सकते थे कि कुछ बदलने पर क्या होगा। मुझे यह समझ आने लगा कि <green>प्रयोगात्मक विज्ञान</green> सिर्फ़ ज्ञान दिखाने के लिए नहीं है; अक्सर इसी से <amber>ज्ञान वास्तविक बनता है</amber>।"
+ ],
+ "mission.block5_header": [
+  "That is where <green>LabBudi began</green>.",
+  "这就是<green>LabBudi 的起点</green>。",
+  "그곳이 바로 <green>LabBudi가 시작된</green> 곳이에요.",
+  "Di situlah <green>LabBudi bermula</green>.",
+  "यहीं से <green>LabBudi की शुरुआत हुई</green>।"
+ ],
+ "mission.block5_body": [
+  "And to the <amber>curious mind</amber> reading this now, I hope you are encouraged to continue this journey!",
+  "也想对此刻正在阅读的这颗<amber>好奇的心</amber>说：希望你受到鼓舞，继续这段旅程！",
+  "그리고 지금 이 글을 읽고 있는 <amber>호기심 가득한 마음</amber>에게, 이 여정을 계속해 나가도록 힘을 얻길 바라요!",
+  "Dan kepada <amber>minda yang ingin tahu</amber> yang sedang membaca ini sekarang, saya harap anda diberi semangat untuk meneruskan perjalanan ini!",
+  "और इस समय यह पढ़ रहे <amber>जिज्ञासु मन</amber> से, मेरी आशा है कि आप इस यात्रा को जारी रखने के लिए प्रोत्साहित होंगे!"
+ ],
+ "mission.block6": [
+  "Much like the art seeded through the platform, the embodiment of LabBudi's vision of science is a vibrant, lively <green>garden</green>. Every student starts with different <amber>soil</amber>, different resources and different conditions. Some have laboratories filled with equipment; others do not. But curiosity is a <amber>seed</amber>, and understanding is what allows it to <green>grow</green>. LabBudi is a space to nurture and to give more students the space to plant that seed, explore what grows, and discover that they were <coral>never incapable</coral> of understanding science; they simply needed the opportunity to see it for themselves.",
+  "就像贯穿整个平台的插画那样，LabBudi 眼中的科学，其化身是一座生机勃勃、充满活力的<green>花园</green>。每个学生起步时都有不同的<amber>土壤</amber>、不同的资源和不同的条件。有些人拥有摆满器材的实验室；有些人则没有。但好奇心是一粒<amber>种子</amber>，而理解正是让它得以<green>生长</green>的力量。LabBudi 是一个用来培育的空间，让更多学生有空间种下那粒种子，看看会长出什么，并发现自己<coral>从来都不是没有能力</coral>理解科学；他们只是需要一个机会，亲眼去看一看。",
+  "플랫폼 곳곳에 심어 둔 그림처럼, LabBudi가 그리는 과학의 모습은 생동감 넘치고 활기찬 <green>정원</green>이에요. 모든 학생은 서로 다른 <amber>흙</amber>, 다른 자원, 다른 환경에서 시작해요. 어떤 학생에게는 기구로 가득한 실험실이 있고, 어떤 학생에게는 없어요. 하지만 호기심은 하나의 <amber>씨앗</amber>이고, 이해는 그 씨앗이 <green>자랄</green> 수 있게 해 주는 힘이에요. LabBudi는 더 많은 학생이 그 씨앗을 심고, 무엇이 자라는지 살펴보고, 자신이 과학을 이해할 수 <coral>없었던 적이 결코 없다</coral>는 것을 스스로 확인할 수 있도록 가꾸고 공간을 내어 주는 곳이에요. 그들에게 필요했던 건 직접 볼 기회뿐이었어요.",
+  "Sama seperti seni yang disemai di seluruh platform ini, penjelmaan visi sains LabBudi ialah sebuah <green>taman</green> yang meriah dan bersemangat. Setiap pelajar bermula dengan <amber>tanah</amber> yang berbeza, sumber yang berbeza dan keadaan yang berbeza. Ada yang mempunyai makmal yang penuh dengan peralatan; yang lain tidak. Tetapi rasa ingin tahu ialah sebiji <amber>benih</amber>, dan kefahaman ialah apa yang membolehkannya <green>tumbuh</green>. LabBudi ialah ruang untuk memupuk dan untuk memberi lebih ramai pelajar ruang untuk menanam benih itu, meneroka apa yang tumbuh, dan menemui bahawa mereka <coral>tidak pernah tidak mampu</coral> memahami sains; mereka cuma memerlukan peluang untuk melihatnya sendiri.",
+  "प्लेटफ़ॉर्म में बोई गई कला की तरह ही, LabBudi की विज्ञान की सोच का मूर्त रूप एक जीवंत, चहकता हुआ <green>बगीचा</green> है। हर विद्यार्थी अलग <amber>मिट्टी</amber>, अलग संसाधनों और अलग हालात के साथ शुरू करता है। कुछ के पास उपकरणों से भरी प्रयोगशालाएँ हैं; कुछ के पास नहीं। पर जिज्ञासा एक <amber>बीज</amber> है, और समझ वह है जो उसे <green>बढ़ने</green> देती है। LabBudi एक ऐसी जगह है जहाँ पोषण मिले और ज़्यादा विद्यार्थियों को वह बीज बोने, देखने कि क्या उगता है, और यह जानने की जगह मिले कि वे विज्ञान को समझने में <coral>कभी अक्षम नहीं थे</coral>; उन्हें बस खुद देखने का मौका चाहिए था।"
+ ],
+ "mission.quote": [
+  "The flower that blooms in adversity is the most rare and beautiful of all.",
+  "在逆境中绽放的花朵，是所有花朵中最稀有、最美丽的。",
+  "역경 속에서 피어나는 꽃이야말로 모든 꽃 중에서 가장 귀하고 아름답다.",
+  "Bunga yang mekar dalam kesukaran ialah yang paling jarang dan paling indah dari semuanya.",
+  "विपत्ति में खिलने वाला फूल सबसे दुर्लभ और सबसे सुंदर होता है।"
+ ],
+ "mission.quote_attribution": [
+  "From Mulan (2004), Disney",
+  "出自迪士尼《花木兰》（2004年）",
+  "디즈니 〈뮬란〉(2004)에서",
+  "Daripada Mulan (2004), Disney",
+  "डिज़्नी की मुलान (2004) से"
+ ],
+ "mission.sticker_1": [
+  "Play to learn",
+  "在玩中学",
+  "놀며 배우기",
+  "Belajar sambil bermain",
+  "खेलकर सीखें"
+ ],
+ "mission.sticker_2": [
+  "Try. Fail. Try again.",
+  "尝试。失败。再尝试。",
+  "도전. 실패. 다시 도전.",
+  "Cuba. Gagal. Cuba lagi.",
+  "कोशिश करो। असफल हो। फिर कोशिश करो।"
+ ],
+ "mission.sticker_3": [
+  "Access matters",
+  "机会很重要",
+  "접근성이 중요해요",
+  "Akses itu penting",
+  "पहुँच मायने रखती है"
+ ],
+ "mission.sticker_4": [
+  "Science is for everyone",
+  "科学属于每一个人",
+  "과학은 모두를 위한 것",
+  "Sains untuk semua orang",
+  "विज्ञान सबके लिए है"
+ ]
+}

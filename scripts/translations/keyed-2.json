@@ -1,0 +1,324 @@
+{
+ "game.coverslip_perfect": [
+  "Perfect, no air bubbles!",
+  "太完美了，没有气泡！",
+  "완벽해요, 기포가 없어요!",
+  "Sempurna, tiada gelembung udara!",
+  "एकदम सही, हवा के बुलबुले नहीं!"
+ ],
+ "game.coverslip_one_bubble": [
+  "Almost perfect, one bubble, but usable.",
+  "差不多完美，有一个气泡，但还能用。",
+  "거의 완벽해요, 기포가 하나 있지만 쓸 수 있어요.",
+  "Hampir sempurna, ada satu gelembung, tetapi masih boleh digunakan.",
+  "लगभग एकदम सही, एक बुलबुला है, पर काम चल जाएगा।"
+ ],
+ "game.coverslip_too_steep": [
+  "Too steep! Approach at a shallower angle.",
+  "太陡了！请用更平缓的角度靠近。",
+  "너무 가팔라요! 더 완만한 각도로 접근하세요.",
+  "Terlalu curam! Dekati pada sudut yang lebih landai.",
+  "बहुत खड़ा है! कम कोण से पास लाएँ।"
+ ],
+ "game.coverslip_too_flat": [
+  "Too flat, angle it more before lowering.",
+  "太平了，放下之前把角度再调大一点。",
+  "너무 평평해요, 내리기 전에 각도를 더 주세요.",
+  "Terlalu rata, condongkan lebih sedikit sebelum menurunkan.",
+  "बहुत सपाट है, नीचे लाने से पहले कोण थोड़ा और बढ़ाएँ।"
+ ],
+ "game.locked_check": [
+  "Locked ✓",
+  "已锁定 ✓",
+  "고정됨 ✓",
+  "Dikunci ✓",
+  "लॉक हो गया ✓"
+ ],
+ "game.lower_coverslip": [
+  "Lower coverslip",
+  "放下盖玻片",
+  "커버글라스 내리기",
+  "Turunkan kaca penutup",
+  "कवर स्लिप नीचे करें"
+ ],
+ "game.cross_section": [
+  "Cross-section",
+  "剖面图",
+  "단면",
+  "Keratan rentas",
+  "अनुप्रस्थ काट"
+ ],
+ "game.no_bubbles": [
+  "No bubbles",
+  "没有气泡",
+  "기포 없음",
+  "Tiada gelembung",
+  "कोई बुलबुला नहीं"
+ ],
+ "game.connect_mismatch": [
+  "Those two don't connect, look for the matching terminal.",
+  "这两个不能连接，找一找匹配的接线柱。",
+  "이 둘은 연결되지 않아요. 짝이 맞는 단자를 찾아보세요.",
+  "Kedua-duanya tidak bersambung, cari terminal yang sepadan.",
+  "ये दोनों नहीं जुड़ते, मेल खाने वाला टर्मिनल ढूँढें।"
+ ],
+ "game.swab_dispose_msg": [
+  "Now dispose of the swab in the disinfectant.",
+  "现在把棉签扔进消毒液里。",
+  "이제 면봉을 소독액에 버리세요.",
+  "Sekarang buang swab ke dalam pembasmi kuman.",
+  "अब फाहे को कीटाणुनाशक में डाल दें।"
+ ],
+ "game.swab_hygiene": [
+  "Good hygiene, always disinfect after biological samples.",
+  "卫生习惯很好，接触过生物样本后一定要消毒。",
+  "위생 습관이 좋아요, 생물 시료를 다룬 뒤에는 항상 소독하세요.",
+  "Kebersihan yang baik, sentiasa nyahjangkit selepas sampel biologi.",
+  "अच्छी स्वच्छता, जैविक नमूनों के बाद हमेशा कीटाणुरहित करें।"
+ ],
+ "game.swab_smear_hint": [
+  "Drag the swab back and forth across the slide.",
+  "在载玻片上来回拖动棉签。",
+  "면봉을 슬라이드 위에서 앞뒤로 끌어 주세요.",
+  "Seret swab ke depan dan ke belakang pada slaid.",
+  "फाहे को स्लाइड पर आगे-पीछे खींचें।"
+ ],
+ "game.swab_dispose_hint": [
+  "Drag the swab into the disinfectant.",
+  "把棉签拖进消毒液。",
+  "면봉을 소독액으로 끌어다 놓으세요.",
+  "Seret swab ke dalam pembasmi kuman.",
+  "फाहे को कीटाणुनाशक में खींचें।"
+ ],
+ "game.disinfectant": [
+  "Disinfectant",
+  "消毒液",
+  "소독액",
+  "Pembasmi kuman",
+  "कीटाणुनाशक"
+ ],
+ "game.swab_small_circles": [
+  "Small circles, gently does it.",
+  "画小圈，动作要轻。",
+  "작은 원을 그리며 살살 하세요.",
+  "Bulatan kecil, perlahan-lahan.",
+  "छोटे गोल घेरे, धीरे-धीरे।"
+ ],
+ "game.swab_got_some": [
+  "Got some! That wasn't so bad. Probably.",
+  "取到了一些！也没那么糟，大概吧。",
+  "좀 모았어요! 그리 나쁘지 않았죠. 아마도요.",
+  "Dapat sedikit! Tidaklah seteruk mana. Mungkin.",
+  "कुछ मिल गया! उतना बुरा नहीं था। शायद।"
+ ],
+ "game.swab_biology": [
+  "Those cells on the swab, that's biology you can literally SEE!",
+  "棉签上的那些细胞，就是你能亲眼看到的生物学！",
+  "면봉 위의 그 세포들, 눈으로 직접 볼 수 있는 생물학이에요!",
+  "Sel-sel pada swab itu, itulah biologi yang boleh anda LIHAT sendiri!",
+  "फाहे पर लगी वे कोशिकाएँ, यही वह जीव विज्ञान है जिसे आप सचमुच देख सकते हैं!"
+ ],
+ "game.not_built": [
+  "{{name}}, not yet built",
+  "{{name}}，尚未开发",
+  "{{name}}, 아직 만들어지지 않았어요",
+  "{{name}}, belum dibina",
+  "{{name}}, अभी बना नहीं है"
+ ],
+ "game.skip_dev": [
+  "Skip (dev)",
+  "跳过（开发用）",
+  "건너뛰기 (개발용)",
+  "Langkau (pembangun)",
+  "छोड़ें (डेव)"
+ ],
+ "game.flame_done_msg": [
+  "Now you know why we use the blue flame for heating.",
+  "现在你知道为什么加热要用蓝色火焰了。",
+  "이제 가열할 때 왜 파란 불꽃을 쓰는지 알았죠.",
+  "Sekarang anda tahu mengapa kita menggunakan nyalaan biru untuk pemanasan.",
+  "अब आप जान गए कि गर्म करने के लिए हम नीली ज्वाला क्यों इस्तेमाल करते हैं।"
+ ],
+ "game.flame_open_msg": [
+  "Blue roaring flame: the air hole is wide open, so it gets the most oxygen. It is the hottest, most focused flame. This is the heating flame.",
+  "蓝色轰鸣火焰：进气孔完全打开，所以得到的氧气最多。它是最热、最集中的火焰，也就是加热用的火焰。",
+  "파란 강한 불꽃: 공기구멍이 활짝 열려 있어서 산소가 가장 많이 공급돼요. 가장 뜨겁고 모인 불꽃으로, 가열에 쓰는 불꽃이에요.",
+  "Api biru yang menderu: lubang udara terbuka luas, jadi ia mendapat oksigen paling banyak. Ia api paling panas dan paling tertumpu. Inilah api untuk memanaskan.",
+  "नीली गर्जन वाली लौ: हवा का छेद पूरा खुला है, इसलिए इसे सबसे ज़्यादा ऑक्सीजन मिलती है। यह सबसे गरम और केंद्रित लौ है। यही गरम करने वाली लौ है।"
+ ],
+ "game.flame_closed_msg": [
+  "Yellow safety flame: the collar's air hole is closed, so no extra oxygen gets in. It is cooler and used for lighting safely, not for heating.",
+  "黄色安全火焰：空气圈的进气孔是关着的，所以没有额外的氧气进入。它温度较低，用于安全点火，不用于加热。",
+  "노란 안전 불꽃: 조절 고리의 공기구멍이 닫혀 있어서 추가 산소가 들어오지 않아요. 온도가 낮고 안전하게 불을 붙일 때 쓰며 가열에는 쓰지 않아요.",
+  "Api selamat kuning: lubang udara kolar tertutup, jadi tiada oksigen tambahan masuk. Ia kurang panas dan digunakan untuk menyalakan dengan selamat, bukan untuk memanaskan.",
+  "पीली सुरक्षा लौ: कॉलर का हवा का छेद बंद है, इसलिए अतिरिक्त ऑक्सीजन नहीं आती। यह कम गरम है और सुरक्षित रूप से जलाने के लिए है, गरम करने के लिए नहीं।"
+ ],
+ "game.flame_tap_collar": [
+  "Tap the collar to zoom in and see how it controls the flame.",
+  "点击调节环放大，看看它是如何控制火焰的。",
+  "조절 고리를 눌러 확대하고 불꽃을 어떻게 조절하는지 보세요.",
+  "Ketik kolar untuk zum masuk dan lihat bagaimana ia mengawal nyalaan.",
+  "कॉलर पर टैप करके ज़ूम करें और देखें कि यह ज्वाला को कैसे नियंत्रित करता है।"
+ ],
+ "game.flame_scroll_open": [
+  "Scroll or drag to open the collar",
+  "滚动或拖动来打开调节环",
+  "스크롤하거나 끌어서 조절 고리를 여세요",
+  "Tatal atau seret untuk membuka kolar",
+  "कॉलर खोलने के लिए स्क्रॉल करें या खींचें"
+ ],
+ "game.flame_roaring_title": [
+  "Roaring Flame (Blue)",
+  "猛焰（蓝色）",
+  "강한 불꽃 (파란색)",
+  "Nyalaan Menderu (Biru)",
+  "तेज ज्वाला (नीली)"
+ ],
+ "game.flame_safety_title": [
+  "Safety Flame (Yellow)",
+  "安全火焰（黄色）",
+  "안전 불꽃 (노란색)",
+  "Nyalaan Selamat (Kuning)",
+  "सुरक्षा ज्वाला (पीली)"
+ ],
+ "game.flame_use_general": [
+  "General heating",
+  "一般加热",
+  "일반 가열",
+  "Pemanasan am",
+  "सामान्य रूप से गर्म करना"
+ ],
+ "game.flame_use_dryness": [
+  "Heating liquids to dryness",
+  "把液体加热至蒸干",
+  "액체를 완전히 말릴 때까지 가열하기",
+  "Memanaskan cecair sehingga kering",
+  "तरल को सूखने तक गर्म करना"
+ ],
+ "game.flame_use_max": [
+  "When maximum temperature is needed",
+  "需要最高温度时",
+  "최고 온도가 필요할 때",
+  "Apabila suhu maksimum diperlukan",
+  "जब अधिकतम तापमान चाहिए हो"
+ ],
+ "game.flame_use_lighting": [
+  "Lighting the burner",
+  "点燃燃烧器",
+  "버너에 불 붙이기",
+  "Menyalakan penunu",
+  "बर्नर जलाना"
+ ],
+ "game.flame_use_waiting": [
+  "Waiting between steps",
+  "在步骤之间等待",
+  "단계 사이에 기다릴 때",
+  "Menunggu antara langkah",
+  "चरणों के बीच प्रतीक्षा करना"
+ ],
+ "game.flame_use_moving": [
+  "Moving the burner or apparatus",
+  "移动燃烧器或器材",
+  "버너나 기구를 옮길 때",
+  "Mengalihkan penunu atau radas",
+  "बर्नर या उपकरण को हिलाना"
+ ],
+ "game.chip_colour": [
+  "Colour changed",
+  "颜色变了",
+  "색이 변했어요",
+  "Warna berubah",
+  "रंग बदला"
+ ],
+ "game.chip_steam": [
+  "Steam produced",
+  "产生了蒸汽",
+  "수증기가 생겼어요",
+  "Wap terhasil",
+  "भाप बनी"
+ ],
+ "game.chip_crystals": [
+  "Crystals turned white",
+  "晶体变白了",
+  "결정이 하얘졌어요",
+  "Hablur bertukar putih",
+  "क्रिस्टल सफ़ेद हो गए"
+ ],
+ "game.valve_hint": [
+  "Spin the valve to set the flame",
+  "转动阀门来调节火焰",
+  "밸브를 돌려 불꽃을 조절하세요",
+  "Putar injap untuk menetapkan nyalaan",
+  "ज्वाला सेट करने के लिए वाल्व घुमाएँ"
+ ],
+ "game.too_cold": [
+  "Too cold",
+  "太冷了",
+  "너무 차가워요",
+  "Terlalu sejuk",
+  "बहुत ठंडा"
+ ],
+ "game.getting_there": [
+  "Getting there",
+  "快到了",
+  "거의 다 왔어요",
+  "Hampir sampai",
+  "लगभग पहुँच गए"
+ ],
+ "game.heat_start_msg": [
+  "Twist the collar hole to change the flame. Watch the dish heat up!",
+  "转动空气圈上的孔来改变火焰。观察蒸发皿被加热！",
+  "조절 고리 구멍을 돌려 불꽃을 바꿔 보세요. 접시가 뜨거워지는 걸 지켜보세요!",
+  "Pusing lubang kolar untuk mengubah api. Perhatikan mangkuk menjadi panas!",
+  "कॉलर के छेद को घुमाकर लौ बदलें। डिश को गरम होते देखें!"
+ ],
+ "game.heat_blue_gone": [
+  "Look! The BLUE is disappearing!",
+  "看！蓝色正在消失！",
+  "보세요! 파란색이 사라지고 있어요!",
+  "Lihat! BIRU itu semakin hilang!",
+  "देखिए! नीला रंग गायब हो रहा है!"
+ ],
+ "game.master_chemist_msg": [
+  "Master Chemist, perfect heat control!",
+  "化学大师，完美的火候控制！",
+  "마스터 화학자, 완벽한 열 조절이에요!",
+  "Pakar Kimia, kawalan haba yang sempurna!",
+  "मास्टर रसायनज्ञ, गर्मी पर एकदम सही नियंत्रण!"
+ ],
+ "game.master_chemist_banner": [
+  "MASTER CHEMIST!",
+  "化学大师！",
+  "마스터 화학자!",
+  "PAKAR KIMIA!",
+  "मास्टर रसायनज्ञ!"
+ ],
+ "game.watch_closely": [
+  "Watch closely",
+  "仔细观察",
+  "자세히 보세요",
+  "Perhatikan dengan teliti",
+  "ध्यान से देखें"
+ ],
+ "game.heat_white": [
+  "White anhydrous copper sulfate: CuSO₄. The water is gone.",
+  "白色的无水硫酸铜：CuSO₄。水已经没有了。",
+  "하얀 무수 황산구리: CuSO₄. 물이 사라졌어요.",
+  "Kuprum sulfat anhidrat putih: CuSO₄. Air telah hilang.",
+  "सफ़ेद निर्जल कॉपर सल्फेट: CuSO₄। पानी चला गया।"
+ ],
+ "game.heat_running": [
+  "The water molecules are escaping! The blue is disappearing!",
+  "水分子正在逸出！蓝色正在消失！",
+  "물 분자가 빠져나가고 있어요! 파란색이 사라지고 있어요!",
+  "Molekul air sedang terlepas! Warna biru semakin hilang!",
+  "पानी के अणु बाहर निकल रहे हैं! नीला रंग गायब हो रहा है!"
+ ],
+ "game.heat_hydrated": [
+  "That's copper sulfate pentahydrate: CuSO₄·5H₂O. The BLUE colour comes from water molecules trapped inside the crystal.",
+  "这是五水硫酸铜：CuSO₄·5H₂O。蓝色来自被困在晶体里的水分子。",
+  "이건 황산구리 오수화물이에요: CuSO₄·5H₂O. 파란색은 결정 속에 갇힌 물 분자에서 나와요.",
+  "Itu kuprum sulfat pentahidrat: CuSO₄·5H₂O. Warna BIRU datang daripada molekul air yang terperangkap di dalam hablur.",
+  "यह कॉपर सल्फेट पेंटाहाइड्रेट है: CuSO₄·5H₂O। नीला रंग क्रिस्टल के अंदर फँसे पानी के अणुओं से आता है।"
+ ]
+}

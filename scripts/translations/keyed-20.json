@@ -1,0 +1,20 @@
+{
+ "game.type_colour": [
+  "Type the colour you saw",
+  "输入你看到的颜色",
+  "본 색깔을 입력하세요",
+  "Taip warna yang anda lihat",
+  "देखा हुआ रंग लिखें"
+ ],
+ "game.chart_strong_acid": ["Strong acid", "强酸", "강산", "Asid kuat", "प्रबल अम्ल"],
+ "game.chart_weak_acid": ["Weak acid", "弱酸", "약산", "Asid lemah", "दुर्बल अम्ल"],
+ "game.chart_weak_alkali": ["Weak alkali", "弱碱", "약알칼리", "Alkali lemah", "दुर्बल क्षार"],
+ "game.chart_strong_alkali": ["Strong alkali", "强碱", "강알칼리", "Alkali kuat", "प्रबल क्षार"],
+ "game.rec_type_wrong": [
+  "Not quite. Look at the colour in the tube and try again.",
+  "不太对。看看试管里的颜色，再试一次。",
+  "아쉬워요. 시험관의 색깔을 보고 다시 해 보세요.",
+  "Belum tepat. Lihat warna dalam tabung dan cuba lagi.",
+  "बिल्कुल सही नहीं। परखनली का रंग देखें और फिर कोशिश करें।"
+ ]
+}

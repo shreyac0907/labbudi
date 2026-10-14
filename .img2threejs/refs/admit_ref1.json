@@ -1,0 +1,14 @@
+{
+  "admitted": true,
+  "reasons": [],
+  "provenance": {
+    "viewpoint": "three_quarter_primary",
+    "sourcePath": "/Users/shreya/Desktop/microscope .png",
+    "width": 720,
+    "height": 540,
+    "foregroundCoverage": 0.1204,
+    "largestComponentFraction": 1.0,
+    "pHash": 12303762434558309632,
+    "duplicateOfHash": null
+  }
+}

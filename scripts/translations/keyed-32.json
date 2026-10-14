@@ -1,0 +1,16 @@
+{
+ "game.flame_air_closed": [
+  "Air hole closed: no extra oxygen",
+  "进气孔关闭：没有额外的氧气",
+  "공기구멍 닫힘: 추가 산소 없음",
+  "Lubang udara tertutup: tiada oksigen tambahan",
+  "हवा का छेद बंद: अतिरिक्त ऑक्सीजन नहीं"
+ ],
+ "game.flame_air_open": [
+  "Air hole wide open: the most oxygen",
+  "进气孔完全打开：氧气最多",
+  "공기구멍 활짝 열림: 산소가 가장 많음",
+  "Lubang udara terbuka luas: oksigen paling banyak",
+  "हवा का छेद पूरा खुला: सबसे ज़्यादा ऑक्सीजन"
+ ]
+}

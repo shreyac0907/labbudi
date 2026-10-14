@@ -1,0 +1,282 @@
+{
+ "game.speed_fast": [
+  "Fast",
+  "快",
+  "빠름",
+  "Laju",
+  "तेज़"
+ ],
+ "game.speed_slow": [
+  "Slow",
+  "慢",
+  "느림",
+  "Perlahan",
+  "धीमा"
+ ],
+ "game.speed_steady": [
+  "Steady",
+  "平稳",
+  "일정함",
+  "Stabil",
+  "स्थिर"
+ ],
+ "game.speed_label": [
+  "Speed: {{speed}}",
+  "速度：{{speed}}",
+  "속도: {{speed}}",
+  "Kelajuan: {{speed}}",
+  "गति: {{speed}}"
+ ],
+ "game.hold_to_top": [
+  "Keep holding steadily all the way to the top!",
+  "一直平稳地按住，直到顶部！",
+  "맨 위까지 꾸준히 계속 잡고 계세요!",
+  "Teruskan memegang dengan stabil sehingga ke atas!",
+  "ऊपर तक स्थिर रूप से पकड़े रहें!"
+ ],
+ "game.match_out": [
+  "The match went out, try again! Strike it faster.",
+  "火柴灭了，再试一次！划得快一点。",
+  "성냥이 꺼졌어요, 다시 해 보세요! 더 빠르게 그으세요.",
+  "Mancis padam, cuba lagi! Gesek dengan lebih pantas.",
+  "माचिस बुझ गई, फिर कोशिश करें! इसे ज़्यादा तेज़ी से जलाएँ।"
+ ],
+ "game.strike_perfect": [
+  "Perfect strike! Quick, light the Bunsen!",
+  "划得完美！快，点燃本生灯！",
+  "완벽하게 그었어요! 어서 분젠 버너에 불을 붙이세요!",
+  "Gesekan sempurna! Cepat, nyalakan Bunsen!",
+  "बढ़िया! जल्दी से बुन्सेन जलाएँ!"
+ ],
+ "game.strike_good": [
+  "Got it! It's lit, move to the Bunsen quickly.",
+  "成功了！火柴点着了，快移到本生灯那里。",
+  "됐어요! 불이 붙었어요, 어서 분젠 버너로 가져가세요.",
+  "Berjaya! Ia menyala, cepat bawa ke Bunsen.",
+  "हो गया! माचिस जल गई, जल्दी से बुन्सेन के पास ले जाएँ।"
+ ],
+ "game.gas_not_open": [
+  "The gas isn't fully open, try the tap sequence again!",
+  "燃气没有完全打开，再试一次开关顺序！",
+  "가스가 완전히 열리지 않았어요, 콕 순서를 다시 해 보세요!",
+  "Gas belum dibuka sepenuhnya, cuba urutan pili itu sekali lagi!",
+  "गैस पूरी तरह नहीं खुली, नल का क्रम फिर से आज़माएँ!"
+ ],
+ "game.gas_on": [
+  "Gas on! It is flowing out of the top of the barrel. Now bring the lit match to it!",
+  "煤气已打开！它正从灯管顶部流出来。现在把点着的火柴拿过去！",
+  "가스가 켜졌어요! 관 꼭대기에서 가스가 흘러나오고 있어요. 이제 불붙은 성냥을 가져가세요!",
+  "Gas dibuka! Ia mengalir keluar dari bahagian atas tiub. Sekarang bawa mancis yang menyala ke situ!",
+  "गैस चालू! वह नली के ऊपरी सिरे से निकल रही है। अब जलती माचिस को वहाँ ले जाएँ!"
+ ],
+ "game.flame_yellow": [
+  "YELLOW safety flame, perfect. Now open the collar for the roaring blue flame.",
+  "黄色的安全火焰，很好。现在打开调节环，得到蓝色的猛焰。",
+  "노란 안전 불꽃, 완벽해요. 이제 조절 고리를 열어 파란 강한 불꽃을 만드세요.",
+  "Nyalaan selamat KUNING, sempurna. Sekarang buka kolar untuk nyalaan biru menderu.",
+  "पीली सुरक्षा ज्वाला, बढ़िया। अब नीली तेज़ ज्वाला के लिए कॉलर खोलें।"
+ ],
+ "game.flame_blue": [
+  "BLUE FLAME! Now we can heat.",
+  "蓝色火焰！现在可以加热了。",
+  "파란 불꽃! 이제 가열할 수 있어요.",
+  "NYALAAN BIRU! Sekarang kita boleh memanaskan.",
+  "नीली ज्वाला! अब हम गर्म कर सकते हैं।"
+ ],
+ "game.beautiful_combustion": [
+  "BEAUTIFUL COMBUSTION!",
+  "漂亮的燃烧！",
+  "아름다운 연소!",
+  "PEMBAKARAN YANG CANTIK!",
+  "शानदार दहन!"
+ ],
+ "game.tap_matchbox": [
+  "Tap the matchbox to open it.",
+  "点击火柴盒把它打开。",
+  "성냥갑을 눌러 여세요.",
+  "Ketik kotak mancis untuk membukanya.",
+  "माचिस की डिब्बी खोलने के लिए उस पर टैप करें।"
+ ],
+ "game.strike_match": [
+  "Strike the match!",
+  "划燃火柴！",
+  "성냥을 그으세요!",
+  "Gesek mancis!",
+  "माचिस जलाएँ!"
+ ],
+ "game.turn_gas": [
+  "Turn the gas tap!",
+  "转动燃气开关！",
+  "가스 콕을 돌리세요!",
+  "Putar pili gas!",
+  "गैस का नल घुमाएँ!"
+ ],
+ "game.tap_circles": [
+  "Tap the circles in order!",
+  "按顺序点击圆圈！",
+  "원을 순서대로 누르세요!",
+  "Ketik bulatan mengikut turutan!",
+  "गोलों पर क्रम से टैप करें!"
+ ],
+ "game.touch_barrel": [
+  "Drag the lit match up to the top of the barrel, where the gas comes out!",
+  "把点着的火柴拖到灯管顶部，煤气就是从那里出来的！",
+  "불붙은 성냥을 관 꼭대기, 가스가 나오는 곳까지 끌어다 대세요!",
+  "Seret mancis yang menyala ke bahagian atas tiub penunu, tempat gas keluar!",
+  "जलती माचिस को नली के ऊपरी सिरे तक खींचकर ले जाएँ, जहाँ से गैस निकलती है!"
+ ],
+ "game.open_collar_blue": [
+  "Twist the collar hole open (drag it, scroll, or tap) and watch the flame turn blue!",
+  "把空气圈上的孔转开（拖动、滚动或点击），看火焰变成蓝色！",
+  "조절 고리 구멍을 돌려서(끌기, 스크롤, 누르기) 열고 불꽃이 파랗게 변하는 걸 보세요!",
+  "Pusing lubang kolar supaya terbuka (seret, tatal atau ketik) dan lihat api bertukar biru!",
+  "कॉलर के छेद को घुमाकर खोलें (खींचें, स्क्रॉल करें या दबाएँ) और लौ को नीली होते देखें!"
+ ],
+ "game.strike_bar_label": [
+  "Tap when the indicator hits PERFECT!",
+  "指针到达“完美”区域时点击！",
+  "표시가 “완벽” 구간에 닿을 때 누르세요!",
+  "Ketik apabila penunjuk mencecah SEMPURNA!",
+  "जब सूचक “एकदम सही” पर पहुँचे तब टैप करें!"
+ ],
+ "game.litmus_hold": [
+  "Hold until the paper is fully dipped!",
+  "按住直到试纸完全浸入！",
+  "종이가 완전히 잠길 때까지 누르고 있으세요!",
+  "Tahan sehingga kertas dicelup sepenuhnya!",
+  "कागज़ पूरी तरह डूबने तक दबाए रखें!"
+ ],
+ "game.litmus_hint_above": [
+  "Tap and hold to dip the paper into the solution.",
+  "点击并按住，把试纸浸入溶液。",
+  "눌러서 종이를 용액에 담그세요.",
+  "Ketik dan tahan untuk mencelup kertas ke dalam larutan.",
+  "कागज़ को विलयन में डुबोने के लिए टैप करके दबाए रखें।"
+ ],
+ "game.litmus_testing": [
+  "Testing the {{tube}} tube…",
+  "正在测试{{tube}}试管……",
+  "{{tube}} 시험관 테스트 중…",
+  "Menguji tabung {{tube}}…",
+  "{{tube}} वाली परखनली का परीक्षण हो रहा है…"
+ ],
+ "game.ms_light": [
+  "Tap the light switch to turn on the backstage light.",
+  "点击灯的开关，打开载物台下方的灯。",
+  "조명 스위치를 눌러 재물대 아래 조명을 켜세요.",
+  "Ketik suis lampu untuk menghidupkan lampu di bawah pentas.",
+  "रोशनी का स्विच दबाकर मंच के नीचे की बत्ती जलाएँ।"
+ ],
+ "game.ms_nose4": [
+  "Tap the red ×4 lens to swing it into place.",
+  "点击红色的×4镜头，让它转到位。",
+  "빨간 ×4 렌즈를 눌러 제자리로 돌리세요.",
+  "Ketik kanta merah ×4 untuk memutarnya ke tempatnya.",
+  "लाल ×4 लेंस पर टैप करें ताकि वह अपनी जगह पर आ जाए।"
+ ],
+ "game.ms_coarse": [
+  "Hold the big coarse focus knob and turn it round in a circle until the cells roughly come into view.",
+  "按住大的粗调焦旋钮，绕着圆圈转动，直到细胞大致出现在视野中。",
+  "큰 조동 나사를 잡고 원을 그리며 돌려 세포가 대략 보일 때까지 맞추세요.",
+  "Tekan dan pegang tombol fokus kasar yang besar, kemudian putar secara membulat sehingga sel kelihatan secara kasar.",
+  "बड़े मोटे फ़ोकस नॉब को पकड़कर गोल-गोल घुमाएँ जब तक कोशिकाएँ मोटे तौर पर दिखाई न देने लगें।"
+ ],
+ "game.ms_fine": [
+  "Now turn the small fine focus knob slowly, round and round. It needs a gentle touch.",
+  "现在慢慢转动小的细调焦旋钮，一圈一圈地转。它需要轻柔的操作。",
+  "이제 작은 미동 나사를 천천히 원을 그리며 돌리세요. 살살 다뤄야 해요.",
+  "Sekarang putar tombol fokus halus yang kecil perlahan-lahan, berpusing-pusing. Ia memerlukan sentuhan lembut.",
+  "अब छोटे महीन फ़ोकस नॉब को धीरे-धीरे गोल-गोल घुमाएँ। इसे हल्के हाथ से चलाना पड़ता है।"
+ ],
+ "game.ms_nose10": [
+  "Tap the yellow ×10 lens to swing it into place.",
+  "点击黄色的×10镜头，让它转到位。",
+  "노란 ×10 렌즈를 눌러 제자리로 돌리세요.",
+  "Ketik kanta kuning ×10 untuk memutarnya ke tempatnya.",
+  "पीले ×10 लेंस पर टैप करें ताकि वह अपनी जगह पर आ जाए।"
+ ],
+ "game.ms_fine10": [
+  "Fine-focus again at the higher magnification.",
+  "在更高的放大倍数下再次细调焦。",
+  "더 높은 배율에서 다시 미세 초점을 맞추세요.",
+  "Fokus halus sekali lagi pada pembesaran yang lebih tinggi.",
+  "ऊँचे आवर्धन पर फिर से महीन फ़ोकस करें।"
+ ],
+ "game.ms_nose40": [
+  "Tap the blue ×40 lens to swing it into place.",
+  "点击蓝色的×40镜头，让它转到位。",
+  "파란 ×40 렌즈를 눌러 제자리로 돌리세요.",
+  "Ketik kanta biru ×40 untuk memutarnya ke tempatnya.",
+  "नीले ×40 लेंस पर टैप करें ताकि वह अपनी जगह पर आ जाए।"
+ ],
+ "game.ms_fine40": [
+  "One more careful fine focus at ×40.",
+  "在×40下再仔细细调焦一次。",
+  "×40에서 한 번 더 조심해서 미세 초점을 맞추세요.",
+  "Satu lagi fokus halus yang teliti pada ×40.",
+  "×40 पर एक बार और सावधानी से महीन फ़ोकस करें।"
+ ],
+ "game.ms_stagexy": [
+  "Turn the stage knobs to slide your sample until one cell is in the middle of the view.",
+  "转动载物台旋钮，移动你的样本，直到有一个细胞位于视野中央。",
+  "재물대 손잡이를 돌려 시료를 움직여 세포 하나가 시야 가운데 오게 하세요.",
+  "Putar tombol pentas untuk menggerakkan sampel anda sehingga satu sel berada di tengah pandangan.",
+  "मंच के नॉब घुमाकर अपने नमूने को सरकाएँ जब तक एक कोशिका दृश्य के बीच में न आ जाए।"
+ ],
+ "game.ms_light_on": [
+  "Light on. Now select the ×4 objective.",
+  "灯亮了。现在选择×4物镜。",
+  "조명이 켜졌어요. 이제 ×4 대물렌즈를 고르세요.",
+  "Lampu hidup. Sekarang pilih kanta objektif ×4.",
+  "रोशनी जल गई। अब ×4 अभिदृश्यक लेंस चुनें।"
+ ],
+ "game.ms_in_place": [
+  "{{label}} in place.",
+  "{{label}}已就位。",
+  "{{label}} 렌즈가 제자리에 놓였어요.",
+  "{{label}} sudah di tempatnya.",
+  "{{label}} अपनी जगह पर है।"
+ ],
+ "game.ms_still_blurry": [
+  "Still blurry. Keep turning, and if it gets worse, turn the other way.",
+  "还是模糊的。继续转动，如果变得更糊，就往另一个方向转。",
+  "아직 흐릿해요. 계속 돌리고, 더 흐려지면 반대로 돌리세요.",
+  "Masih kabur. Teruskan memutar, dan jika bertambah kabur, putar ke arah lain.",
+  "अभी भी धुँधला है। घुमाते रहें, और अगर और धुँधला हो जाए तो दूसरी तरफ़ घुमाएँ।"
+ ],
+ "game.ms_coarse_done": [
+  "Nearly there! Switch to the fine focus knob.",
+  "快好了！换用细调焦旋钮。",
+  "거의 다 됐어요! 미동 나사로 바꾸세요.",
+  "Hampir sampai! Tukar kepada tombol fokus halus.",
+  "लगभग हो गया! अब महीन फ़ोकस नॉब पर जाएँ।"
+ ],
+ "game.ms_fine_done": [
+  "Sharp and clear, you can see individual cells now.",
+  "清晰锐利，现在能看到单个细胞了。",
+  "선명해요, 이제 세포 하나하나가 보여요.",
+  "Tajam dan jelas, anda kini boleh melihat sel-sel individu.",
+  "साफ़ और तीखा, अब आप अलग-अलग कोशिकाएँ देख सकते हैं।"
+ ],
+ "game.ms_fine10_done": [
+  "In focus at ×10.",
+  "×10下已对焦。",
+  "×10에서 초점이 맞았어요.",
+  "Fokus pada ×10.",
+  "×10 पर फ़ोकस हो गया।"
+ ],
+ "game.ms_fine40_done": [
+  "In focus at ×40, that nucleus fills the view.",
+  "×40下已对焦，细胞核占满了视野。",
+  "×40에서 초점이 맞았어요, 핵이 시야를 가득 채워요.",
+  "Fokus pada ×40, nukleus itu memenuhi pandangan.",
+  "×40 पर फ़ोकस हो गया, वह केंद्रक पूरे दृश्य में भर गया है।"
+ ],
+ "game.ms_centred": [
+  "Cell centred, you can see a clear nucleus.",
+  "细胞已居中，能看到清晰的细胞核。",
+  "세포가 가운데에 왔어요, 핵이 또렷하게 보여요.",
+  "Sel di tengah, anda boleh melihat nukleus yang jelas.",
+  "कोशिका बीच में आ गई, आप साफ़ केंद्रक देख सकते हैं।"
+ ]
+}

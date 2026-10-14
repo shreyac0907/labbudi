@@ -1,0 +1,14 @@
+{
+  "admitted": true,
+  "reasons": [],
+  "provenance": {
+    "viewpoint": "front_mirror_detail",
+    "sourcePath": "/private/tmp/claude-501/-Users-shreya-Desktop-labbudi/9a81cfa2-b1ca-41f6-92a5-9c5a2f00bc5b/scratchpad/microscope_ref3.png",
+    "width": 3200,
+    "height": 3200,
+    "foregroundCoverage": 0.1849,
+    "largestComponentFraction": 0.9975,
+    "pHash": 12295293906328567554,
+    "duplicateOfHash": null
+  }
+}

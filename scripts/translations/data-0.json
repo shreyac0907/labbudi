@@ -1,0 +1,2750 @@
+{
+ "0": [
+  "使用指示剂测试pH值",
+  "지시약으로 pH 테스트하기",
+  "Menguji pH Menggunakan Penunjuk",
+  "सूचकों का उपयोग करके pH का परीक्षण"
+ ],
+ "1": [
+  "安全",
+  "안전",
+  "Keselamatan",
+  "सुरक्षा"
+ ],
+ "2": [
+  "安全第一",
+  "안전 제일",
+  "Keselamatan Dahulu",
+  "सुरक्षा पहले"
+ ],
+ "3": [
+  "开始之前，点击每个危险标志，了解安全规则。",
+  "시작하기 전에 각 위험 표시를 눌러 안전 수칙을 알아보세요.",
+  "Sebelum kita mula, ketik setiap bahaya untuk mempelajari peraturan keselamatan.",
+  "शुरू करने से पहले, सुरक्षा नियम जानने के लिए हर खतरे पर टैप करें।"
+ ],
+ "4": [
+  "腐蚀性",
+  "부식성",
+  "Menghakis",
+  "संक्षारक"
+ ],
+ "5": [
+  "戴上手套。漂白剂会灼伤皮肤。",
+  "장갑을 끼세요. 표백제는 피부를 태웁니다.",
+  "Pakai sarung tangan. Peluntur boleh melecurkan kulit.",
+  "दस्ताने पहनें। ब्लीच त्वचा को जला देता है।"
+ ],
+ "6": [
+  "刺激性",
+  "자극성",
+  "Merengsa",
+  "जलन पैदा करने वाला"
+ ],
+ "7": [
+  "戴上护目镜。酸会刺激眼睛。",
+  "보안경을 쓰세요. 산은 눈을 자극합니다.",
+  "Pakai goggle. Asid merengsakan mata.",
+  "चश्मा (गॉगल्स) पहनें। अम्ल आँखों में जलन पैदा करते हैं।"
+ ],
+ "8": [
+  "实验室规则",
+  "실험실 규칙",
+  "Peraturan Makmal",
+  "प्रयोगशाला के नियम"
+ ],
+ "9": [
+  "实验室内禁止饮食。",
+  "실험실에서는 먹거나 마시지 마세요.",
+  "Dilarang makan atau minum di dalam makmal.",
+  "प्रयोगशाला में खाना-पीना मना है।"
+ ],
+ "10": [
+  "所有安全规则都看过了。现在可以开始了！",
+  "모든 안전 수칙을 확인했어요. 이제 시작할 수 있어요!",
+  "Semua peraturan keselamatan telah disemak. Sekarang kita boleh mula!",
+  "सभी सुरक्षा नियम देख लिए गए। अब हम शुरू कर सकते हैं!"
+ ],
+ "11": [
+  "继续之前，请点击每张危险卡片。",
+  "계속하기 전에 모든 위험 카드를 눌러 주세요.",
+  "Ketik setiap kad bahaya sebelum kita teruskan.",
+  "आगे बढ़ने से पहले हर खतरे वाले कार्ड पर टैप करें।"
+ ],
+ "12": [
+  "通用指示剂",
+  "만능 지시약",
+  "Penunjuk Sejagat",
+  "सार्वभौमिक सूचक"
+ ],
+ "13": [
+  "吸取指示剂",
+  "지시약 빨아올리기",
+  "Sedut Penunjuk",
+  "सूचक भरें"
+ ],
+ "14": [
+  "按住移液管的橡胶球，吸取通用指示剂。",
+  "피펫 고무공을 길게 눌러 만능 지시약을 빨아올리세요.",
+  "Tahan bebuli pipet untuk menyedut Penunjuk Sejagat.",
+  "सार्वभौमिक सूचक खींचने के लिए पिपेट का बल्ब दबाए रखें।"
+ ],
+ "15": [
+  "看到这个绿色了吗？通用指示剂一开始是绿色的，是中性的，就像水一样。遇到酸或碱时，颜色会告诉你它有多强。",
+  "이 초록색이 보이나요? 만능 지시약은 처음에는 초록색이에요. 물처럼 중성이죠. 산이나 알칼리를 만나면 색깔이 그 세기를 알려 줘요.",
+  "Nampak warna hijau ini? Penunjuk Sejagat bermula dengan warna hijau, neutral seperti air. Apabila bertemu asid atau alkali, warnanya menunjukkan betapa kuatnya.",
+  "यह हरा रंग देख रहे हैं? सार्वभौमिक सूचक शुरू में हरा होता है, पानी की तरह उदासीन। जब यह किसी अम्ल या क्षार से मिलता है, तो उसका रंग बताता है कि वह कितना तीव्र है।"
+ ],
+ "16": [
+  "移液管满了！现在把它拖到试管上方，然后挤压。",
+  "피펫이 가득 찼어요! 이제 시험관 위로 끌어다 놓고 짜 보세요.",
+  "Pipet sudah penuh! Sekarang seret ke atas tabung uji dan picit.",
+  "पिपेट भर गया! अब इसे परखनली के ऊपर खींचकर ले जाएँ और दबाएँ।"
+ ],
+ "17": [
+  "再多按住一会儿，把它完全吸满。",
+  "고무공을 조금 더 오래 눌러 끝까지 빨아올리세요.",
+  "Tahan bebuli sedikit lebih lama untuk menyedut sepenuhnya.",
+  "इसे पूरा खींचने के लिए बल्ब को थोड़ी देर और दबाए रखें।"
+ ],
+ "18": [
+  "测试柠檬汁",
+  "레몬즙 테스트하기",
+  "Uji Jus Lemon",
+  "नींबू के रस का परीक्षण करें"
+ ],
+ "19": [
+  "挤压橡胶球3次，把指示剂滴入试管。",
+  "고무공을 3번 눌러 지시약을 시험관에 떨어뜨리세요.",
+  "Picit bebuli 3 kali untuk menitiskan penunjuk ke dalam tabung.",
+  "सूचक को परखनली में डालने के लिए बल्ब को 3 बार दबाएँ।"
+ ],
+ "20": [
+  "红色，pH 2（强酸性）",
+  "빨간색, pH 2 (강한 산성)",
+  "Merah, pH 2 (sangat berasid)",
+  "लाल, pH 2 (अत्यधिक अम्लीय)"
+ ],
+ "21": [
+  "红色！柠檬汁是强酸性的，pH 2。",
+  "빨간색! 레몬즙은 강한 산성이에요, pH 2.",
+  "MERAH! Jus lemon sangat berasid, pH 2.",
+  "लाल! नींबू का रस अत्यधिक अम्लीय है, pH 2।"
+ ],
+ "22": [
+  "把移液管拖到柠檬汁试管上方，然后挤压。",
+  "피펫을 레몬즙 시험관 위로 끌어다 놓고 짜 보세요.",
+  "Seret pipet ke atas tabung jus lemon dan picit.",
+  "पिपेट को नींबू के रस वाली परखनली के ऊपर खींचें और दबाएँ।"
+ ],
+ "23": [
+  "测试醋",
+  "식초 테스트하기",
+  "Uji Cuka",
+  "सिरके का परीक्षण करें"
+ ],
+ "24": [
+  "把3滴通用指示剂挤入醋试管。",
+  "만능 지시약 3방울을 식초 시험관에 짜 넣으세요.",
+  "Picit 3 titik Penunjuk Sejagat ke dalam tabung uji CUKA.",
+  "सिरके वाली परखनली में सार्वभौमिक सूचक की 3 बूँदें डालें।"
+ ],
+ "25": [
+  "橙色，pH 4（弱酸性）",
+  "주황색, pH 4 (약한 산성)",
+  "Oren, pH 4 (berasid lemah)",
+  "नारंगी, pH 4 (दुर्बल अम्लीय)"
+ ],
+ "26": [
+  "橙色！醋是弱酸性的，pH 4。",
+  "주황색! 식초는 약한 산성이에요, pH 4.",
+  "Oren! Cuka berasid lemah, pH 4.",
+  "नारंगी! सिरका दुर्बल अम्लीय है, pH 4।"
+ ],
+ "27": [
+  "在醋试管上方挤压滴管。",
+  "식초 시험관 위에서 스포이트를 짜세요.",
+  "Picit penitis di atas tabung cuka.",
+  "सिरके वाली परखनली के ऊपर ड्रॉपर को दबाएँ।"
+ ],
+ "28": [
+  "测试水",
+  "물 테스트하기",
+  "Uji Air",
+  "पानी का परीक्षण करें"
+ ],
+ "29": [
+  "把3滴挤入水试管。",
+  "물 시험관에 3방울을 짜 넣으세요.",
+  "Picit 3 titik ke dalam tabung uji AIR.",
+  "पानी वाली परखनली में 3 बूँदें डालें।"
+ ],
+ "30": [
+  "绿色，pH 7（中性）",
+  "초록색, pH 7 (중성)",
+  "Hijau, pH 7 (neutral)",
+  "हरा, pH 7 (उदासीन)"
+ ],
+ "31": [
+  "绿色！这是中性的，和指示剂本身一样。水的pH是7。",
+  "초록색! 지시약 자체와 같은 중성이에요. 물은 pH 7이에요.",
+  "Hijau! Itu neutral, sama seperti penunjuk itu sendiri. Air ialah pH 7.",
+  "हरा! यह उदासीन है, बिल्कुल सूचक के अपने रंग जैसा। पानी का pH 7 होता है।"
+ ],
+ "32": [
+  "在水试管上方挤压。",
+  "물 시험관 위에서 짜세요.",
+  "Picit di atas tabung air.",
+  "पानी वाली परखनली के ऊपर दबाएँ।"
+ ],
+ "33": [
+  "测试碳酸氢钠",
+  "탄산수소나트륨 테스트하기",
+  "Uji Bikarbonat",
+  "बाइकार्बोनेट का परीक्षण करें"
+ ],
+ "34": [
+  "把3滴挤入碳酸氢钠试管。",
+  "탄산수소나트륨 시험관에 3방울을 짜 넣으세요.",
+  "Picit 3 titik ke dalam tabung uji BIKARBONAT.",
+  "बाइकार्बोनेट वाली परखनली में 3 बूँदें डालें।"
+ ],
+ "35": [
+  "蓝绿色，pH 8（弱碱性）",
+  "청록색, pH 8 (약한 알칼리성)",
+  "Biru kehijauan, pH 8 (beralkali lemah)",
+  "नीला-हरा, pH 8 (दुर्बल क्षारीय)"
+ ],
+ "36": [
+  "哇！快看！蓝绿色，碳酸氢钠是弱碱性的，pH 8。",
+  "와! 보세요! 청록색이에요, 탄산수소나트륨은 약한 알칼리성이에요, pH 8.",
+  "WOW! Lihat itu! Biru kehijauan, bikarbonat beralkali lemah, pH 8.",
+  "वाह! देखिए! नीला-हरा, बाइकार्बोनेट दुर्बल क्षारीय है, pH 8।"
+ ],
+ "37": [
+  "在碳酸氢钠试管上方挤压。",
+  "탄산수소나트륨 시험관 위에서 짜세요.",
+  "Picit di atas tabung bikarbonat.",
+  "बाइकार्बोनेट वाली परखनली के ऊपर दबाएँ।"
+ ],
+ "38": [
+  "测试漂白剂",
+  "표백제 테스트하기",
+  "Uji Peluntur",
+  "ब्लीच का परीक्षण करें"
+ ],
+ "39": [
+  "小心：漂白剂有腐蚀性。把3滴挤入漂白剂试管。",
+  "조심하세요: 표백제는 부식성이에요. 표백제 시험관에 3방울을 짜 넣으세요.",
+  "BERHATI-HATI: peluntur bersifat menghakis. Picit 3 titik ke dalam tabung uji PELUNTUR.",
+  "सावधान: ब्लीच संक्षारक होता है। ब्लीच वाली परखनली में 3 बूँदें डालें।"
+ ],
+ "40": [
+  "紫色，pH 13（强碱性）",
+  "보라색, pH 13 (강한 알칼리성)",
+  "Ungu, pH 13 (sangat beralkali)",
+  "बैंगनी, pH 13 (अत्यधिक क्षारीय)"
+ ],
+ "41": [
+  "哇！快看！紫色，漂白剂是强碱性的，pH 13。所以它才这么危险！",
+  "와! 보세요! 보라색이에요, 표백제는 강한 알칼리성이에요, pH 13. 그래서 아주 위험해요!",
+  "WOW! Lihat itu! UNGU, peluntur sangat beralkali, pH 13. Itulah sebabnya ia sangat berbahaya!",
+  "वाह! देखिए! बैंगनी, ब्लीच अत्यधिक क्षारीय है, pH 13। इसीलिए यह इतना खतरनाक है!"
+ ],
+ "42": [
+  "小心地在漂白剂试管上方挤压。",
+  "표백제 시험관 위에서 조심해서 짜세요.",
+  "Picit dengan berhati-hati di atas tabung peluntur.",
+  "ब्लीच वाली परखनली के ऊपर सावधानी से दबाएँ।"
+ ],
+ "43": [
+  "记录你的结果",
+  "결과 기록하기",
+  "Rekod Keputusan Anda",
+  "अपने परिणाम दर्ज करें"
+ ],
+ "44": [
+  "在每个空格中输入你看到的颜色。",
+  "빈칸마다 본 색깔을 입력하세요.",
+  "Taip warna yang anda lihat dalam setiap sel kosong.",
+  "हर खाली खाने में वह रंग लिखें जो आपने देखा।"
+ ],
+ "45": [
+  "通用指示剂颜色",
+  "만능 지시약 색",
+  "Warna Penunjuk Sejagat",
+  "सार्वभौमिक सूचक का रंग"
+ ],
+ "46": [
+  "红色（pH 2）",
+  "빨간색 (pH 2)",
+  "Merah (pH 2)",
+  "लाल (pH 2)"
+ ],
+ "47": [
+  "橙色（pH 4）",
+  "주황색 (pH 4)",
+  "Oren (pH 4)",
+  "नारंगी (pH 4)"
+ ],
+ "48": [
+  "绿色（pH 7）",
+  "초록색 (pH 7)",
+  "Hijau (pH 7)",
+  "हरा (pH 7)"
+ ],
+ "49": [
+  "蓝绿色（pH 8）",
+  "청록색 (pH 8)",
+  "Biru kehijauan (pH 8)",
+  "नीला-हरा (pH 8)"
+ ],
+ "50": [
+  "紫色（pH 13）",
+  "보라색 (pH 13)",
+  "Ungu (pH 13)",
+  "बैंगनी (pH 13)"
+ ],
+ "51": [
+  "黄色（pH 5）",
+  "노란색 (pH 5)",
+  "Kuning (pH 5)",
+  "पीला (pH 5)"
+ ],
+ "52": [
+  "结果表完美！现在用石蕊重复一遍。",
+  "완벽한 결과표예요! 이제 리트머스로 다시 해 봐요.",
+  "Jadual keputusan yang sempurna! Sekarang ulang dengan Litmus.",
+  "एकदम सही परिणाम तालिका! अब लिटमस के साथ दोहराएँ।"
+ ],
+ "53": [
+  "把每种颜色配到正确的溶液上。",
+  "각 색을 알맞은 용액에 연결하세요.",
+  "Padankan setiap warna dengan larutan yang betul.",
+  "हर रंग को सही विलयन से मिलाएँ।"
+ ],
+ "54": [
+  "石蕊试纸",
+  "리트머스 종이",
+  "Kertas Litmus",
+  "लिटमस पत्र"
+ ],
+ "55": [
+  "用石蕊试纸测试",
+  "리트머스 종이로 테스트하기",
+  "Uji dengan Kertas Litmus",
+  "लिटमस पत्र से परीक्षण करें"
+ ],
+ "56": [
+  "把试纸放入每支试管中。",
+  "종이를 각 시험관 속에 담그세요.",
+  "Celupkan kertas ke dalam setiap tabung.",
+  "कागज़ को हर परखनली में डुबोएँ।"
+ ],
+ "57": [
+  "柠檬汁",
+  "레몬즙",
+  "Jus lemon",
+  "नींबू का रस"
+ ],
+ "58": [
+  "红色仍是红色，石蕊试纸告诉我们它是酸性的！",
+  "빨간색은 그대로 빨간색이에요. 리트머스 종이가 산성이라고 알려 줘요!",
+  "Merah kekal merah, kertas litmus memberitahu kita ia berasid!",
+  "लाल लाल ही रहता है, लिटमस पत्र बताता है कि यह अम्लीय है!"
+ ],
+ "59": [
+  "醋",
+  "식초",
+  "Cuka",
+  "सिरका"
+ ],
+ "60": [
+  "红色仍是红色，醋也是酸性的。",
+  "빨간색은 그대로예요. 식초도 산성이에요.",
+  "Merah kekal merah, cuka juga berasid.",
+  "लाल लाल ही रहता है, सिरका भी अम्लीय है।"
+ ],
+ "61": [
+  "水",
+  "물",
+  "Air",
+  "पानी"
+ ],
+ "62": [
+  "紫色！水使试纸变成紫色，是中性的。",
+  "보라색! 물은 종이를 보라색으로 만들어요, 중성이에요.",
+  "Ungu! Air menjadikan kertas berwarna ungu, neutral.",
+  "बैंगनी! पानी कागज़ को बैंगनी कर देता है, उदासीन।"
+ ],
+ "63": [
+  "碳酸氢钠",
+  "탄산수소나트륨",
+  "Bikarbonat",
+  "बाइकार्बोनेट"
+ ],
+ "64": [
+  "蓝色！碱使它变成了蓝色。",
+  "파란색! 알칼리가 파랗게 바꿨어요.",
+  "Biru! Alkali menjadikannya biru.",
+  "नीला! क्षार ने इसे नीला कर दिया।"
+ ],
+ "65": [
+  "漂白剂",
+  "표백제",
+  "Peluntur",
+  "ब्लीच"
+ ],
+ "66": [
+  "蓝色！漂白剂也是强碱。",
+  "파란색! 표백제도 강한 알칼리예요.",
+  "Biru! Peluntur juga alkali yang kuat.",
+  "नीला! ब्लीच भी एक तीव्र क्षार है।"
+ ],
+ "67": [
+  "5支试管都用石蕊试纸测试完了！",
+  "시험관 5개를 모두 리트머스 종이로 테스트했어요!",
+  "Kesemua 5 tabung telah diuji dengan kertas litmus!",
+  "सभी 5 परखनलियों का लिटमस पत्र से परीक्षण हो गया!"
+ ],
+ "68": [
+  "把试纸放入下一支试管中。",
+  "종이를 다음 시험관에 담그세요.",
+  "Celupkan kertas ke dalam tabung seterusnya.",
+  "कागज़ को अगली परखनली में डुबोएँ।"
+ ],
+ "69": [
+  "记录石蕊结果",
+  "리트머스 결과 기록하기",
+  "Rekod Keputusan Litmus",
+  "लिटमस के परिणाम दर्ज करें"
+ ],
+ "70": [
+  "在每个空格中输入试纸变成的颜色。",
+  "빈칸마다 리트머스 종이가 변한 색깔을 입력하세요.",
+  "Taip warna yang bertukar pada kertas dalam setiap sel kosong.",
+  "हर खाली खाने में वह रंग लिखें जिसमें कागज़ बदला।"
+ ],
+ "71": [
+  "石蕊颜色",
+  "리트머스 색",
+  "Warna litmus",
+  "लिटमस का रंग"
+ ],
+ "72": [
+  "红色（酸）",
+  "빨간색 (산)",
+  "Merah (asid)",
+  "लाल (अम्ल)"
+ ],
+ "73": [
+  "紫色（中性）",
+  "보라색 (중성)",
+  "Ungu (neutral)",
+  "बैंगनी (उदासीन)"
+ ],
+ "74": [
+  "蓝色（碱）",
+  "파란색 (알칼리)",
+  "Biru (alkali)",
+  "नीला (क्षार)"
+ ],
+ "75": [
+  "石蕊结果已记录。接下来是酚酞！",
+  "리트머스 결과를 기록했어요. 이제 페놀프탈레인이에요!",
+  "Keputusan litmus direkodkan. Sekarang Fenolftalein!",
+  "लिटमस के परिणाम दर्ज हो गए। अब फेनॉल्फथेलिन की बारी!"
+ ],
+ "76": [
+  "把颜色配到溶液上。",
+  "색과 용액을 연결하세요.",
+  "Padankan warna dengan larutan.",
+  "रंगों को विलयनों से मिलाएँ।"
+ ],
+ "77": [
+  "酚酞",
+  "페놀프탈레인",
+  "Fenolftalein",
+  "फेनॉल्फथेलिन"
+ ],
+ "78": [
+  "吸取酚酞",
+  "페놀프탈레인 빨아올리기",
+  "Sedut Fenolftalein",
+  "फेनॉल्फथेलिन भरें"
+ ],
+ "79": [
+  "按住移液管的橡胶球，吸取酚酞。",
+  "피펫 고무공을 길게 눌러 페놀프탈레인을 빨아올리세요.",
+  "Tahan bebuli pipet untuk menyedut Fenolftalein.",
+  "फेनॉल्फथेलिन खींचने के लिए पिपेट का बल्ब दबाए रखें।"
+ ],
+ "80": [
+  "这个是无色的，几乎看不见！酚酞只与碱反应，在酸中不会有任何变化。",
+  "이건 색이 없어서 거의 보이지 않아요! 페놀프탈레인은 알칼리에만 반응해요. 산에서는 아무 일도 일어나지 않아요.",
+  "Yang ini tidak berwarna, hampir tidak kelihatan! Fenolftalein hanya bertindak balas dengan alkali. Tiada apa-apa berlaku dalam asid.",
+  "यह रंगहीन है, मुश्किल से दिखता है! फेनॉल्फथेलिन केवल क्षारों से अभिक्रिया करता है। अम्लों में कुछ नहीं होता।"
+ ],
+ "81": [
+  "酚酞准备好了。它只与碱反应！",
+  "페놀프탈레인이 준비됐어요. 이건 알칼리에만 반응해요!",
+  "Fenolftalein sedia. Yang ini hanya bertindak balas dengan alkali!",
+  "फेनॉल्फथेलिन तैयार है। यह केवल क्षारों से अभिक्रिया करता है!"
+ ],
+ "82": [
+  "再多按住一会儿。",
+  "고무공을 조금 더 오래 누르세요.",
+  "Tahan bebuli sedikit lebih lama.",
+  "बल्ब को थोड़ी देर और दबाए रखें।"
+ ],
+ "83": [
+  "酚酞：柠檬汁",
+  "페놀프탈레인: 레몬즙",
+  "Fenolftalein: Jus Lemon",
+  "फेनॉल्फथेलिन: नींबू का रस"
+ ],
+ "84": [
+  "把3滴酚酞挤入柠檬汁试管。",
+  "페놀프탈레인 3방울을 레몬즙 시험관에 짜 넣으세요.",
+  "Picit 3 titik Fenolftalein ke dalam tabung uji JUS LEMON.",
+  "नींबू के रस वाली परखनली में फेनॉल्फथेलिन की 3 बूँदें डालें।"
+ ],
+ "85": [
+  "无色（酸性/中性）",
+  "무색 (산성/중성)",
+  "Tanpa warna (asid/neutral)",
+  "रंगहीन (अम्लीय/उदासीन)"
+ ],
+ "86": [
+  "没有变化，这就是你的结果！无色 = 酸性或中性。",
+  "변화가 없어요, 그게 바로 결과예요! 무색 = 산성 또는 중성.",
+  "Tiada perubahan, dan itulah keputusan anda! Tanpa warna = asid atau neutral.",
+  "कोई बदलाव नहीं, और यही आपका परिणाम है! रंगहीन = अम्लीय या उदासीन।"
+ ],
+ "87": [
+  "在柠檬汁试管上方挤压。",
+  "레몬즙 시험관 위에서 짜세요.",
+  "Picit di atas tabung jus lemon.",
+  "नींबू के रस वाली परखनली के ऊपर दबाएँ।"
+ ],
+ "88": [
+  "酚酞：醋",
+  "페놀프탈레인: 식초",
+  "Fenolftalein: Cuka",
+  "फेनॉल्फथेलिन: सिरका"
+ ],
+ "89": [
+  "把3滴挤入醋试管。",
+  "식초 시험관에 3방울을 짜 넣으세요.",
+  "Picit 3 titik ke dalam tabung uji CUKA.",
+  "सिरके वाली परखनली में 3 बूँदें डालें।"
+ ],
+ "90": [
+  "无色（酸性）",
+  "무색 (산성)",
+  "Tanpa warna (asid)",
+  "रंगहीन (अम्लीय)"
+ ],
+ "91": [
+  "在酸中又是无色的！",
+  "산에서도 또 무색이에요!",
+  "Tanpa warna lagi dalam asid!",
+  "अम्ल में फिर रंगहीन!"
+ ],
+ "92": [
+  "在醋试管上方挤压。",
+  "식초 시험관 위에서 짜세요.",
+  "Picit di atas tabung cuka.",
+  "सिरके वाली परखनली के ऊपर दबाएँ।"
+ ],
+ "93": [
+  "酚酞：水",
+  "페놀프탈레인: 물",
+  "Fenolftalein: Air",
+  "फेनॉल्फथेलिन: पानी"
+ ],
+ "94": [
+  "无色（中性）",
+  "무색 (중성)",
+  "Tanpa warna (neutral)",
+  "रंगहीन (उदासीन)"
+ ],
+ "95": [
+  "在中性的水中也是无色的！",
+  "중성인 물에서도 무색이에요!",
+  "Tanpa warna dalam air neutral juga!",
+  "उदासीन पानी में भी रंगहीन!"
+ ],
+ "96": [
+  "酚酞：碳酸氢钠",
+  "페놀프탈레인: 탄산수소나트륨",
+  "Fenolftalein: Bikarbonat",
+  "फेनॉल्फथेलिन: बाइकार्बोनेट"
+ ],
+ "97": [
+  "淡粉色（弱碱性）",
+  "연한 분홍색 (약한 알칼리성)",
+  "Merah jambu pucat (beralkali lemah)",
+  "हल्का गुलाबी (दुर्बल क्षारीय)"
+ ],
+ "98": [
+  "淡粉色！它起反应了，碳酸氢钠是碱性的。",
+  "연한 분홍색! 반응했어요, 탄산수소나트륨은 알칼리성이에요.",
+  "Merah jambu pucat! Ia bertindak balas, bikarbonat beralkali.",
+  "हल्का गुलाबी! इसने अभिक्रिया की, बाइकार्बोनेट क्षारीय है।"
+ ],
+ "99": [
+  "酚酞：漂白剂",
+  "페놀프탈레인: 표백제",
+  "Fenolftalein: Peluntur",
+  "फेनॉल्फथेलिन: ब्लीच"
+ ],
+ "100": [
+  "把3滴挤入漂白剂试管。",
+  "표백제 시험관에 3방울을 짜 넣으세요.",
+  "Picit 3 titik ke dalam tabung uji PELUNTUR.",
+  "ब्लीच वाली परखनली में 3 बूँदें डालें।"
+ ],
+ "101": [
+  "亮粉色（强碱性）",
+  "진한 분홍색 (강한 알칼리성)",
+  "Merah jambu terang (sangat beralkali)",
+  "चमकीला गुलाबी (अत्यधिक क्षारीय)"
+ ],
+ "102": [
+  "亮粉色！漂白剂是强碱性的，这是目前最强的反应。",
+  "진한 분홍색! 표백제는 강한 알칼리성이에요, 지금까지 가장 강한 반응이에요.",
+  "MERAH JAMBU TERANG! Peluntur sangat beralkali, tindak balas paling kuat setakat ini.",
+  "चमकीला गुलाबी! ब्लीच अत्यधिक क्षारीय है, अब तक की सबसे तीव्र अभिक्रिया।"
+ ],
+ "103": [
+  "在漂白剂试管上方挤压。",
+  "표백제 시험관 위에서 짜세요.",
+  "Picit di atas tabung peluntur.",
+  "ब्लीच वाली परखनली के ऊपर दबाएँ।"
+ ],
+ "104": [
+  "记录酚酞结果",
+  "페놀프탈레인 결과 기록하기",
+  "Rekod Keputusan Fenolftalein",
+  "फेनॉल्फथेलिन के परिणाम दर्ज करें"
+ ],
+ "105": [
+  "在每个空格中输入你看到的现象。",
+  "빈칸마다 본 것을 입력하세요.",
+  "Taip apa yang anda lihat dalam setiap sel kosong.",
+  "हर खाली खाने में वह लिखें जो आपने देखा।"
+ ],
+ "106": [
+  "酚酞颜色",
+  "페놀프탈레인 색",
+  "Warna fenolftalein",
+  "फेनॉल्फथेलिन का रंग"
+ ],
+ "107": [
+  "无色",
+  "무색",
+  "Tanpa warna",
+  "रंगहीन"
+ ],
+ "108": [
+  "淡粉色",
+  "연한 분홍색",
+  "Merah jambu pucat",
+  "हल्का गुलाबी"
+ ],
+ "109": [
+  "亮粉色",
+  "진한 분홍색",
+  "Merah jambu terang",
+  "चमकीला गुलाबी"
+ ],
+ "110": [
+  "结果表完成了！现在我们来理解这一切意味着什么。",
+  "결과표를 완성했어요! 이제 이것이 무엇을 뜻하는지 알아봐요.",
+  "Jadual keputusan lengkap! Sekarang mari kita fahami maksud semua ini.",
+  "परिणाम तालिका पूरी हो गई! अब समझते हैं कि इन सबका क्या मतलब है।"
+ ],
+ "111": [
+  "把每个空格都填满。",
+  "모든 칸을 채우세요.",
+  "Isi setiap sel.",
+  "हर खाने को भरें।"
+ ],
+ "112": [
+  "理解",
+  "이해하기",
+  "Fahami",
+  "समझें"
+ ],
+ "113": [
+  "这意味着什么？",
+  "무슨 뜻일까요?",
+  "Apakah Maksudnya?",
+  "इसका क्या मतलब है?"
+ ],
+ "114": [
+  "阅读每张幻灯片，看看数据告诉了我们什么。",
+  "각 슬라이드를 읽고 데이터가 무엇을 말해 주는지 확인하세요.",
+  "Baca setiap slaid untuk melihat apa yang data beritahu kita.",
+  "हर स्लाइड पढ़ें और देखें कि आँकड़े हमें क्या बता रहे हैं।"
+ ],
+ "115": [
+  "规律",
+  "규칙성",
+  "Corak",
+  "पैटर्न"
+ ],
+ "116": [
+  "通用指示剂会在不同强度的酸和碱中显示不同的颜色，形成从红到紫的彩虹。红色表示强酸，橙色和黄色表示较弱的酸，绿色表示中性。绿色对应 pH 7，也就是纯水的 pH，所以瓶中的指示剂液体本身看起来也是绿色的。蓝色和紫色表示碱，紫色越深，碱性越强。在你的结果中，柠檬汁是红色，醋是橙色，水是绿色，小苏打是蓝绿色，漂白剂是紫色，所以这些颜色把每种液体放在了 pH 标尺上的位置。",
+  "만능 지시약은 산과 알칼리의 세기마다 다른 색을 띠어서 빨강에서 보라까지 무지개를 만들어요. 빨강은 강한 산, 주황과 노랑은 약한 산, 초록은 중성을 뜻해요. 초록은 순수한 물의 pH인 pH 7이고, 그래서 병 속의 지시약 액체 자체도 초록색으로 보여요. 파랑과 보라는 알칼리를 뜻하며, 보라가 진할수록 알칼리가 더 강해요. 여러분의 결과에서 레몬즙은 빨강, 식초는 주황, 물은 초록, 베이킹소다는 청록, 표백제는 보라였고, 그 색들이 각 액체를 pH 눈금 위에 올려 놓아 주었어요.",
+  "Penunjuk Universal bertukar kepada warna yang berbeza bagi setiap kekuatan asid dan alkali, lalu membentuk pelangi daripada merah hingga ungu. Merah bermaksud asid kuat, jingga dan kuning bermaksud asid yang lebih lemah, dan hijau bermaksud neutral. Hijau ialah pH 7, iaitu pH air tulen, dan itulah sebabnya cecair penunjuk itu sendiri kelihatan hijau di dalam botol. Biru dan ungu bermaksud alkali, dan semakin gelap warna ungu, semakin kuat alkali itu. Dalam keputusan anda, jus lemon berwarna merah, cuka jingga, air hijau, bikarbonat biru-hijau dan peluntur ungu, jadi warna-warna itu meletakkan setiap cecair pada skala pH.",
+  "यूनिवर्सल इंडिकेटर अम्ल और क्षार की हर ताकत के लिए अलग रंग दिखाता है और लाल से बैंगनी तक इंद्रधनुष बनाता है। लाल का मतलब प्रबल अम्ल है, नारंगी और पीला दुर्बल अम्ल बताते हैं, और हरा उदासीन होता है। हरा रंग pH 7 है, जो शुद्ध पानी का pH है, इसीलिए बोतल में इंडिकेटर का तरल भी हरा दिखता है। नीला और बैंगनी क्षार दिखाते हैं, और बैंगनी जितना गहरा हो, क्षार उतना ही प्रबल होता है। आपके परिणामों में नींबू का रस लाल, सिरका नारंगी, पानी हरा, बेकिंग सोडा नीला-हरा और ब्लीच बैंगनी था, इसलिए इन रंगों ने हर तरल को pH पैमाने पर उसकी जगह दे दी।"
+ ],
+ "117": [
+  "石蕊告诉我们什么",
+  "리트머스가 알려 주는 것",
+  "Apa yang Litmus Beritahu Kita",
+  "लिटमस हमें क्या बताता है"
+ ],
+ "118": [
+  "石蕊试纸只给你两种可能的答案：遇酸变红，遇碱变蓝。在中性的水中它保持紫色。它无法告诉你酸或碱有多强，因为柠檬汁和醋都把它变成了同样的红色。所以石蕊是一种快速的初步测试，而需要更多细节时，通用指示剂更合适。科学家常常先用石蕊判断溶液位于 pH 标尺的哪一边，再进行更仔细的测试。",
+  "리트머스 종이는 두 가지 답만 알려 줘요. 산에서는 빨갛게, 알칼리에서는 파랗게 변해요. 중성인 물에서는 보라색 그대로 있어요. 레몬즙과 식초가 둘 다 같은 빨간색으로 바꾸었듯이, 산이나 알칼리가 얼마나 센지는 알려 주지 못해요. 그래서 리트머스는 빠른 첫 검사이고, 자세한 정보가 필요할 때는 만능 지시약이 더 좋아요. 과학자들은 용액을 더 자세히 검사하기 전에 리트머스로 pH 눈금의 어느 쪽인지 먼저 확인하곤 해요.",
+  "Kertas litmus hanya memberi dua jawapan yang mungkin: ia bertukar merah dalam asid dan biru dalam alkali. Dalam air neutral ia kekal ungu. Ia tidak dapat memberitahu anda betapa kuatnya asid atau alkali itu, kerana jus lemon dan cuka kedua-duanya menukarnya kepada merah yang sama. Itulah sebabnya litmus ialah ujian pertama yang pantas, manakala Penunjuk Universal lebih baik apabila anda memerlukan butiran. Saintis sering menggunakan litmus untuk menentukan di sebelah mana skala pH sesuatu larutan berada sebelum mengujinya dengan lebih teliti.",
+  "लिटमस पेपर सिर्फ़ दो संभावित उत्तर देता है: अम्ल में यह लाल और क्षार में नीला हो जाता है। उदासीन पानी में यह बैंगनी ही रहता है। यह नहीं बता सकता कि अम्ल या क्षार कितना प्रबल है, क्योंकि नींबू का रस और सिरका दोनों ने इसे एक जैसा लाल कर दिया। इसीलिए लिटमस एक तेज़ पहला परीक्षण है, जबकि ब्योरे की ज़रूरत हो तो यूनिवर्सल इंडिकेटर बेहतर है। वैज्ञानिक अक्सर किसी घोल को ध्यान से जाँचने से पहले लिटमस से देख लेते हैं कि वह pH पैमाने के किस ओर है।"
+ ],
+ "119": [
+  "酚酞告诉我们什么",
+  "페놀프탈레인이 알려 주는 것",
+  "Apa yang Fenolftalein Beritahu Kita",
+  "फेनॉल्फथेलिन हमें क्या बताता है"
+ ],
+ "120": [
+  "酚酞在酸和中性溶液中完全无色，所以看起来什么也没有发生。它只对碱起反应，会变成粉红色。碱越强，粉红色越鲜艳，所以小苏打呈淡粉色，漂白剂呈亮粉色。由于颜色变化非常突然，化学家在滴定中用它来发现酸恰好被用完的那一刻。这让它成为检测碱的非常精确的工具，但它对酸什么也告诉不了你。",
+  "페놀프탈레인은 산과 중성 용액에서 완전히 무색이라서 아무 일도 일어나지 않은 것처럼 보여요. 알칼리에만 반응해서 분홍색으로 변해요. 알칼리가 셀수록 분홍색이 더 진해서, 베이킹소다는 연한 분홍, 표백제는 진한 분홍이 되었어요. 색이 갑자기 바뀌기 때문에, 화학자들은 적정에서 산이 모두 쓰인 정확한 순간을 알아내려고 이 지시약을 써요. 그래서 알칼리를 아주 정확하게 알아내는 도구이지만, 산에 대해서는 아무것도 알려 주지 못해요.",
+  "Fenolftalein tidak berwarna langsung dalam asid dan larutan neutral, jadi kelihatan seolah-olah tiada apa-apa berlaku. Ia hanya bertindak balas dengan alkali dan bertukar merah jambu. Semakin kuat alkali, semakin terang warna merah jambu itu, jadi bikarbonat memberi merah jambu pudar dan peluntur memberi merah jambu terang. Oleh sebab perubahannya sangat mendadak, ahli kimia menggunakannya dalam pentitratan untuk mengesan saat tepat asid telah habis digunakan. Ini menjadikannya alat yang sangat tepat untuk alkali, tetapi ia tidak memberitahu apa-apa tentang asid.",
+  "फिनॉलफ्थेलिन अम्ल और उदासीन घोल में बिल्कुल रंगहीन रहता है, इसलिए लगता है कि कुछ हुआ ही नहीं। यह केवल क्षार पर प्रतिक्रिया करता है और गुलाबी हो जाता है। क्षार जितना प्रबल हो, गुलाबी रंग उतना चटक होता है, इसलिए बेकिंग सोडा ने हल्का गुलाबी और ब्लीच ने चटक गुलाबी रंग दिया। रंग अचानक बदलता है, इसलिए रसायनशास्त्री अनुमापन (टाइट्रेशन) में उसका उपयोग करके उस क्षण को पहचानते हैं जब अम्ल पूरी तरह खत्म हो जाता है। यह इसे क्षार के लिए बहुत सटीक औज़ार बनाता है, लेकिन अम्ल के बारे में यह कुछ नहीं बताता।"
+ ],
+ "121": [
+  "结论",
+  "결론",
+  "Kesimpulan",
+  "निष्कर्ष"
+ ],
+ "122": [
+  "柠檬汁和醋是酸，水是中性的，小苏打和漂白剂是碱。三种指示剂的结果相互一致，这让结论更加可靠。石蕊把液体分成酸、中性和碱，酚酞只挑出了碱，而通用指示剂则让每种液体在 pH 标尺上有了自己的位置。每种指示剂都是不同的工具，各自告诉你其他指示剂无法告诉你的信息。科学家在相信一个结果之前，会像你一样结合多个测试的证据。",
+  "레몬즙과 식초는 산이고, 물은 중성이며, 베이킹소다와 표백제는 알칼리예요. 세 가지 지시약의 결과가 서로 일치해서 결론이 더 믿을 만해요. 리트머스는 액체를 산, 중성, 알칼리로 나누었고, 페놀프탈레인은 알칼리만 골라냈으며, 만능 지시약은 각 액체에 pH 눈금 위의 제자리를 알려 주었어요. 지시약마다 다른 도구이고, 저마다 다른 지시약이 알려 주지 못하는 것을 알려 줘요. 과학자들은 결과를 믿기 전에, 여러분처럼 한 가지가 아닌 여러 검사의 증거를 함께 살펴봐요.",
+  "Jus lemon dan cuka ialah asid, air ialah neutral, dan bikarbonat serta peluntur ialah alkali. Ketiga-tiga penunjuk bersetuju antara satu sama lain, dan ini menjadikan kesimpulan lebih boleh dipercayai. Litmus mengasingkan cecair kepada asid, neutral dan alkali, fenolftalein hanya mengenal pasti alkali, dan Penunjuk Universal memberi setiap cecair tempatnya sendiri pada skala pH. Setiap penunjuk ialah alat yang berbeza, dan masing-masing memberitahu anda sesuatu yang tidak dapat diberitahu oleh yang lain. Saintis menggabungkan bukti daripada lebih daripada satu ujian, seperti yang anda lakukan, sebelum mereka mempercayai sesuatu keputusan.",
+  "नींबू का रस और सिरका अम्ल हैं, पानी उदासीन है, और बेकिंग सोडा तथा ब्लीच क्षार हैं। तीनों इंडिकेटर एक-दूसरे से सहमत रहे, जिससे निष्कर्ष और भरोसेमंद बनता है। लिटमस ने तरल पदार्थों को अम्ल, उदासीन और क्षार में बाँटा, फिनॉलफ्थेलिन ने सिर्फ़ क्षार पहचाने, और यूनिवर्सल इंडिकेटर ने हर तरल को pH पैमाने पर उसकी अपनी जगह दी। हर इंडिकेटर एक अलग औज़ार है और हर एक वह बताता है जो बाकी नहीं बता पाते। वैज्ञानिक किसी परिणाम पर भरोसा करने से पहले, आपकी तरह, एक से अधिक परीक्षणों के प्रमाण मिलाते हैं।"
+ ],
+ "123": [
+  "你读懂了数据。这就是科学！",
+  "데이터를 이해했어요. 이게 바로 과학이에요.",
+  "Anda sudah memahami data itu. Itulah sains.",
+  "आपने डेटा को समझ लिया। यही विज्ञान है।"
+ ],
+ "124": [
+  "点击每张卡片。",
+  "모든 카드를 눌러 보세요.",
+  "Ketik setiap kad.",
+  "हर कार्ड पर टैप करें।"
+ ],
+ "125": [
+  "与现实生活的联系",
+  "실생활과의 연결",
+  "Kaitan dengan Kehidupan Sebenar",
+  "वास्तविक जीवन से संबंध"
+ ],
+ "126": [
+  "这些化学物质就在你家里！",
+  "이 화학 물질들은 여러분의 집에도 있어요!",
+  "Bahan kimia ini ada di rumah anda!",
+  "ये रसायन आपके घर में ही हैं!"
+ ],
+ "127": [
+  "做得好，使用指示剂测试pH值已完成！",
+  "잘했어요, 지시약으로 pH 테스트하기를 마쳤어요!",
+  "Syabas, Menguji pH Menggunakan Penunjuk telah selesai!",
+  "बहुत बढ़िया, सूचकों का उपयोग करके pH का परीक्षण पूरा हुआ!"
+ ],
+ "128": [
+  "测量斜面上的力",
+  "경사면에서 힘 측정하기",
+  "Mengukur Daya pada Satah Condong",
+  "आनत तल पर बल मापना"
+ ],
+ "129": [
+  "安全检查",
+  "안전 점검",
+  "Semakan Keselamatan",
+  "सुरक्षा जाँच"
+ ],
+ "130": [
+  "开始之前，请点击每张危险卡片。",
+  "시작하기 전에 각 위험 카드를 눌러 보세요.",
+  "Ketik setiap kad bahaya sebelum kita mula.",
+  "शुरू करने से पहले हर खतरे वाले कार्ड पर टैप करें।"
+ ],
+ "131": [
+  "坠落的重物",
+  "떨어지는 물체",
+  "Jisim Jatuh",
+  "गिरने वाले भार"
+ ],
+ "132": [
+  "不要站在木块下方。绳子断了重物会掉下来。",
+  "블록 아래에서 떨어져 서세요. 줄이 끊어지면 물체가 떨어질 수 있어요.",
+  "Jauhi bahagian bawah blok. Jisim boleh jatuh jika tali putus.",
+  "ब्लॉक के नीचे से दूर रहें। डोरी टूटने पर भार गिर सकते हैं।"
+ ],
+ "133": [
+  "锋利的边缘",
+  "날카로운 모서리",
+  "Tepi Tajam",
+  "तेज़ किनारे"
+ ],
+ "134": [
+  "斜面的边缘可能很锋利。请小心操作。",
+  "경사면의 모서리가 날카로울 수 있어요. 조심해서 다루세요.",
+  "Tepi satah condong mungkin tajam. Kendalikan dengan berhati-hati.",
+  "आनत तल का किनारा तेज़ हो सकता है। सावधानी से पकड़ें।"
+ ],
+ "135": [
+  "平稳拉动",
+  "일정하게 당기기",
+  "Tarikan Stabil",
+  "स्थिर खिंचाव"
+ ],
+ "136": [
+  "要平稳地拉，猛地一拽可能会拉断绳子。",
+  "부드럽게 당기세요. 갑자기 홱 당기면 줄이 끊어질 수 있어요.",
+  "Tarik dengan lancar, sentapan mengejut boleh memutuskan tali.",
+  "धीरे-धीरे खींचें, अचानक झटका देने से डोरी टूट सकती है।"
+ ],
+ "137": [
+  "安全检查完成。我们来搭建实验装置吧。",
+  "안전 점검을 마쳤어요. 이제 실험 장치를 설치해 봐요.",
+  "Semakan keselamatan selesai. Mari kita sediakan radas.",
+  "सुरक्षा जाँच पूरी हुई। आइए उपकरण लगाते हैं।"
+ ],
+ "138": [
+  "点击每张危险卡片。",
+  "모든 위험 카드를 눌러 보세요.",
+  "Ketik setiap kad bahaya.",
+  "हर खतरे वाले कार्ड पर टैप करें।"
+ ],
+ "139": [
+  "准备",
+  "준비",
+  "Persediaan",
+  "तैयारी"
+ ],
+ "140": [
+  "放置斜面",
+  "경사면 놓기",
+  "Letakkan Satah Condong",
+  "आनत तल रखें"
+ ],
+ "141": [
+  "把你的斜面放在实验台上。",
+  "경사면을 실험대 위에 놓으세요.",
+  "Letakkan satah condong anda di atas meja amali.",
+  "अपना आनत तल बेंच पर रखें।"
+ ],
+ "142": [
+  "很好，平放的斜面是我们的起点。我们会把它倾斜到不同的角度，来测量力是如何变化的。",
+  "좋아요, 평평한 경사면이 우리의 출발점이에요. 여러 각도로 기울여 힘이 어떻게 변하는지 측정할 거예요.",
+  "Bagus, satah condong yang rata ialah titik permulaan kita. Kita akan condongkannya pada pelbagai sudut untuk mengukur bagaimana daya berubah.",
+  "बढ़िया, समतल आनत तल हमारा शुरुआती बिंदु है। हम इसे अलग-अलग कोणों पर झुकाकर मापेंगे कि बल कैसे बदलता है।"
+ ],
+ "143": [
+  "把斜面拖到实验台上。",
+  "경사면을 실험대 위로 끌어다 놓으세요.",
+  "Seret satah condong ke atas meja amali.",
+  "आनत तल को बेंच पर खींचकर ले जाएँ।"
+ ],
+ "144": [
+  "校零弹簧测力计",
+  "뉴턴미터 영점 맞추기",
+  "Sifarkan Meter Newton",
+  "न्यूटन मीटर को शून्य पर करें"
+ ],
+ "145": [
+  "在连接任何东西之前，当指针指到0N时点击。",
+  "아무것도 달기 전에, 바늘이 0N에 닿을 때 누르세요.",
+  "Sebelum kita pasang apa-apa, ketik apabila jarum mencecah 0N.",
+  "कुछ भी जोड़ने से पहले, जब सुई 0N पर पहुँचे तब टैप करें।"
+ ],
+ "146": [
+  "一定要先校零，否则你所有的测量值都会偏差同样的数值！",
+  "항상 먼저 영점을 맞추세요. 그러지 않으면 모든 측정값이 똑같은 양만큼 틀려요!",
+  "Sentiasa sifarkan meter dahulu, jika tidak semua ukuran anda akan salah dengan jumlah yang sama!",
+  "हमेशा पहले मीटर को शून्य पर करें, वरना आपके सभी माप उतनी ही मात्रा से गलत होंगे!"
+ ],
+ "147": [
+  "在指针经过0N的那一刻点击。",
+  "바늘이 0N을 지나는 바로 그 순간에 누르세요.",
+  "Ketik tepat apabila jarum melintasi 0N.",
+  "ठीक उसी क्षण टैप करें जब सुई 0N को पार करे।"
+ ],
+ "148": [
+  "放置木块",
+  "블록 놓기",
+  "Letakkan Blok",
+  "ब्लॉक रखें"
+ ],
+ "149": [
+  "把木块放在斜面的底部。",
+  "블록을 경사면 맨 아래에 놓으세요.",
+  "Letakkan blok di bahagian bawah satah condong.",
+  "ब्लॉक को आनत तल के नीचे रखें।"
+ ],
+ "150": [
+  "木块放在底部，我们要把它沿斜面向上拉。",
+  "블록은 맨 아래에 놓아요. 경사면 위쪽으로 끌어올릴 거예요.",
+  "Blok diletakkan di bawah, kita akan menariknya naik ke atas cerun.",
+  "ब्लॉक नीचे रहता है, हम इसे ढलान पर ऊपर खींचेंगे।"
+ ],
+ "151": [
+  "连接弹簧测力计",
+  "뉴턴미터 연결하기",
+  "Pasang Meter Newton",
+  "न्यूटन मीटर जोड़ें"
+ ],
+ "152": [
+  "把弹簧测力计的挂钩挂在木块前面，手握把手那一端。",
+  "뉴턴미터의 고리를 블록 앞쪽에 걸고, 손잡이 쪽을 잡으세요.",
+  "Pasang cangkuk meter Newton pada bahagian hadapan blok, dan pegang hujung pemegang.",
+  "न्यूटन मीटर का हुक ब्लॉक के आगे वाले हिस्से में लगाएँ, और हैंडल वाला सिरा पकड़ें।"
+ ],
+ "153": [
+  "连接好了！弹簧测力计与斜面平行，这样测的是沿斜面方向的力，而不是竖直方向的力。",
+  "연결됐어요! 뉴턴미터가 경사면과 나란히 놓여 있어요. 그래야 수직이 아니라 경사면을 따라 작용하는 힘을 잴 수 있어요.",
+  "Bersambung! Meter Newton selari dengan permukaan satah condong, begitulah kita mengukur daya di sepanjang satah, bukan secara menegak.",
+  "जुड़ गया! न्यूटन मीटर आनत तल की सतह के समानांतर है, इसी तरह हम बल को तल के अनुदिश मापते हैं, ऊर्ध्वाधर नहीं।"
+ ],
+ "154": [
+  "把弹簧测力计拖到斜面上方、木块附近。",
+  "뉴턴미터를 경사면 위, 블록 가까이로 끌어다 놓으세요.",
+  "Seret meter Newton ke atas satah condong, berhampiran blok.",
+  "न्यूटन मीटर को आनत तल के ऊपर, ब्लॉक के पास खींचकर ले जाएँ।"
+ ],
+ "155": [
+  "系好绳子",
+  "끈 묶기",
+  "Ikat Tali",
+  "डोरी बाँधें"
+ ],
+ "156": [
+  "把绳子系在木块和牛顿测力计上，两端各打一个结。",
+  "끈을 블록과 뉴턴 미터에 묶고, 양쪽 끝에 매듭을 만드세요.",
+  "Ikat tali pada blok dan pada meter Newton, dengan satu simpulan di setiap hujung.",
+  "डोरी को ब्लॉक और न्यूटन मीटर से बाँधें, दोनों सिरों पर एक गाँठ लगाएँ।"
+ ],
+ "157": [
+  "两端都打好结了。结打得牢，木块在我们拉的时候就不会滑脱。",
+  "양쪽 끝에 매듭을 지었어요. 매듭이 단단하면 당기는 동안 블록이 빠지지 않아요.",
+  "Kedua-dua hujung sudah disimpul. Simpulan yang kuat bermakna blok tidak akan terlepas semasa kita menarik.",
+  "दोनों सिरों पर गाँठ लग गई। पक्की गाँठ का मतलब है कि खींचते समय ब्लॉक छूटेगा नहीं।"
+ ],
+ "158": [
+  "按下发光的位置，继续打结。",
+  "빛나는 곳을 눌러 계속 매듭을 지으세요.",
+  "Tekan tempat yang bercahaya untuk terus membuat simpulan.",
+  "गाँठ बाँधना जारी रखने के लिए चमकते स्थान को दबाएँ।"
+ ],
+ "159": [
+  "测量 0°",
+  "0°에서 측정하기",
+  "Ukur pada 0°",
+  "0° पर मापें"
+ ],
+ "160": [
+  "设置角度：0°",
+  "각도 설정: 0°",
+  "Tetapkan Sudut: 0°",
+  "कोण सेट करें: 0°"
+ ],
+ "161": [
+  "斜面一开始是平的。拖动斜面顶端的把手，直到量角器显示0°。",
+  "경사면은 평평하게 시작해요. 경사면 맨 위의 손잡이를 끌어 각도기가 0°를 가리키게 하세요.",
+  "Satah condong bermula rata. Seret pemegang di bahagian atas satah sehingga protraktor menunjukkan 0°.",
+  "आनत तल समतल से शुरू होता है। तल के ऊपरी हिस्से का हैंडल तब तक खींचें जब तक चाँदा 0° न दिखाए।"
+ ],
+ "162": [
+  "0°。观察在这个角度下力是怎样变化的。",
+  "0°. 이 각도에서 힘이 어떻게 변하는지 지켜보세요.",
+  "0°. Perhatikan bagaimana daya berubah pada sudut ini.",
+  "0°। देखें कि इस कोण पर बल कैसे बदलता है।"
+ ],
+ "163": [
+  "拖动把手，使其达到0°。",
+  "손잡이를 끌어 0°에 맞추세요.",
+  "Seret pemegang untuk mencapai 0°.",
+  "हैंडल को खींचकर 0° तक ले जाएँ।"
+ ],
+ "164": [
+  "在0°拉动木块",
+  "0°에서 블록 당기기",
+  "Tarik Blok pada 0°",
+  "0° पर ब्लॉक को खींचें"
+ ],
+ "165": [
+  "握住把手。沿斜面缓慢而平稳地向上拉，并保持与斜面平行。",
+  "손잡이를 잡으세요. 경사면을 따라 천천히 부드럽게 끌어올리되, 표면과 나란하게 유지하세요.",
+  "Pegang pemegang. Tarik perlahan-lahan dan lancar ke atas satah, sambil mengekalkannya selari dengan permukaan.",
+  "हैंडल को पकड़ें। इसे सतह के समानांतर रखते हुए तल पर धीरे और सहजता से ऊपर खींचें।"
+ ],
+ "166": [
+  "弹簧测力计显示0.3N。现在放大来精确读数。",
+  "뉴턴미터가 0.3N을 가리켜요. 이제 확대해서 정확히 읽어 보세요.",
+  "Meter Newton menunjukkan 0.3N. Sekarang zum masuk untuk membacanya dengan tepat.",
+  "न्यूटन मीटर 0.3N दिखा रहा है। अब ज़ूम करके इसे ठीक से पढ़ें।"
+ ],
+ "167": [
+  "一直按住，直到木块到达顶部！",
+  "블록이 맨 위에 닿을 때까지 계속 잡고 있으세요!",
+  "Teruskan memegang sehingga blok sampai ke atas!",
+  "ब्लॉक के ऊपर पहुँचने तक पकड़े रहें!"
+ ],
+ "168": [
+  "读取弹簧测力计",
+  "뉴턴미터 읽기",
+  "Baca Meter Newton",
+  "न्यूटन मीटर पढ़ें"
+ ],
+ "169": [
+  "点击弹簧测力计放大，读出力的大小（单位：牛顿）。",
+  "뉴턴미터를 눌러 확대하세요. 힘을 뉴턴 단위로 읽으세요.",
+  "Ketik meter Newton untuk zum masuk. Baca daya dalam Newton.",
+  "ज़ूम करने के लिए न्यूटन मीटर पर टैप करें। बल को न्यूटन में पढ़ें।"
+ ],
+ "170": [
+  "0.3N，那只是摩擦力。没有坡度，几乎不需要拉力。",
+  "0.3N, 그건 마찰력일 뿐이에요. 기울기가 없으면 끌어당기는 힘이 거의 필요 없어요.",
+  "0.3N, itu hanyalah geseran. Tiada cerun bermakna hampir tiada daya tarikan diperlukan.",
+  "0.3N, यह केवल घर्षण है। ढलान न हो तो लगभग किसी खींचने वाले बल की ज़रूरत नहीं होती।"
+ ],
+ "171": [
+  "看看指针在刻度上指向哪里。",
+  "바늘이 눈금에서 어디를 가리키는지 보세요.",
+  "Lihat di mana penunjuk menunjuk pada skala.",
+  "देखें कि सूचक पैमाने पर कहाँ इशारा कर रहा है।"
+ ],
+ "172": [
+  "测量 15°",
+  "15°에서 측정하기",
+  "Ukur pada 15°",
+  "15° पर मापें"
+ ],
+ "173": [
+  "设置角度：15°",
+  "각도 설정: 15°",
+  "Tetapkan Sudut: 15°",
+  "कोण सेट करें: 15°"
+ ],
+ "174": [
+  "拖动斜面顶端的把手，直到量角器显示15°。",
+  "경사면 맨 위의 손잡이를 끌어 각도기가 15°를 가리키게 하세요.",
+  "Seret pemegang di bahagian atas satah sehingga protraktor menunjukkan 15°.",
+  "तल के ऊपरी हिस्से का हैंडल तब तक खींचें जब तक चाँदा 15° न दिखाए।"
+ ],
+ "175": [
+  "15°设置好了。注意斜面抬高了，现在木块会更难拉。",
+  "15°로 설정됐어요. 경사면이 올라간 걸 보세요. 이제 블록을 끌기가 더 힘들어질 거예요.",
+  "15° ditetapkan. Perhatikan satah condong yang meninggi. Blok akan lebih sukar ditarik sekarang.",
+  "15° सेट हो गया। देखें कि तल ऊपर उठ गया है। अब ब्लॉक को खींचना ज़्यादा कठिन होगा।"
+ ],
+ "176": [
+  "拖动把手，直到量角器显示15°。",
+  "각도기가 15°를 가리킬 때까지 손잡이를 끌어 주세요.",
+  "Seret pemegang sehingga protraktor menunjukkan 15°.",
+  "जब तक चाँदा 15° न दिखाए, हैंडल को खींचें।"
+ ],
+ "177": [
+  "在15°拉动木块",
+  "15°에서 블록 당기기",
+  "Tarik Blok pada 15°",
+  "15° पर ब्लॉक को खींचें"
+ ],
+ "178": [
+  "握住把手，沿15°的斜面平稳地向上拉。",
+  "손잡이를 잡고 15° 경사면을 따라 꾸준히 끌어올리세요.",
+  "Pegang pemegang dan tarik dengan stabil ke atas satah condong 15°.",
+  "हैंडल को पकड़ें और 15° के तल पर स्थिर रूप से ऊपर खींचें।"
+ ],
+ "179": [
+  "木块到达了顶部！现在放大并读取弹簧测力计。",
+  "블록이 맨 위에 도착했어요! 이제 확대해서 뉴턴미터를 읽어 보세요.",
+  "Blok sampai ke atas! Sekarang zum masuk dan baca meter Newton.",
+  "ब्लॉक ऊपर पहुँच गया! अब ज़ूम करके न्यूटन मीटर पढ़ें।"
+ ],
+ "180": [
+  "一直按住，直到木块到达顶部。",
+  "블록이 맨 위에 닿을 때까지 계속 잡고 있으세요.",
+  "Teruskan memegang sehingga blok sampai ke atas.",
+  "ब्लॉक के ऊपर पहुँचने तक पकड़े रहें।"
+ ],
+ "181": [
+  "读取15°时的弹簧测力计",
+  "15°에서 뉴턴미터 읽기",
+  "Baca Meter Newton pada 15°",
+  "15° पर न्यूटन मीटर पढ़ें"
+ ],
+ "182": [
+  "放大并读出力的大小。",
+  "확대해서 힘을 읽으세요.",
+  "Zum masuk dan baca daya itu.",
+  "ज़ूम करें और बल को पढ़ें।"
+ ],
+ "183": [
+  "1.3N，力随着角度增大而增大，正如预测的那样。",
+  "1.3N, 예상대로 각도가 커지자 힘도 커졌어요.",
+  "1.3N, daya meningkat dengan sudut, seperti yang diramalkan.",
+  "1.3N, बल कोण के साथ बढ़ गया, ठीक वैसे ही जैसा अनुमान था।"
+ ],
+ "184": [
+  "仔细读取指针所指的刻度。",
+  "바늘이 가리키는 눈금을 자세히 읽으세요.",
+  "Baca skala dengan teliti di mana penunjuk menunjuk.",
+  "जहाँ सूचक इशारा कर रहा है वहाँ का पैमाना ध्यान से पढ़ें।"
+ ],
+ "185": [
+  "测量 30°",
+  "30°에서 측정하기",
+  "Ukur pada 30°",
+  "30° पर मापें"
+ ],
+ "186": [
+  "设置角度：30°",
+  "각도 설정: 30°",
+  "Tetapkan Sudut: 30°",
+  "कोण सेट करें: 30°"
+ ],
+ "187": [
+  "拖动把手，使量角器指到30°。",
+  "손잡이를 끌어 각도기에서 30°에 맞추세요.",
+  "Seret pemegang untuk mencapai 30° pada protraktor.",
+  "हैंडल को खींचकर चाँदे पर 30° तक ले जाएँ।"
+ ],
+ "188": [
+  "30°，坡度到一半了。力明显增大。",
+  "30°, 반쯤 가파르네요. 힘이 눈에 띄게 커지고 있어요.",
+  "30°, separuh curam. Daya meningkat dengan ketara.",
+  "30°, आधी ढलान। बल साफ़ तौर पर बढ़ रहा है।"
+ ],
+ "189": [
+  "让量角器指到30°。",
+  "각도기에서 30°에 맞추세요.",
+  "Capai 30° pada protraktor.",
+  "चाँदे पर 30° तक पहुँचें।"
+ ],
+ "190": [
+  "在30°拉动",
+  "30°에서 당기기",
+  "Tarik pada 30°",
+  "30° पर खींचें"
+ ],
+ "191": [
+  "握住并沿30°的斜面平稳地向上拉。",
+  "잡고 30° 경사면을 따라 꾸준히 끌어올리세요.",
+  "Pegang dan tarik dengan stabil ke atas satah condong 30°.",
+  "पकड़ें और 30° के तल पर स्थिर रूप से ऊपर खींचें।"
+ ],
+ "192": [
+  "到达顶部了！现在放大并读取测力计。",
+  "맨 위에 도착했어요! 이제 확대해서 눈금을 읽으세요.",
+  "Sampai di atas! Sekarang zum masuk dan baca meter.",
+  "ऊपर पहुँच गए! अब ज़ूम करके मीटर पढ़ें।"
+ ],
+ "193": [
+  "一直按住直到顶部。",
+  "맨 위까지 계속 잡고 있으세요.",
+  "Pegang sehingga ke atas.",
+  "ऊपर तक पकड़े रहें।"
+ ],
+ "194": [
+  "读取30°时的读数",
+  "30°에서 읽기",
+  "Baca pada 30°",
+  "30° पर पढ़ें"
+ ],
+ "195": [
+  "放大并读取弹簧测力计。",
+  "확대해서 뉴턴미터를 읽으세요.",
+  "Zum masuk dan baca meter Newton.",
+  "ज़ूम करें और न्यूटन मीटर पढ़ें।"
+ ],
+ "196": [
+  "2.5N，正好是木块重量的一半。sin(30°) = 0.5。物理规律完美成立。",
+  "2.5N, 블록 무게의 딱 절반이에요. sin(30°) = 0.5. 물리가 완벽하게 맞아떨어져요.",
+  "2.5N, tepat separuh daripada berat blok. sin(30°) = 0.5. Fizik berfungsi dengan sempurna.",
+  "2.5N, ठीक ब्लॉक के भार का आधा। sin(30°) = 0.5। भौतिकी बिल्कुल सही काम कर रही है।"
+ ],
+ "197": [
+  "读取指针在刻度上所指的位置。",
+  "바늘이 눈금에서 가리키는 곳을 읽으세요.",
+  "Baca di mana penunjuk menunjuk pada skala.",
+  "पढ़ें कि सूचक पैमाने पर कहाँ इशारा कर रहा है।"
+ ],
+ "198": [
+  "测量 45°",
+  "45°에서 측정하기",
+  "Ukur pada 45°",
+  "45° पर मापें"
+ ],
+ "199": [
+  "设置角度：45°",
+  "각도 설정: 45°",
+  "Tetapkan Sudut: 45°",
+  "कोण सेट करें: 45°"
+ ],
+ "200": [
+  "这很陡。拖动把手，使其达到45°。",
+  "꽤 가팔라요. 손잡이를 끌어 45°에 맞추세요.",
+  "Ini curam. Seret pemegang untuk mencapai 45°.",
+  "यह खड़ी ढलान है। हैंडल को खींचकर 45° तक ले जाएँ।"
+ ],
+ "201": [
+  "45°，很陡。这下可要考验你的手臂了。",
+  "45°, 가파르네요. 이제 팔 힘이 시험대에 올랐어요.",
+  "45°, curam. Anda sedang menguji kekuatan lengan anda di sini.",
+  "45°, खड़ी ढलान। यहाँ आपकी बाँहों की परीक्षा है।"
+ ],
+ "202": [
+  "让量角器指到45°。",
+  "각도기에서 45°에 맞추세요.",
+  "Capai 45° pada protraktor.",
+  "चाँदे पर 45° तक पहुँचें।"
+ ],
+ "203": [
+  "在45°拉动",
+  "45°에서 당기기",
+  "Tarik pada 45°",
+  "45° पर खींचें"
+ ],
+ "204": [
+  "稳稳握住。会感觉更吃力，这就是物理。",
+  "꾸준히 잡으세요. 더 힘들게 느껴질 거예요, 그게 물리예요.",
+  "Pegang dengan stabil. Ia akan terasa lebih sukar, itulah fizik.",
+  "स्थिर रूप से पकड़ें। यह ज़्यादा कठिन लगेगा, यही भौतिकी है।"
+ ],
+ "205": [
+  "木块上去了！现在放大并读取测力计。",
+  "블록이 해냈어요! 이제 확대해서 눈금을 읽으세요.",
+  "Blok berjaya sampai! Sekarang zum masuk dan baca meter.",
+  "ब्लॉक पहुँच गया! अब ज़ूम करके मीटर पढ़ें।"
+ ],
+ "206": [
+  "读取45°时的读数",
+  "45°에서 읽기",
+  "Baca pada 45°",
+  "45° पर पढ़ें"
+ ],
+ "207": [
+  "3.5N，在这个角度下，斜面正在失去它的省力优势。",
+  "3.5N, 이 각도에서는 경사면의 기계적 이득이 줄어들고 있어요.",
+  "3.5N, satah condong kehilangan kelebihan mekanikalnya pada sudut ini.",
+  "3.5N, इस कोण पर आनत तल अपना यांत्रिक लाभ खो रहा है।"
+ ],
+ "208": [
+  "读取刻度上的指针读数。",
+  "눈금 위의 바늘을 읽으세요.",
+  "Baca penunjuk pada skala.",
+  "पैमाने पर सूचक को पढ़ें।"
+ ],
+ "209": [
+  "测量 60°",
+  "60°에서 측정하기",
+  "Ukur pada 60°",
+  "60° पर मापें"
+ ],
+ "210": [
+  "设置角度：60°",
+  "각도 설정: 60°",
+  "Tetapkan Sudut: 60°",
+  "कोण सेट करें: 60°"
+ ],
+ "211": [
+  "这非常陡。小心地把斜面抬高到60°。",
+  "아주 가팔라요. 경사면을 조심해서 60°까지 올리세요.",
+  "Ini sangat curam. Naikkan satah condong dengan berhati-hati ke 60°.",
+  "यह बहुत खड़ी ढलान है। तल को सावधानी से 60° तक उठाएँ।"
+ ],
+ "212": [
+  "60°，在这个角度下，斜面几乎起不到什么帮助。",
+  "60°, 이 각도에서는 경사면이 거의 도움이 되지 않아요.",
+  "60°, pada sudut ini satah condong hampir tidak membantu langsung.",
+  "60°, इस कोण पर आनत तल से लगभग कोई मदद नहीं मिलती।"
+ ],
+ "213": [
+  "让量角器指到60°。",
+  "각도기에서 60°에 맞추세요.",
+  "Capai 60° pada protraktor.",
+  "चाँदे पर 60° तक पहुँचें।"
+ ],
+ "214": [
+  "在60°拉动",
+  "60°에서 당기기",
+  "Tarik pada 60°",
+  "60° पर खींचें"
+ ],
+ "215": [
+  "握住并平稳地拉。你会感到迄今为止最大的阻力。",
+  "잡고 꾸준히 당기세요. 지금까지 중 가장 큰 저항을 느낄 거예요.",
+  "Pegang dan tarik dengan stabil. Anda akan rasa rintangan paling kuat setakat ini.",
+  "पकड़ें और स्थिर रूप से खींचें। आपको अब तक का सबसे ज़्यादा प्रतिरोध महसूस होगा।"
+ ],
+ "216": [
+  "到顶了！现在放大读取最后的读数。",
+  "맨 위예요! 이제 확대해서 마지막 눈금을 읽으세요.",
+  "Sampai di atas! Sekarang zum masuk untuk bacaan terakhir.",
+  "ऊपर! अब आखिरी पाठ्यांक के लिए ज़ूम करें।"
+ ],
+ "217": [
+  "继续按住，快到了。",
+  "계속 잡고 있으세요. 거의 다 왔어요.",
+  "Teruskan memegang. Hampir sampai.",
+  "पकड़े रहें। लगभग पहुँच गए।"
+ ],
+ "218": [
+  "读取60°时的读数",
+  "60°에서 읽기",
+  "Baca pada 60°",
+  "60° पर पढ़ें"
+ ],
+ "219": [
+  "放大读取最后的读数。",
+  "확대해서 마지막 눈금을 읽으세요.",
+  "Zum masuk untuk bacaan terakhir.",
+  "आखिरी पाठ्यांक के लिए ज़ूम करें।"
+ ],
+ "220": [
+  "4.3N。再大一点角度，你就需要用到木块的全部重量那么大的力了。",
+  "4.3N. 각도가 조금만 더 커지면 블록의 무게 전부만큼의 힘이 필요할 거예요.",
+  "4.3N. Tambah sedikit lagi sudut dan anda memerlukan daya sebesar berat penuh blok.",
+  "4.3N। कोण थोड़ा और बढ़ा तो आपको ब्लॉक के पूरे भार जितने बल की ज़रूरत पड़ेगी।"
+ ],
+ "221": [
+  "读取指针所指的位置。",
+  "바늘이 가리키는 곳을 읽으세요.",
+  "Baca di mana penunjuk menunjuk.",
+  "पढ़ें कि सूचक कहाँ इशारा कर रहा है।"
+ ],
+ "222": [
+  "把每个力的读数填入表格，放在对应的角度旁边。",
+  "각 힘 측정값을 표에서 해당 각도 옆에 넣으세요.",
+  "Letakkan setiap bacaan daya dalam jadual, di sebelah sudutnya.",
+  "हर बल की रीडिंग को तालिका में उसके कोण के आगे रखें।"
+ ],
+ "223": [
+  "你的结果表格完成了。接下来是它的图表。",
+  "결과 표를 완성했어요. 다음은 그 그래프예요.",
+  "Jadual keputusan anda sudah lengkap. Seterusnya, graf untuknya.",
+  "आपकी परिणाम तालिका पूरी हो गई। अब इसका ग्राफ़ देखते हैं।"
+ ],
+ "224": [
+  "把每个读数和它的角度配对。斜面越陡，力越大。",
+  "각 측정값을 각도와 짝지으세요. 경사가 가파를수록 힘이 커져요.",
+  "Padankan setiap bacaan dengan sudutnya. Landasan yang lebih curam bermakna daya yang lebih besar.",
+  "हर रीडिंग को उसके कोण से मिलाएँ। रैंप जितना ढलवाँ, बल उतना बड़ा।"
+ ],
+ "225": [
+  "图表的各个部分",
+  "그래프의 각 부분",
+  "Bahagian-bahagian Graf",
+  "ग्राफ़ के हिस्से"
+ ],
+ "226": [
+  "这是你的结果图表。先选一个词，再点击指向该部分的编号圆标。",
+  "결과 그래프예요. 단어를 하나 고른 다음, 그 부분을 가리키는 번호 표시를 누르세요.",
+  "Ini graf keputusan anda. Pilih satu perkataan, kemudian ketik lencana bernombor yang menunjuk bahagian itu.",
+  "यह आपके परिणामों का ग्राफ़ है। एक शब्द चुनें, फिर उस हिस्से की ओर इशारा करने वाले संख्या वाले बैज को दबाएँ।"
+ ],
+ "227": [
+  "刻度、坐标轴、数据点和单位。现在你能读懂任何图表了。",
+  "눈금, 축, 점, 단위. 이제 어떤 그래프든 읽을 수 있어요.",
+  "Skala, paksi, plot dan unit. Sekarang anda boleh membaca mana-mana graf.",
+  "पैमाना, अक्ष, बिंदु और इकाइयाँ। अब आप कोई भी ग्राफ़ पढ़ सकते हैं।"
+ ],
+ "228": [
+  "先选一个词，再点击指向该部分的圆标。",
+  "단어를 고른 다음, 그 부분을 가리키는 표시를 누르세요.",
+  "Pilih satu perkataan, kemudian ketik lencana yang menunjuk bahagian itu.",
+  "एक शब्द चुनें, फिर उस हिस्से की ओर इशारा करने वाले बैज को दबाएँ।"
+ ],
+ "229": [
+  "最佳拟合线",
+  "최적선",
+  "Garis Penyesuaian Terbaik",
+  "सबसे अच्छी फ़िट रेखा"
+ ],
+ "230": [
+  "拖动滑块倾斜直线，直到它穿过每一个叉。",
+  "슬라이더를 움직여 선이 모든 X 표시를 지나도록 기울이세요.",
+  "Gelongsorkan penggelongsor untuk mencondongkan garisan sehingga ia melalui setiap tanda pangkah.",
+  "स्लाइडर खिसकाकर रेखा को तब तक झुकाएँ जब तक वह हर क्रॉस से होकर न गुज़रे।"
+ ],
+ "231": [
+  "最佳拟合线显示出规律：角度增大，力也增大。",
+  "최적선은 규칙을 보여 줘요. 각도가 커질수록 힘도 커져요.",
+  "Garis penyesuaian terbaik menunjukkan coraknya: apabila sudut meningkat, daya pun meningkat.",
+  "सबसे अच्छी फ़िट रेखा पैटर्न दिखाती है: कोण बढ़ता है तो बल भी बढ़ता है।"
+ ],
+ "232": [
+  "倾斜直线，直到它碰到每一个叉。",
+  "선이 모든 X 표시에 닿을 때까지 기울이세요.",
+  "Condongkan garisan sehingga ia menyentuh setiap tanda pangkah.",
+  "रेखा को तब तक झुकाएँ जब तक वह हर क्रॉस को न छू ले।"
+ ],
+ "233": [
+  "阅读每张幻灯片，了解你的结果说明了什么。",
+  "각 슬라이드를 읽고 결과가 무엇을 말해 주는지 이해하세요.",
+  "Baca setiap slaid untuk memahami apa yang keputusan anda beritahu.",
+  "हर स्लाइड पढ़ें और समझें कि आपके परिणाम क्या बता रहे हैं।"
+ ],
+ "234": [
+  "读牛顿测力计",
+  "뉴턴 미터 읽기",
+  "Membaca Meter Newton",
+  "न्यूटन मीटर पढ़ना"
+ ],
+ "235": [
+  "首先，像实际使用时那样握住测力计，检查指针是否指在 0 N。如果不是，在连接任何东西之前先调零。然后沿着斜面缓慢、平稳地拉。正对着刻度看，读出指针所对的数字。单位是牛顿，写作 N。",
+  "먼저 실제로 쓸 때처럼 미터를 잡고 바늘이 0 N에 있는지 확인하세요. 아니라면 아무것도 걸기 전에 영점을 맞추세요. 그다음 경사면을 따라 천천히 일정하게 당기세요. 눈금을 똑바로 보고 바늘이 가리키는 숫자를 읽으세요. 단위는 뉴턴이고 N이라고 써요.",
+  "Mula-mula, pegang meter seperti cara anda akan menggunakannya dan semak penunjuk berada pada 0 N. Jika tidak, tetapkan kepada sifar sebelum anda memasang apa-apa. Kemudian tarik perlahan-lahan dan sekata di sepanjang landasan. Pandang lurus ke skala dan baca nombor yang selari dengan penunjuk. Unitnya newton, ditulis N.",
+  "सबसे पहले मीटर को वैसे पकड़ें जैसे आप उसे इस्तेमाल करेंगे और जाँचें कि सूचक 0 N पर है। अगर नहीं है, तो कुछ भी जोड़ने से पहले उसे शून्य पर सेट करें। फिर रैंप के साथ धीरे-धीरे और एक समान खींचें। पैमाने को सीधे देखें और सूचक के सामने वाली संख्या पढ़ें। इकाई न्यूटन है, जिसे N लिखते हैं।"
+ ],
+ "236": [
+  "重量：W = mg",
+  "무게: W = mg",
+  "Berat: W = mg",
+  "भार: W = mg"
+ ],
+ "237": [
+  "重力会把每个物体向下拉。这个拉力就是它的重量 W。我们用 W = m × g 来计算。W 是以牛顿（N）为单位的重量，m 是以千克（kg）为单位的质量，g 是重力的拉力，每 1 kg 大约是 10 N。我们的木块质量是 0.5 kg，所以 W = 0.5 × 10 = 5 N。",
+  "중력은 모든 물체를 아래로 끌어당겨요. 그 힘이 바로 무게 W예요. 우리는 W = m × g로 계산해요. W는 뉴턴(N) 단위의 무게, m은 킬로그램(kg) 단위의 질량, g는 중력의 크기로 1 kg마다 약 10 N이에요. 우리 블록의 질량은 0.5 kg이므로 W = 0.5 × 10 = 5 N이에요.",
+  "Graviti menarik setiap objek ke bawah. Tarikan itu ialah beratnya, W. Kita mengiranya dengan W = m × g. W ialah berat dalam newton (N), m ialah jisim dalam kilogram (kg), dan g ialah tarikan graviti, kira-kira 10 N untuk setiap 1 kg. Blok kita berjisim 0.5 kg, jadi W = 0.5 × 10 = 5 N.",
+  "गुरुत्वाकर्षण हर वस्तु को नीचे खींचता है। वह खिंचाव उसका भार W है। हम इसे W = m × g से निकालते हैं। W न्यूटन (N) में भार है, m किलोग्राम (kg) में द्रव्यमान है, और g गुरुत्वाकर्षण का खिंचाव है, हर 1 kg के लिए लगभग 10 N। हमारे ब्लॉक का द्रव्यमान 0.5 kg है, इसलिए W = 0.5 × 10 = 5 N।"
+ ],
+ "238": [
+  "为什么力会变大",
+  "힘이 왜 커질까요",
+  "Mengapa Daya Meningkat",
+  "बल क्यों बढ़ता है"
+ ],
+ "239": [
+  "在平放的斜面上，斜面托住了木块全部的重量，所以你只需要克服一点点摩擦力。把斜面倾斜后，它托住的重量变少了。你的拉力要承担更多，才能不让木块滑回去。斜面越陡，你要对抗的 5 N 重量就越多，所以牛顿测力计的读数就变大。",
+  "평평한 경사면에서는 경사면이 블록의 무게를 모두 받쳐 주어서 약간의 마찰만 이기면 돼요. 경사면을 기울이면 받쳐 주는 무게가 줄어들어요. 블록이 미끄러져 내려가지 않게 하려면 당기는 힘이 더 많은 일을 해야 해요. 경사가 가파를수록 맞서야 하는 5 N의 무게가 더 많아지고, 그래서 뉴턴 미터의 값이 커져요.",
+  "Pada landasan yang rata, landasan menampung seluruh berat blok, jadi anda hanya menarik melawan sedikit geseran. Condongkan landasan dan ia menampung kurang berat. Tarikan anda perlu melakukan lebih banyak kerja untuk menghalang blok meluncur turun. Semakin curam landasan, semakin banyak berat 5 N yang perlu anda tarik, jadi bacaan meter Newton meningkat.",
+  "समतल रैंप पर रैंप ब्लॉक का पूरा भार सँभालता है, इसलिए आपको सिर्फ़ थोड़े घर्षण के विरुद्ध खींचना पड़ता है। रैंप को झुकाएँ तो वह कम भार सँभालता है। ब्लॉक को नीचे फिसलने से रोकने के लिए आपके खिंचाव को ज़्यादा काम करना पड़ता है। रैंप जितना ढलवाँ होता है, 5 N के भार का उतना ज़्यादा हिस्सा आपको खींचना पड़ता है, इसलिए न्यूटन मीटर की रीडिंग बढ़ जाती है।"
+ ],
+ "240": [
+  "结论",
+  "결론",
+  "Kesimpulan",
+  "निष्कर्ष"
+ ],
+ "241": [
+  "斜面越陡，牛顿测力计上的力越大。在 0° 时只有大约 0.3 N，在 60° 时大约是 4.3 N。如果斜面是竖直向上的，你就要用整个重量来拉，W = mg = 5 N。你的最佳拟合线也显示了这一点：角度增大，力也增大。",
+  "경사가 가파를수록 뉴턴 미터에 나타나는 힘이 커져요. 0°에서는 약 0.3 N뿐이었고 60°에서는 약 4.3 N이었어요. 경사면이 수직이라면 무게 전체로 당겨야 하고, W = mg = 5 N이에요. 최적선도 이것을 보여 줘요. 각도가 커질수록 힘도 커져요.",
+  "Semakin curam landasan, semakin besar daya pada meter Newton. Pada 0° ia hanya kira-kira 0.3 N, dan pada 60° ia kira-kira 4.3 N. Jika landasan itu tegak lurus ke atas, anda akan menarik dengan seluruh berat, W = mg = 5 N. Garis penyesuaian terbaik anda menunjukkannya: apabila sudut meningkat, daya pun meningkat.",
+  "रैंप जितना ढलवाँ होता है, न्यूटन मीटर पर बल उतना बड़ा होता है। 0° पर यह सिर्फ़ लगभग 0.3 N था, और 60° पर लगभग 4.3 N। अगर रैंप सीधा ऊपर होता, तो आप पूरे भार से खींचते, W = mg = 5 N। आपकी सबसे अच्छी फ़िट रेखा भी यही दिखाती है: कोण बढ़ता है तो बल भी बढ़ता है।"
+ ],
+ "242": [
+  "你理解了物理。这正是关键所在。",
+  "물리를 이해했어요. 그게 핵심이에요.",
+  "Anda sudah memahami fizik itu. Itulah tujuan sebenarnya.",
+  "आपने भौतिकी को समझ लिया। असली बात यही है।"
+ ],
+ "243": [
+  "使用本生灯加热物质",
+  "분젠 버너로 물질 가열하기",
+  "Memanaskan Bahan Menggunakan Penunu Bunsen",
+  "बुन्सेन बर्नर से पदार्थों को गर्म करना"
+ ],
+ "244": [
+  "明火",
+  "맨 불꽃",
+  "Nyalaan Terdedah",
+  "खुली लौ"
+ ],
+ "245": [
+  "把头发和宽松的衣物束好。点燃的燃烧器绝不能无人看管。",
+  "머리카락과 헐렁한 옷을 단단히 묶으세요. 불이 켜진 버너를 절대 그냥 두지 마세요.",
+  "Ikat rambut dan kemaskan pakaian longgar. Jangan sekali-kali tinggalkan penunu yang menyala tanpa pengawasan.",
+  "बाल और ढीले कपड़े बाँध लें। जलते बर्नर को कभी अकेला न छोड़ें।"
+ ],
+ "246": [
+  "高温器材",
+  "뜨거운 기구",
+  "Peralatan Panas",
+  "गर्म उपकरण"
+ ],
+ "247": [
+  "石棉网和蒸发皿会变得非常烫。加热后绝不能立刻触摸。",
+  "철망과 접시는 매우 뜨거워져요. 가열한 직후에는 절대 만지지 마세요.",
+  "Kasa dawai dan mangkuk menjadi sangat panas. Jangan sekali-kali menyentuhnya sejurus selepas pemanasan.",
+  "जाली और प्याली बहुत गर्म हो जाती हैं। गर्म करने के तुरंत बाद उन्हें कभी न छुएँ।"
+ ],
+ "248": [
+  "眼部防护",
+  "눈 보호",
+  "Perlindungan Mata",
+  "आँखों की सुरक्षा"
+ ],
+ "249": [
+  "燃烧器点燃期间，始终佩戴护目镜。",
+  "버너가 켜져 있는 동안에는 내내 보안경을 쓰세요.",
+  "Pakai goggle keselamatan sepanjang masa penunu menyala.",
+  "बर्नर जलने के पूरे समय सुरक्षा चश्मा पहने रखें।"
+ ],
+ "250": [
+  "放置隔热垫",
+  "내열 매트 놓기",
+  "Letakkan Pelapik Kalis Haba",
+  "ऊष्मारोधी चटाई रखें"
+ ],
+ "251": [
+  "先把隔热垫拖到实验台上。",
+  "먼저 내열 매트를 실험대 위로 끌어다 놓으세요.",
+  "Seret pelapik kalis haba ke atas meja amali dahulu.",
+  "सबसे पहले ऊष्मारोधी चटाई को बेंच पर खींचकर रखें।"
+ ],
+ "252": [
+  "耐热垫保护实验台。燃烧器会变得很烫，没有垫子的话，实验台可能被烤焦或开裂，洒出的溶液也更难清理。",
+  "내열 매트는 실험대를 보호해요. 버너는 아주 뜨거워지고, 매트가 없으면 실험대가 그을리거나 갈라질 수 있고 쏟은 용액도 닦기 더 어려워요.",
+  "Tikar kalis haba melindungi meja. Penunu menjadi sangat panas, dan tanpa tikar meja boleh hangus atau retak, dan larutan yang tumpah lebih sukar dibersihkan.",
+  "ऊष्मारोधी चटाई बेंच की रक्षा करती है। बर्नर बहुत गरम हो जाता है, और चटाई के बिना बेंच झुलस या चटक सकती है, और गिरा हुआ घोल साफ़ करना भी मुश्किल होगा।"
+ ],
+ "253": [
+  "垫子可以保护实验台。现在把本生灯放在垫子上。",
+  "매트가 실험대를 보호해 줘요. 이제 분젠 버너를 그 위에 올려요.",
+  "Pelapik melindungi meja amali. Sekarang penunu Bunsen diletakkan di atasnya.",
+  "चटाई बेंच की रक्षा करती है। अब बुन्सेन बर्नर को उसके ऊपर रखें।"
+ ],
+ "254": [
+  "把垫子拖到实验台上。",
+  "매트를 실험대 위로 끌어다 놓으세요.",
+  "Seret pelapik ke atas meja amali.",
+  "चटाई को बेंच पर खींचकर रखें।"
+ ],
+ "255": [
+  "放置本生灯",
+  "분젠 버너 놓기",
+  "Letakkan Penunu Bunsen",
+  "बुन्सेन बर्नर रखें"
+ ],
+ "256": [
+  "把本生灯拖到实验台上。",
+  "분젠 버너를 실험대 위로 끌어다 놓으세요.",
+  "Seret penunu Bunsen ke atas meja amali.",
+  "बुन्सेन बर्नर को बेंच पर खींचकर रखें।"
+ ],
+ "257": [
+  "本生灯是我们的热源。底座上的橡胶管把它连到煤气阀，煤气才能流进来燃烧。点火前一定要检查橡胶管接得牢。",
+  "분젠 버너는 우리의 열원이에요. 밑에 있는 고무관이 가스 밸브와 연결해 주어 가스가 흘러 들어와 탈 수 있어요. 불을 붙이기 전에 항상 관이 단단히 끼워졌는지 확인하세요.",
+  "Penunu Bunsen ialah sumber haba kita. Tiub getah di pangkalnya menyambungkannya ke paip gas, supaya gas boleh mengalir masuk dan terbakar. Sentiasa semak tiub terpasang ketat sebelum anda menyalakannya.",
+  "बुन्सन बर्नर हमारा ऊष्मा स्रोत है। उसके आधार पर लगी रबर की नली उसे गैस नल से जोड़ती है, ताकि गैस अंदर आकर जल सके। जलाने से पहले हमेशा जाँच लें कि नली कसकर लगी है।"
+ ],
+ "258": [
+  "本生灯放好了。现在把三脚架架在它上面。",
+  "버너가 제자리에 놓였어요. 이제 삼발이를 그 위에 세워요.",
+  "Penunu sudah di tempatnya. Sekarang tungku kaki tiga diletakkan di atasnya.",
+  "बर्नर अपनी जगह पर है। अब उसके ऊपर तिपाई रखें।"
+ ],
+ "259": [
+  "把燃烧器拖到实验台上。",
+  "버너를 실험대 위로 끌어다 놓으세요.",
+  "Seret penunu ke atas meja amali.",
+  "बर्नर को बेंच पर खींचकर रखें।"
+ ],
+ "260": [
+  "放置三脚架",
+  "삼발이 놓기",
+  "Letakkan Tungku Kaki Tiga",
+  "तिपाई रखें"
+ ],
+ "261": [
+  "拖动三脚架，让它架在燃烧器上方。",
+  "삼발이가 버너 위에 서도록 끌어다 놓으세요.",
+  "Seret tungku kaki tiga supaya berdiri di atas penunu.",
+  "तिपाई को खींचें ताकि वह बर्नर के ऊपर खड़ी हो।"
+ ],
+ "262": [
+  "三脚架把所有东西稳稳地托在火焰上方。它的三条腿围在燃烧器周围，不会晃动或倾倒，它的圆环把石棉网托在合适的高度。",
+  "삼발이는 모든 것을 불꽃 위에서 단단히 받쳐 줘요. 세 다리가 버너 둘레에 서서 흔들리거나 넘어지지 않게 하고, 고리는 철망을 알맞은 높이에 받쳐 줘요.",
+  "Tripod memegang semuanya dengan stabil, di atas api. Tiga kakinya berdiri mengelilingi penunu supaya tiada yang bergoyang atau tumbang, dan cincinnya memegang kasa pada ketinggian yang betul.",
+  "तिपाई सब कुछ लौ के ऊपर स्थिर रखती है। उसके तीन पैर बर्नर के चारों ओर खड़े होते हैं ताकि कुछ हिले या गिरे नहीं, और उसका छल्ला जाली को सही ऊँचाई पर थामता है।"
+ ],
+ "263": [
+  "三脚架稳稳放好了。接下来把石棉网放在铁圈上。",
+  "삼발이가 안정적이에요. 다음엔 철망을 고리 위에 올려요.",
+  "Tungku kaki tiga stabil. Seterusnya, kasa dawai diletakkan di atas gelung.",
+  "तिपाई स्थिर है। अब जाली को छल्ले पर रखें।"
+ ],
+ "264": [
+  "把三脚架拖到燃烧器上方。",
+  "삼발이를 버너 위로 끌어다 놓으세요.",
+  "Seret tungku kaki tiga ke atas penunu.",
+  "तिपाई को बर्नर के ऊपर खींचकर रखें।"
+ ],
+ "265": [
+  "放置石棉网",
+  "철망 놓기",
+  "Letakkan Kasa Dawai",
+  "जाली रखें"
+ ],
+ "266": [
+  "把石棉网拖到三脚架的铁圈上。",
+  "철망을 삼발이의 고리 위로 끌어다 놓으세요.",
+  "Seret kasa dawai ke atas gelung tungku kaki tiga.",
+  "जाली को तिपाई के छल्ले पर खींचकर रखें।"
+ ],
+ "267": [
+  "石棉网放在三脚架的圆环上，把火焰的热量均匀地散开。没有它，一个过热的点可能会让蒸发皿裂开。",
+  "철망은 삼발이의 고리 위에 놓여 불꽃의 열을 고르게 퍼뜨려 줘요. 철망이 없으면 한 곳만 뜨거워져서 접시가 갈라질 수 있어요.",
+  "Kasa dawai terletak di atas cincin tripod dan menyebarkan haba api secara sekata. Tanpanya, satu titik panas boleh memecahkan mangkuk.",
+  "तार की जाली तिपाई के छल्ले पर रखी जाती है और लौ की गर्मी को बराबर फैलाती है। इसके बिना एक गरम जगह से डिश चटक सकती है।"
+ ],
+ "268": [
+  "石棉网能让热量均匀分布。现在放蒸发皿。",
+  "철망은 열을 고르게 퍼뜨려 줘요. 이제 접시를 올려요.",
+  "Kasa dawai menyebarkan haba secara sekata. Sekarang mangkuk.",
+  "जाली गर्मी को समान रूप से फैलाती है। अब प्याली रखें।"
+ ],
+ "269": [
+  "把石棉网拖到铁圈上。",
+  "철망을 고리 위로 끌어다 놓으세요.",
+  "Seret kasa dawai ke atas gelung.",
+  "जाली को छल्ले पर खींचकर रखें।"
+ ],
+ "270": [
+  "放置蒸发皿",
+  "증발 접시 놓기",
+  "Letakkan Mangkuk Penyejat",
+  "वाष्पन प्याली रखें"
+ ],
+ "271": [
+  "把盛有硫酸铜溶液的蒸发皿拖到石棉网上。",
+  "황산구리 용액이 담긴 접시를 철망 위로 끌어다 놓으세요.",
+  "Seret mangkuk larutan kuprum sulfat ke atas kasa dawai.",
+  "कॉपर सल्फेट विलयन वाली प्याली को जाली पर खींचकर रखें।"
+ ],
+ "272": [
+  "蒸发皿盛着蓝色的硫酸铜溶液，也就是我们要加热的物质。它是陶瓷做的，水分蒸发时也能耐高温。",
+  "증발 접시에는 우리가 가열할 물질인 파란 황산구리 용액이 담겨요. 도자기로 만들어져서 물이 증발하는 동안 열을 견딜 수 있어요.",
+  "Mangkuk penyejat mengandungi larutan kuprum sulfat biru, bahan yang akan kita panaskan. Ia diperbuat daripada seramik, yang tahan haba semasa air meruap.",
+  "वाष्पीकरण डिश में नीला कॉपर सल्फेट घोल रहता है, जो वह पदार्थ है जिसे हम गरम करेंगे। यह चीनी मिट्टी की बनी है, जो पानी के वाष्पित होने के दौरान गर्मी सह सकती है।"
+ ],
+ "273": [
+  "装置搭好了。在真正点火之前，我们先来比较两种火焰。",
+  "장치를 다 만들었어요. 진짜로 불을 붙이기 전에 두 가지 불꽃을 비교해 봐요.",
+  "Radas siap dibina. Sebelum kita menyalakannya betul-betul, mari bandingkan dua jenis nyalaan.",
+  "उपकरण तैयार हो गया। असल में जलाने से पहले, आइए दोनों तरह की ज्वालाओं की तुलना करें।"
+ ],
+ "274": [
+  "把蒸发皿拖到石棉网上。",
+  "접시를 철망 위로 끌어다 놓으세요.",
+  "Seret mangkuk ke atas kasa dawai.",
+  "प्याली को जाली पर खींचकर रखें।"
+ ],
+ "275": [
+  "火焰类型",
+  "불꽃의 종류",
+  "Jenis Nyalaan",
+  "ज्वाला के प्रकार"
+ ],
+ "276": [
+  "黄色与蓝色",
+  "노란색 대 파란색",
+  "Kuning lwn Biru",
+  "पीली बनाम नीली"
+ ],
+ "277": [
+  "点击空气圈并放大，然后把空气圈上的孔转开再转关，观察火焰的变化。",
+  "조절 고리를 눌러 확대한 다음, 조절 고리 구멍을 돌려 열고 닫으며 불꽃이 어떻게 변하는지 보세요.",
+  "Ketik kolar dan zum masuk, kemudian pusing lubang kolar untuk buka dan tutup dan lihat api berubah.",
+  "कॉलर को दबाकर ज़ूम करें, फिर कॉलर के छेद को घुमाकर खोलें और बंद करें और लौ को बदलते देखें।"
+ ],
+ "278": [
+  "现在你知道为什么加热要用蓝色火焰了。",
+  "이제 가열할 때 왜 파란 불꽃을 쓰는지 알았죠.",
+  "Sekarang anda tahu mengapa kita menggunakan nyalaan biru untuk pemanasan.",
+  "अब आप जान गए कि गर्म करने के लिए हम नीली ज्वाला क्यों इस्तेमाल करते हैं।"
+ ],
+ "279": [
+  "打开和关闭调节环，观察两种火焰。",
+  "조절 고리를 열었다 닫으며 두 불꽃을 모두 보세요.",
+  "Buka dan tutup kolar untuk melihat kedua-dua nyalaan.",
+  "दोनों ज्वालाएँ देखने के लिए कॉलर को खोलें और बंद करें।"
+ ],
+ "280": [
+  "点燃本生灯",
+  "분젠 버너 불 붙이기",
+  "Nyalakan Bunsen",
+  "बुन्सेन जलाएँ"
+ ],
+ "281": [
+  "点燃本生灯",
+  "분젠 버너에 불 붙이기",
+  "Nyalakan Penunu Bunsen",
+  "बुन्सेन बर्नर जलाएँ"
+ ],
+ "282": [
+  "划燃火柴，打开燃气，点燃灯管，然后打开调节环。",
+  "성냥을 긋고, 가스를 켜고, 관에 불을 붙인 다음, 조절 고리를 여세요.",
+  "Gesek mancis, buka gas, nyalakan tiub penunu, kemudian buka kolar.",
+  "माचिस जलाएँ, गैस खोलें, बर्नर की नली को जलाएँ, फिर कॉलर खोलें।"
+ ],
+ "283": [
+  "蓝色火焰，说明燃烧充分，温度也足够加热蒸发皿。",
+  "파란 불꽃이에요. 깨끗하게 타고 있고 접시를 가열할 만큼 뜨겁다는 뜻이에요.",
+  "Nyalaan biru, bermakna ia terbakar dengan bersih dan cukup panas untuk memanaskan mangkuk.",
+  "नीली ज्वाला का मतलब है कि यह साफ़ जल रही है और प्याली को गर्म करने के लिए काफ़ी गर्म है।"
+ ],
+ "284": [
+  "快速划燃火柴，然后打开燃气，在火柴烧完前点燃灯管。",
+  "성냥을 빠르게 긋고, 가스를 켜서 성냥이 다 타기 전에 관에 불을 붙이세요.",
+  "Gesek mancis dengan pantas, kemudian buka gas dan nyalakan tiub penunu sebelum mancis padam.",
+  "माचिस जल्दी से जलाएँ, फिर गैस खोलें और माचिस बुझने से पहले बर्नर की नली जलाएँ।"
+ ],
+ "285": [
+  "加热",
+  "가열",
+  "Pemanasan",
+  "गर्म करना"
+ ],
+ "286": [
+  "加热硫酸铜",
+  "황산구리 가열하기",
+  "Panaskan Kuprum Sulfat",
+  "कॉपर सल्फेट को गर्म करें"
+ ],
+ "287": [
+  "按下时钟，仔细观察溶液受热的变化。随时点击蒸发皿可以放大。",
+  "시계를 눌러 용액이 가열되는 모습을 자세히 지켜보세요. 언제든 접시를 눌러 확대할 수 있어요.",
+  "Tekan jam dan perhatikan dengan teliti semasa larutan dipanaskan. Ketik mangkuk pada bila-bila masa untuk zum masuk.",
+  "घड़ी दबाएँ और विलयन के गर्म होने पर ध्यान से देखें। ज़ूम करने के लिए कभी भी प्याली पर टैप करें।"
+ ],
+ "288": [
+  "水已经被烧干了，晶体正在变白。",
+  "물이 다 끓어 날아갔고, 결정이 하얗게 변하고 있어요.",
+  "Air telah mendidih habis, hablur sedang bertukar putih.",
+  "पानी उबलकर उड़ गया, क्रिस्टल सफ़ेद हो रहे हैं।"
+ ],
+ "289": [
+  "继续仔细观察，直到蒸发皿完全被加热。",
+  "접시가 완전히 가열될 때까지 계속 자세히 지켜보세요.",
+  "Teruskan memerhati dengan teliti sehingga mangkuk dipanaskan sepenuhnya.",
+  "प्याली के पूरी तरह गर्म होने तक ध्यान से देखते रहें।"
+ ],
+ "290": [
+  "逆转变化",
+  "되돌리기",
+  "Balikkan Semula",
+  "इसे उलटें"
+ ],
+ "291": [
+  "把水加回去",
+  "물 다시 넣기",
+  "Tambah Semula Air",
+  "पानी वापस डालें"
+ ],
+ "292": [
+  "吸取水，把3滴挤到白色晶体上。",
+  "물을 빨아올려 하얀 결정 위에 3방울을 짜 넣으세요.",
+  "Sedut air dan picit 3 titik ke atas hablur putih.",
+  "पानी खींचें और सफ़ेद क्रिस्टलों पर 3 बूँदें दबाकर डालें।"
+ ],
+ "293": [
+  "又变蓝了！可逆。确认是物理变化！",
+  "다시 파래졌어요! 가역적이에요. 물리적 변화가 확인됐어요!",
+  "IA BIRU SEMULA! Boleh balik. Perubahan fizikal disahkan!",
+  "फिर से नीला हो गया! उत्क्रमणीय। भौतिक परिवर्तन की पुष्टि हुई!"
+ ],
+ "294": [
+  "在蒸发皿上方挤出水滴。",
+  "접시 위에서 방울을 짜세요.",
+  "Picit titisan di atas mangkuk.",
+  "प्याली के ऊपर बूँदें दबाकर डालें।"
+ ],
+ "295": [
+  "阅读每一页，了解这个实验。",
+  "각 슬라이드를 읽고 실험을 이해하세요.",
+  "Baca setiap slaid untuk memahami eksperimen ini.",
+  "प्रयोग को समझने के लिए हर स्लाइड पढ़ें।"
+ ],
+ "296": [
+  "安装本生灯",
+  "분젠 버너 설치하기",
+  "Menyediakan Penunu Bunsen",
+  "बुन्सन बर्नर लगाना"
+ ],
+ "297": [
+  "首先放下耐热垫来保护实验台。本生灯放在垫子上，用橡胶管接到煤气阀。三脚架立在灯上方，托着石棉网，石棉网能把热量均匀散开。盛溶液的蒸发皿放在石棉网上。点火柴之前，一定要检查橡胶管接牢、空气圈是关着的。",
+  "먼저 내열 매트를 깔아 실험대를 보호해요. 분젠 버너는 매트 위에 놓고 고무관으로 가스 밸브에 연결해요. 삼발이가 버너 위에 서서 철망을 받치고, 철망은 열을 고르게 퍼뜨려 줘요. 용액이 담긴 접시는 철망 위에 올려요. 성냥에 불을 붙이기 전에 항상 관이 단단히 끼워졌는지, 조절 고리가 닫혀 있는지 확인하세요.",
+  "Mula-mula tikar kalis haba dihamparkan untuk melindungi meja. Penunu Bunsen diletakkan di atas tikar, disambung ke paip gas dengan tiub getah. Tripod berdiri di atas penunu dan memegang kasa dawai yang menyebarkan haba secara sekata. Mangkuk larutan diletakkan di atas kasa. Sentiasa semak tiub terpasang ketat dan kolar tertutup sebelum anda menyalakan mancis.",
+  "सबसे पहले ऊष्मारोधी चटाई बिछाई जाती है ताकि बेंच सुरक्षित रहे। बुन्सन बर्नर चटाई पर रखा जाता है और रबर की नली से गैस नल से जुड़ा होता है। तिपाई बर्नर के ऊपर खड़ी होकर तार की जाली को थामती है, जो गर्मी को बराबर फैलाती है। घोल वाली डिश जाली पर रखी जाती है। माचिस जलाने से पहले हमेशा जाँच लें कि नली कसकर लगी है और कॉलर बंद है।"
+ ],
+ "298": [
+  "为什么火焰类型很重要",
+  "불꽃 종류가 왜 중요할까요",
+  "Mengapa Jenis Api Penting",
+  "लौ का प्रकार क्यों मायने रखता है"
+ ],
+ "299": [
+  "灯上的空气圈让空气进入灯管，而空气里含有氧气。空气圈关着时，没有额外的氧气进入，就得到黄色的安全火焰。它温度较低、容易看见，用来点火。空气圈打开时，进入的氧气最多，就得到蓝色的轰鸣火焰。它热得多而且不留烟灰，所以我们用它来加热。",
+  "버너의 조절 고리는 공기를 관 안으로 들여보내고, 공기에는 산소가 들어 있어요. 조절 고리가 닫혀 있으면 추가 산소가 들어오지 않아 노란 안전 불꽃이 나와요. 온도가 낮고 눈에 잘 띄며 불을 붙일 때 써요. 조절 고리를 열면 산소가 가장 많이 들어와 파란 강한 불꽃이 나와요. 훨씬 뜨겁고 그을음이 남지 않아서 가열할 때 이 불꽃을 써요.",
+  "Kolar pada penunu membenarkan udara masuk ke dalam tiub, dan udara mengandungi oksigen. Apabila kolar tertutup, tiada oksigen tambahan masuk, jadi anda mendapat api selamat berwarna kuning. Ia kurang panas, mudah dilihat dan digunakan untuk menyalakan. Apabila kolar dibuka, oksigen paling banyak masuk dan anda mendapat api biru yang menderu. Ia jauh lebih panas dan tidak meninggalkan jelaga, jadi inilah yang kita gunakan untuk memanaskan.",
+  "बर्नर का कॉलर हवा को नली के अंदर आने देता है, और हवा में ऑक्सीजन होती है। कॉलर बंद हो तो अतिरिक्त ऑक्सीजन नहीं आती, इसलिए पीली सुरक्षा लौ मिलती है। यह कम गरम होती है, आसानी से दिखती है और जलाने में काम आती है। कॉलर खुला हो तो सबसे ज़्यादा ऑक्सीजन आती है और नीली गर्जन वाली लौ मिलती है। यह बहुत ज़्यादा गरम होती है और कालिख नहीं छोड़ती, इसलिए हम गरम करने के लिए इसी का उपयोग करते हैं।"
+ ],
+ "300": [
+  "观察物理变化",
+  "물리 변화 관찰하기",
+  "Memerhati Perubahan Fizikal",
+  "भौतिक परिवर्तनों का अवलोकन"
+ ],
+ "301": [
+  "要观察变化，就要仔细看并写下你看到的现象。检查颜色，它是固体、液体还是气体，有没有东西散发出来，比如蒸汽。在蒸发皿里，水以蒸汽的形式离开，蓝色溶液变成了白色粉末固体。像这样，物质可以再变回来的变化是物理变化。冰融化和水沸腾也是物理变化。",
+  "변화를 관찰하려면 자세히 보고 본 것을 적으세요. 색깔이 어떤지, 고체인지 액체인지 기체인지, 수증기처럼 나오는 것이 있는지 확인하세요. 접시에서는 물이 수증기로 날아가고 파란 용액이 흰색 가루 고체가 되었어요. 이렇게 물질을 다시 되돌릴 수 있는 변화가 물리 변화예요. 얼음이 녹는 것과 물이 끓는 것도 물리 변화예요.",
+  "Untuk memerhati satu perubahan, lihat dengan teliti dan tulis apa yang anda nampak. Periksa warna, sama ada ia pepejal, cecair atau gas, dan sama ada ada sesuatu yang dilepaskan, seperti wap. Dalam mangkuk, air keluar sebagai wap dan larutan biru menjadi pepejal serbuk putih. Perubahan seperti ini, di mana bahan boleh diperoleh semula, ialah perubahan fizikal. Ais mencair dan air mendidih juga perubahan fizikal.",
+  "किसी बदलाव को देखने के लिए ध्यान से देखें और जो दिखे उसे लिखें। रंग देखें, यह ठोस, द्रव या गैस है या नहीं, और कुछ निकल रहा है या नहीं, जैसे भाप। डिश में पानी भाप बनकर निकल गया और नीला घोल सफ़ेद चूर्ण ठोस बन गया। ऐसे बदलाव, जिनमें पदार्थ वापस पाया जा सकता है, भौतिक परिवर्तन हैं। बर्फ़ का पिघलना और पानी का उबलना भी भौतिक परिवर्तन हैं।"
+ ],
+ "302": [
+  "可逆的变化",
+  "되돌릴 수 있는 변화",
+  "Perubahan Boleh Balik",
+  "उत्क्रमणीय परिवर्तन"
+ ],
+ "303": [
+  "物理变化可以逆转。融化的冰可以再冻起来，我们往白色粉末里加水，它又变回了蓝色。化学变化不能逆转。木头燃烧后变成灰、烟和气体，永远不能再变回木头。所以，如果能把原来的物质变回来，就是物理变化；如果不能，就是化学变化。",
+  "물리 변화는 되돌릴 수 있어요. 녹은 얼음은 다시 얼릴 수 있고, 흰색 가루에 물을 넣으면 다시 파랗게 변했어요. 화학 변화는 되돌릴 수 없어요. 나무가 타면 재, 연기, 기체가 되고 다시 나무로 돌릴 수 없어요. 그래서 처음 물질을 되찾을 수 있으면 물리 변화이고, 그럴 수 없으면 화학 변화예요.",
+  "Perubahan fizikal boleh diterbalikkan. Ais yang cair boleh dibekukan semula, dan apabila kita menambah air pada serbuk putih, ia bertukar biru semula. Perubahan kimia tidak boleh diterbalikkan. Apabila kayu terbakar ia menjadi abu, asap dan gas, dan anda tidak boleh menjadikannya kayu semula. Jadi jika anda boleh mendapatkan semula bahan asal, ia perubahan fizikal. Jika tidak boleh, ia perubahan kimia.",
+  "भौतिक परिवर्तन को पलटा जा सकता है। पिघली बर्फ़ को फिर जमाया जा सकता है, और जब हमने सफ़ेद चूर्ण में पानी डाला तो वह फिर नीला हो गया। रासायनिक परिवर्तन को पलटा नहीं जा सकता। लकड़ी जलकर राख, धुआँ और गैसों में बदल जाती है, और उसे वापस लकड़ी नहीं बनाया जा सकता। इसलिए अगर मूल पदार्थ वापस मिल सकता है तो वह भौतिक परिवर्तन है। अगर नहीं मिल सकता तो वह रासायनिक परिवर्तन है।"
+ ],
+ "304": [
+  "你理解了化学。这正是关键所在。",
+  "화학을 이해했어요. 그게 핵심이에요.",
+  "Anda sudah memahami kimia itu. Itulah tujuan sebenarnya.",
+  "आपने रसायन विज्ञान को समझ लिया। असली बात यही है।"
+ ],
+ "305": [
+  "使用显微镜：观察口腔颊细胞",
+  "현미경 사용하기: 볼 세포 관찰",
+  "Menggunakan Mikroskop: Memerhati Sel Pipi",
+  "सूक्ष्मदर्शी का उपयोग: गाल की कोशिकाओं का अवलोकन"
+ ],
+ "306": [
+  "你自己的棉签",
+  "나만의 면봉",
+  "Kapas Calit Anda Sendiri",
+  "आपकी अपनी सलाई"
+ ],
+ "307": [
+  "只使用你自己干净的棉签，千万不要共用，细菌很容易在人与人之间传播。",
+  "항상 자신의 깨끗한 면봉만 쓰고 절대 나눠 쓰지 마세요. 세균은 사람 사이에 쉽게 옮겨요.",
+  "Hanya gunakan kapas calit anda sendiri yang bersih dan jangan kongsi, kuman mudah berpindah dari seorang kepada yang lain.",
+  "हमेशा अपनी ही साफ़ सलाई इस्तेमाल करें और कभी साझा न करें, कीटाणु एक व्यक्ति से दूसरे में आसानी से फैलते हैं।"
+ ],
+ "308": [
+  "载玻片",
+  "슬라이드 글라스",
+  "Slaid Kaca",
+  "काँच की स्लाइड"
+ ],
+ "309": [
+  "拿载玻片和盖玻片时要捏边缘，它们很容易碎裂和割伤人。",
+  "슬라이드와 커버글라스는 가장자리를 잡으세요. 쉽게 깨지고 베일 수 있어요.",
+  "Pegang slaid dan kaca penutup pada bahagian tepi, ia mudah retak dan boleh mencederakan.",
+  "स्लाइड और कवर स्लिप को किनारों से पकड़ें, ये आसानी से टूटती हैं और चोट पहुँचा सकती हैं।"
+ ],
+ "310": [
+  "亚甲蓝染色剂",
+  "메틸렌 블루 염색약",
+  "Pewarna Metilena Biru",
+  "मेथिलीन ब्लू रंजक"
+ ],
+ "311": [
+  "染色剂会弄脏皮肤和衣服，只用一滴，之后要洗手。",
+  "염색약은 피부와 옷에 얼룩이 져요. 한 방울만 쓰고 끝나면 손을 씻으세요.",
+  "Pewarna meninggalkan kesan pada kulit dan baju, gunakan hanya satu titik dan basuh tangan selepas itu.",
+  "रंजक त्वचा और कपड़ों पर दाग छोड़ता है, सिर्फ़ एक बूँद इस्तेमाल करें और बाद में हाथ धो लें।"
+ ],
+ "312": [
+  "安全检查完成。首先，我们来采集样本。",
+  "안전 점검을 마쳤어요. 먼저 시료를 모아 봐요.",
+  "Semakan keselamatan selesai. Pertama, mari kita kumpulkan sampel.",
+  "सुरक्षा जाँच पूरी हुई। सबसे पहले, एक नमूना इकट्ठा करते हैं।"
+ ],
+ "313": [
+  "采集细胞",
+  "세포 모으기",
+  "Kumpul Sel",
+  "कोशिकाएँ इकट्ठा करें"
+ ],
+ "314": [
+  "擦拭皮普的脸颊",
+  "핍의 볼 닦기",
+  "Calit Pipi Pip",
+  "पिप के गाल से नमूना लें"
+ ],
+ "315": [
+  "用棉签轻轻擦拭皮普的脸颊来采集一些细胞。做小圆圈的动作。",
+  "면봉으로 핍의 볼을 살살 문질러 세포를 모으세요. 작은 원을 그리듯 움직이세요.",
+  "Gosok perlahan swab kapas pada pipi Pip untuk mengumpul beberapa sel. Gunakan gerakan membulat kecil.",
+  "कुछ कोशिकाएँ इकट्ठा करने के लिए रुई के फाहे को पिप के गाल पर हल्के से रगड़ें। छोटे गोल घेरों में घुमाएँ।"
+ ],
+ "316": [
+  "用干净的棉签在脸颊内侧轻轻擦拭来收集颊细胞，因为那里的细胞很容易脱落，而且不会痛。每个人都用新的棉签，千万不要共用。",
+  "깨끗한 면봉으로 볼 안쪽을 살살 문질러 볼 세포를 모아요. 그곳의 세포는 쉽게 떨어지고 아프지 않아요. 사람마다 새 면봉을 쓰고 절대 나눠 쓰지 마세요.",
+  "Sel pipi dikumpul dengan kapas calit yang bersih, digosok perlahan di bahagian dalam pipi, kerana sel di situ mudah tertanggal dan ia tidak sakit. Gunakan kapas calit baharu untuk setiap orang dan jangan kongsi.",
+  "गाल की कोशिकाएँ साफ़ रुई की सलाई से गाल के अंदर धीरे-धीरे रगड़कर ली जाती हैं, क्योंकि वहाँ की कोशिकाएँ आसानी से निकल आती हैं और दर्द नहीं होता। हर व्यक्ति के लिए नई सलाई लें और कभी साझा न करें।"
+ ],
+ "317": [
+  "样本采集好了，这些就是你的细胞，可以观察了。",
+  "시료를 모았어요. 이게 바로 세포예요, 이제 관찰할 준비가 됐어요.",
+  "Sampel dikumpul, itulah sel anda, sedia untuk diperhatikan.",
+  "नमूना इकट्ठा हो गया, ये आपकी कोशिकाएँ हैं, देखने के लिए तैयार।"
+ ],
+ "318": [
+  "把棉签拖到他脸颊上高亮的位置。",
+  "면봉을 볼에 표시된 곳까지 끌어다 놓으세요.",
+  "Seret swab ke tempat yang diserlahkan pada pipinya.",
+  "फाहे को उसके गाल पर चमकते हुए स्थान तक खींचें।"
+ ],
+ "319": [
+  "制作玻片",
+  "슬라이드 준비",
+  "Penyediaan Slaid",
+  "स्लाइड तैयार करना"
+ ],
+ "320": [
+  "拿起一块载玻片",
+  "슬라이드 집기",
+  "Ambil Slaid",
+  "एक स्लाइड उठाएँ"
+ ],
+ "321": [
+  "把一块干净的载玻片拖到实验台上。",
+  "깨끗한 슬라이드 글라스를 실험대 위로 끌어다 놓으세요.",
+  "Seret slaid kaca yang bersih ke atas meja amali.",
+  "एक साफ़ काँच की स्लाइड को बेंच पर खींचकर रखें।"
+ ],
+ "322": [
+  "玻璃载玻片让样本保持平整、很薄，光线才能透过。一定要拿着边缘，这样不会弄脏它，也不会割到手指。",
+  "유리 슬라이드는 시료를 납작하고 얇게 잡아 주어서 빛이 통과할 수 있게 해요. 얼룩이 지거나 손가락을 베지 않도록 항상 가장자리를 잡으세요.",
+  "Slaid kaca memegang sampel supaya rata dan nipis, jadi cahaya boleh menembusinya. Sentiasa pegang pada tepinya supaya tidak berconteng atau melukakan jari.",
+  "काँच की स्लाइड नमूने को सपाट और पतला रखती है, ताकि रोशनी उसमें से गुज़र सके। उसे हमेशा किनारों से पकड़ें, ताकि वह गंदी न हो और आपकी उँगलियाँ न कटें।"
+ ],
+ "323": [
+  "载玻片准备好了。现在涂上你的颊细胞，再加一滴染色剂。",
+  "슬라이드가 준비됐어요. 이제 볼 세포를 바르고 염색약을 한 방울 떨어뜨리세요.",
+  "Slaid sedia. Sekarang calitkan sel pipi anda dan tambah satu titik pewarna.",
+  "स्लाइड तैयार है। अब अपनी गाल की कोशिकाएँ लगाएँ और एक बूँद रंजक डालें।"
+ ],
+ "324": [
+  "把载玻片拖到实验台上。",
+  "슬라이드를 실험대 위로 끌어다 놓으세요.",
+  "Seret slaid ke atas meja amali.",
+  "स्लाइड को बेंच पर खींचकर रखें।"
+ ],
+ "325": [
+  "涂抹样本",
+  "시료 바르기",
+  "Calit Sampel",
+  "नमूने को फैलाएँ"
+ ],
+ "326": [
+  "在载玻片上来回拖动棉签，把脸颊细胞涂抹上去。",
+  "면봉을 슬라이드 위에서 앞뒤로 끌어 볼 세포를 바르세요.",
+  "Seret swab ke depan dan ke belakang pada slaid untuk mencalitkan sel pipi anda padanya.",
+  "अपनी गाल की कोशिकाओं को फैलाने के लिए फाहे को स्लाइड पर आगे-पीछे खींचें।"
+ ],
+ "327": [
+  "涂成薄薄一层能让细胞散开，不会堆叠在一起，光线才能透过。用过的棉签要立刻放进消毒液里，以免传播细菌。",
+  "얇게 펴 바르면 세포가 겹쳐 쌓이지 않고 퍼져서 빛이 통과할 수 있어요. 쓴 면봉은 세균이 퍼지지 않도록 바로 소독액에 넣으세요.",
+  "Mencalit selapis nipis menyebarkan sel supaya tidak bertindan, dan ini membolehkan cahaya menembusinya. Kapas calit yang telah digunakan terus dimasukkan ke dalam pembasmi kuman supaya kuman tidak tersebar.",
+  "पतली परत लगाने से कोशिकाएँ फैल जाती हैं और एक-दूसरे पर ढेर नहीं होतीं, जिससे रोशनी गुज़र पाती है। इस्तेमाल की हुई सलाई तुरंत कीटाणुनाशक में डालें ताकि कीटाणु न फैलें।"
+ ],
+ "328": [
+  "轻一点，涂薄薄一层最好。现在给它染色，这样我们就能看清结构了。",
+  "살살 하세요, 얇게 펴는 게 가장 좋아요. 이제 구조가 보이도록 염색해요.",
+  "Perlahan, lapisan nipis adalah yang terbaik. Sekarang warnakan supaya kita dapat melihat strukturnya.",
+  "धीरे से, पतली परत सबसे अच्छी होती है। अब इसे अभिरंजित करें ताकि हम संरचनाएँ देख सकें।"
+ ],
+ "329": [
+  "在载玻片上来回拖动棉签。",
+  "면봉을 슬라이드 위에서 앞뒤로 끌어 주세요.",
+  "Seret swab ke depan dan ke belakang pada slaid.",
+  "फाहे को स्लाइड पर आगे-पीछे खींचें।"
+ ],
+ "330": [
+  "加入染色剂",
+  "염색약 넣기",
+  "Tambah Pewarna",
+  "अभिरंजक डालें"
+ ],
+ "331": [
+  "吸取染色剂，把一滴挤到涂片上。",
+  "염색약을 빨아올려 도말한 시료 위에 한 방울 짜 넣으세요.",
+  "Sedut pewarna dan picit satu titik ke atas calitan.",
+  "अभिरंजक खींचें और फैलाए हुए नमूने पर एक बूँद दबाकर डालें।"
+ ],
+ "332": [
+  "颊细胞几乎是透明的。染色剂会渗进细胞，让细胞核和细胞质显现出来。一滴就够了，因为染色剂会弄脏皮肤和衣服。",
+  "볼 세포는 거의 투명해요. 염색약이 스며들어 핵과 세포질이 뚜렷하게 보이게 해 줘요. 염색약은 피부와 옷에 얼룩이 지니 한 방울이면 충분해요.",
+  "Sel pipi hampir lut sinar. Pewarna meresap ke dalamnya dan menjadikan nukleus dan sitoplasma menonjol. Satu titik sudah cukup, kerana pewarna meninggalkan kesan pada kulit dan baju.",
+  "गाल की कोशिकाएँ लगभग पारदर्शी होती हैं। रंजक उनमें समा जाता है और केंद्रक तथा कोशिकाद्रव्य को उभार देता है। एक बूँद काफ़ी है, क्योंकि रंजक त्वचा और कपड़ों पर दाग छोड़ता है।"
+ ],
+ "333": [
+  "染色剂能让细胞结构在显微镜下清晰可见。",
+  "염색약은 현미경으로 세포 구조가 보이게 해 줘요.",
+  "Pewarna menjadikan struktur sel kelihatan di bawah mikroskop.",
+  "अभिरंजक सूक्ष्मदर्शी के नीचे कोशिका की संरचनाओं को दिखाई देने योग्य बनाता है।"
+ ],
+ "334": [
+  "在载玻片上方挤出一滴。",
+  "슬라이드 위에서 한 방울을 짜세요.",
+  "Picit satu titik di atas slaid.",
+  "स्लाइड के ऊपर एक बूँद दबाकर डालें।"
+ ],
+ "335": [
+  "盖上盖玻片",
+  "커버글라스 덮기",
+  "Letakkan Kaca Penutup",
+  "कवर स्लिप लगाएँ"
+ ],
+ "336": [
+  "以正确的角度放下盖玻片，太陡或太平都会困住气泡。",
+  "알맞은 각도로 커버글라스를 내리세요. 너무 가파르거나 너무 평평하면 기포가 갇혀요.",
+  "Turunkan kaca penutup pada sudut yang betul, terlalu curam atau terlalu rata akan memerangkap gelembung udara.",
+  "कवर स्लिप को सही कोण पर नीचे लाएँ, बहुत खड़ी या बहुत सपाट रखने से हवा के बुलबुले फँस जाते हैं।"
+ ],
+ "337": [
+  "盖玻片把样本压平，并保护镜头。要倾斜着慢慢放下，这样不会困住气泡，因为气泡看起来像细胞，会影响观察。",
+  "커버슬립은 시료를 평평하게 눌러 주고 렌즈를 보호해요. 공기 방울이 갇히지 않도록 비스듬히 천천히 내리세요. 공기 방울은 세포처럼 보여서 관찰을 방해해요.",
+  "Slip penutup meratakan sampel dan melindungi kanta. Turunkan perlahan-lahan pada satu sudut supaya gelembung udara tidak terperangkap, kerana gelembung boleh kelihatan seperti sel dan merosakkan pandangan.",
+  "कवरस्लिप नमूने को सपाट करती है और लेंस की रक्षा करती है। उसे तिरछा करके धीरे-धीरे नीचे लाएँ, ताकि हवा के बुलबुले न फँसें, क्योंकि बुलबुले कोशिकाओं जैसे दिख सकते हैं और दृश्य बिगाड़ देते हैं।"
+ ],
+ "338": [
+  "玻片制作好了！该把它放到显微镜上了。",
+  "슬라이드가 완성됐어요! 이제 현미경에 올릴 차례예요.",
+  "Slaid siap disediakan! Masa untuk memuatkannya pada mikroskop.",
+  "स्लाइड तैयार है! अब इसे सूक्ष्मदर्शी पर चढ़ाने का समय है।"
+ ],
+ "339": [
+  "在放下之前，先把盖玻片的角度调到绿色区域。",
+  "내리기 전에 커버글라스의 각도를 초록색 구간에 맞추세요.",
+  "Condongkan kaca penutup ke zon hijau sebelum menurunkannya.",
+  "नीचे लाने से पहले कवर स्लिप का कोण हरे क्षेत्र में लाएँ।"
+ ],
+ "340": [
+  "装载显微镜",
+  "현미경에 올리기",
+  "Memuatkan Mikroskop",
+  "सूक्ष्मदर्शी पर चढ़ाना"
+ ],
+ "341": [
+  "安装显微镜",
+  "현미경 설치하기",
+  "Sediakan Mikroskop",
+  "सूक्ष्मदर्शी लगाएँ"
+ ],
+ "342": [
+  "把显微镜拖到实验台上。",
+  "현미경을 실험대 위로 끌어다 놓으세요.",
+  "Seret mikroskop ke atas meja amali.",
+  "सूक्ष्मदर्शी को बेंच पर खींचकर रखें।"
+ ],
+ "343": [
+  "显微镜能把很小的东西放大很多，让我们看到肉眼根本看不见的细胞。把它放在平稳的实验台上，搬运时一定要用两只手。",
+  "현미경은 아주 작은 것을 훨씬 크게 보여 줘서, 눈으로는 볼 수 없는 작은 세포를 볼 수 있게 해요. 평평하고 안정된 실험대에 놓고 항상 두 손으로 옮기세요.",
+  "Mikroskop menjadikan benda yang sangat kecil kelihatan jauh lebih besar, supaya kita boleh melihat sel yang terlalu kecil untuk mata kita. Letakkan di atas meja yang rata dan stabil, dan sentiasa bawa dengan dua tangan.",
+  "सूक्ष्मदर्शी बहुत छोटी चीज़ों को बहुत बड़ा दिखाता है, ताकि हम वे कोशिकाएँ देख सकें जो हमारी आँखों के लिए बहुत छोटी हैं। उसे सपाट, स्थिर बेंच पर रखें और हमेशा दोनों हाथों से उठाएँ।"
+ ],
+ "344": [
+  "显微镜安装好了。现在把玻片放到载物台上。",
+  "현미경이 설치됐어요. 이제 슬라이드를 재물대에 올려요.",
+  "Mikroskop siap disediakan. Sekarang letakkan slaid anda pada pentas.",
+  "सूक्ष्मदर्शी लग गया। अब अपनी स्लाइड को मंच पर रखें।"
+ ],
+ "345": [
+  "放入玻片",
+  "슬라이드 올리기",
+  "Muatkan Slaid",
+  "स्लाइड चढ़ाएँ"
+ ],
+ "346": [
+  "把你做好的玻片拖到显微镜载物台上。",
+  "준비한 슬라이드를 현미경 재물대 위로 끌어다 놓으세요.",
+  "Seret slaid yang telah anda sediakan ke atas pentas mikroskop.",
+  "अपनी तैयार स्लाइड को सूक्ष्मदर्शी के मंच पर खींचकर रखें।"
+ ],
+ "347": [
+  "载玻片平放在载物台上，压在夹子下面，这样不会滑动。光线从下方向上穿过你的样本，上方的镜头把它放大。",
+  "슬라이드는 재물대 위에 평평하게 놓고 클립 아래에 끼워 미끄러지지 않게 해요. 빛은 아래에서 시료를 통과해 올라가고, 위의 렌즈가 그것을 확대해요.",
+  "Slaid diletakkan rata di atas pentas, di bawah klip, supaya tidak tergelincir. Cahaya bersinar dari bawah menembusi sampel anda, dan kanta di atas membesarkannya.",
+  "स्लाइड मंच पर सपाट रखी जाती है, क्लिप के नीचे, ताकि वह खिसके नहीं। रोशनी नीचे से आपके नमूने में से गुज़रती है और ऊपर के लेंस उसे बड़ा करते हैं।"
+ ],
+ "348": [
+  "玻片已放好并用夹子固定。现在调整镜头和光线。",
+  "슬라이드를 올리고 클립으로 고정했어요. 이제 렌즈와 조명을 맞춰요.",
+  "Slaid dimuatkan dan diklip pada tempatnya. Sekarang tetapkan kanta dan cahaya.",
+  "स्लाइड चढ़ गई और क्लिप से कस गई। अब लेंस और रोशनी सेट करें।"
+ ],
+ "349": [
+  "把玻片拖到载物台上。",
+  "슬라이드를 재물대 위로 끌어다 놓으세요.",
+  "Seret slaid ke atas pentas.",
+  "स्लाइड को मंच पर खींचकर रखें।"
+ ],
+ "350": [
+  "认识显微镜",
+  "현미경 만나기",
+  "Kenali Mikroskop",
+  "माइक्रोस्कोप से मिलिए"
+ ],
+ "351": [
+  "探索显微镜",
+  "현미경 탐험하기",
+  "Teroka Mikroskop",
+  "माइक्रोस्कोप को जानें"
+ ],
+ "352": [
+  "转动显微镜，点击每个部件，看看它有什么用。",
+  "현미경을 돌려 보고 각 부분을 눌러 무슨 일을 하는지 알아보세요.",
+  "Putar mikroskop dan ketik setiap bahagian untuk mengetahui fungsinya.",
+  "माइक्रोस्कोप को घुमाएँ और हर हिस्से पर टैप करके जानें कि वह क्या करता है।"
+ ],
+ "353": [
+  "显微镜能把微小的东西放大很多，这样我们就能看到肉眼根本看不见的细胞。拖动可以转动它，滚动或双指捏合可以缩放，点击任何部件可以了解它。",
+  "현미경은 아주 작은 것을 훨씬 크게 보이게 해서, 눈으로는 볼 수 없는 세포를 볼 수 있게 해 줘요. 끌어서 돌리고, 스크롤하거나 두 손가락으로 모아서 확대하고, 어느 부분이든 눌러서 알아보세요.",
+  "Mikroskop menjadikan benda yang sangat kecil kelihatan jauh lebih besar, jadi kita boleh melihat sel yang terlalu kecil untuk mata kita. Seret untuk memutarnya, tatal atau cubit untuk zum, dan ketik mana-mana bahagian untuk mempelajarinya.",
+  "माइक्रोस्कोप बहुत छोटी चीज़ों को काफ़ी बड़ा दिखाता है, इसलिए हम वे कोशिकाएँ देख पाते हैं जो हमारी आँखों के लिए बहुत छोटी हैं। घुमाने के लिए खींचें, ज़ूम करने के लिए स्क्रॉल या पिंच करें, और किसी भी हिस्से पर टैप करके उसके बारे में जानें।"
+ ],
+ "354": [
+  "光从灯里向上照射，穿过载物台上的玻片，进入镜头。镜头会弯折光线，让图像变大。",
+  "빛은 조명에서 위로 올라가 재물대 위의 슬라이드를 지나 렌즈로 들어가요. 렌즈는 빛을 꺾어 상을 크게 만들어 줘요.",
+  "Cahaya bersinar ke atas dari lampu, menembusi slaid anda di atas pentas, dan masuk ke dalam kanta. Kanta membengkokkan cahaya untuk menjadikan gambar lebih besar.",
+  "रोशनी बत्ती से ऊपर की ओर जाती है, मंच पर रखी आपकी स्लाइड से गुज़रती है और लेंसों में पहुँचती है। लेंस रोशनी को मोड़कर तस्वीर को बड़ा बनाते हैं।"
+ ],
+ "355": [
+  "要得到总放大倍数，把目镜和物镜的倍数相乘。目镜是×10，所以×4镜头是×40，×10镜头是×100，×40镜头是×400。",
+  "전체 배율을 구하려면 접안렌즈와 대물렌즈의 배율을 곱하세요. 접안렌즈가 ×10이라서 ×4 렌즈는 ×40, ×10 렌즈는 ×100, ×40 렌즈는 ×400이 돼요.",
+  "Untuk mencari jumlah pembesaran, darabkan kanta mata dengan kanta objektif. Kanta mata ialah ×10, jadi kanta ×4 memberi ×40, kanta ×10 memberi ×100 dan kanta ×40 memberi ×400.",
+  "कुल आवर्धन निकालने के लिए नेत्रिका को अभिदृश्यक लेंस से गुणा करें। नेत्रिका ×10 है, इसलिए ×4 लेंस से ×40, ×10 लेंस से ×100 और ×40 लेंस से ×400 मिलता है।"
+ ],
+ "356": [
+  "探索完每个部件后，按“完成”，然后我们就真正使用显微镜了。",
+  "모든 부분을 탐험했다면 '완료'를 누르세요. 그러면 진짜로 현미경을 써 볼 거예요.",
+  "Apabila anda sudah meneroka setiap bahagian, tekan Selesai dan kita akan menggunakan mikroskop dengan sebenar.",
+  "जब आप हर हिस्से को देख लें, तो ‘पूरा करें’ दबाएँ और हम माइक्रोस्कोप का असली इस्तेमाल करेंगे।"
+ ],
+ "357": [
+  "现在你认识每个部件了！该真正使用显微镜了。",
+  "이제 모든 부분을 알게 됐어요! 진짜로 현미경을 쓸 시간이에요.",
+  "Kini anda tahu setiap bahagian! Tiba masanya menggunakan mikroskop dengan sebenar.",
+  "अब आप हर हिस्से को जान गए हैं! अब माइक्रोस्कोप का असली इस्तेमाल करने का समय है।"
+ ],
+ "358": [
+  "点击各个部件来探索它们，然后按“完成”。",
+  "각 부분을 눌러 탐험한 다음 '완료'를 누르세요.",
+  "Ketik bahagian untuk meneroka, kemudian tekan Selesai.",
+  "हिस्सों पर टैप करके उन्हें देखें, फिर ‘पूरा करें’ दबाएँ।"
+ ],
+ "359": [
+  "在显微镜前",
+  "현미경 앞에서",
+  "Di Mikroskop",
+  "सूक्ष्मदर्शी पर"
+ ],
+ "360": [
+  "找到细胞",
+  "세포 찾기",
+  "Cari Sel",
+  "कोशिकाएँ खोजें"
+ ],
+ "361": [
+  "打开灯，依次选择每个镜头，对焦，并把一个细胞移到视野中央。",
+  "조명을 켜고, 렌즈를 차례로 고르고, 초점을 맞춘 다음, 세포 하나를 가운데로 옮기세요.",
+  "Hidupkan lampu, pilih setiap kanta mengikut giliran, fokus, dan letakkan satu sel di tengah.",
+  "रोशनी जलाएँ, बारी-बारी से हर लेंस चुनें, फ़ोकस करें, और एक कोशिका को बीच में लाएँ।"
+ ],
+ "362": [
+  "先用倍数最低的镜头找到细胞，再换成倍数更高的镜头，并用调焦让图像变清晰。不要一边从目镜看一边把镜头往下转，因为镜头可能撞到载玻片。",
+  "가장 배율이 낮은 렌즈로 세포를 먼저 찾고, 더 강한 렌즈로 바꾼 다음 초점을 맞춰 선명하게 하세요. 접안렌즈로 보면서 렌즈를 내리지 마세요. 렌즈가 슬라이드에 부딪힐 수 있어요.",
+  "Mulakan dengan kanta berkuasa paling rendah untuk mencari sel, kemudian beralih ke kanta yang lebih kuat dan gunakan fokus untuk menjadikan gambar jelas. Jangan sekali-kali memutar kanta ke bawah semasa melihat melalui kanta mata, kerana ia boleh terkena slaid.",
+  "कोशिकाएँ ढूँढने के लिए सबसे कम क्षमता वाले लेंस से शुरू करें, फिर ज़्यादा क्षमता वाले लेंस पर जाएँ और फ़ोकस से तस्वीर साफ़ करें। नेत्रिका से देखते हुए कभी लेंस को नीचे न घुमाएँ, क्योंकि वह स्लाइड से टकरा सकता है।"
+ ],
+ "363": [
+  "它们在那儿！皮普的脸颊细胞被染成了蓝色，这样我们就能看清结构。",
+  "저기 있어요! 핍의 볼 세포예요. 구조가 보이도록 파랗게 염색했어요.",
+  "Itu dia! Sel pipi Pip, diwarnakan biru supaya kita dapat melihat strukturnya.",
+  "वो रहीं! पिप की गाल की कोशिकाएँ, नीले रंग से अभिरंजित ताकि हम संरचनाएँ देख सकें।"
+ ],
+ "364": [
+  "按顺序操作每个控制部件：灯光、镜头、对焦、载物台。",
+  "조명, 렌즈, 초점, 재물대 순서대로 각 조절 장치를 사용하세요.",
+  "Gunakan setiap kawalan mengikut turutan: cahaya, kanta, fokus, pentas.",
+  "हर नियंत्रण को क्रम से चलाएँ: रोशनी, लेंस, फ़ोकस, मंच।"
+ ],
+ "365": [
+  "标注",
+  "이름표 붙이기",
+  "Pelabelan",
+  "नाम लिखना"
+ ],
+ "366": [
+  "标注细胞",
+  "세포에 이름 붙이기",
+  "Labelkan Sel",
+  "कोशिका के भागों के नाम लिखें"
+ ],
+ "367": [
+  "翻动每一页，给你的颊细胞的各个部分做标注。",
+  "페이지를 넘기며 볼 세포의 각 부분 이름을 붙이세요.",
+  "Selak setiap halaman untuk melabel bahagian sel pipi anda.",
+  "हर पन्ना पलटें और अपनी गाल की कोशिका के हिस्सों के नाम लिखें।"
+ ],
+ "368": [
+  "细胞膜",
+  "세포막",
+  "Membran Sel",
+  "कोशिका झिल्ली"
+ ],
+ "369": [
+  "细胞膜是包在细胞外面的一层薄皮。它又软又能弯曲，所以颊细胞的边缘看起来圆圆的、有点不规则。它还决定什么东西可以进出细胞。",
+  "세포막은 세포를 둘러싼 얇은 껍질이에요. 부드럽고 잘 휘어서 볼 세포의 가장자리는 둥글고 조금 울퉁불퉁해 보여요. 또 무엇이 세포 안팎으로 드나들 수 있는지도 정해 줘요.",
+  "Membran sel ialah kulit nipis di sekeliling sel. Ia lembut dan boleh melentur, jadi tepi sel pipi kelihatan bulat dan sedikit bergelombang. Ia juga menentukan apa yang boleh masuk dan keluar dari sel.",
+  "कोशिका झिल्ली कोशिका के चारों ओर की पतली त्वचा है। यह नरम और लचीली होती है, इसलिए गाल की कोशिका का किनारा गोल और थोड़ा लहरदार दिखता है। यह यह भी तय करती है कि कोशिका के अंदर-बाहर क्या जा सकता है।"
+ ],
+ "370": [
+  "细胞核",
+  "핵",
+  "Nukleus",
+  "केंद्रक"
+ ],
+ "371": [
+  "细胞核是中间那个深蓝色的点。它是细胞的控制中心。里面保存着指令，告诉细胞怎样工作、怎样产生新的细胞。",
+  "핵은 가운데에 있는 진한 파란 점이에요. 세포의 조종 센터예요. 세포가 어떻게 일하고 새 세포를 어떻게 만드는지 알려 주는 설계도가 들어 있어요.",
+  "Nukleus ialah titik biru tua di tengah. Ia pusat kawalan sel. Ia menyimpan arahan yang memberitahu sel bagaimana berfungsi dan bagaimana menghasilkan sel baharu.",
+  "केंद्रक बीच का गहरा नीला बिंदु है। यह कोशिका का नियंत्रण केंद्र है। इसमें वे निर्देश होते हैं जो कोशिका को बताते हैं कि कैसे काम करना है और नई कोशिकाएँ कैसे बनानी हैं।"
+ ],
+ "372": [
+  "细胞质",
+  "세포질",
+  "Sitoplasma",
+  "कोशिकाद्रव्य"
+ ],
+ "373": [
+  "细胞质是充满细胞的浅蓝色胶状物。细胞的大部分工作都在这里进行。染色剂把它染成了蓝色，这样你才能看见它。",
+  "세포질은 세포를 가득 채운 연한 파란 젤리예요. 세포의 일 대부분이 여기에서 일어나요. 염색약이 파랗게 물들여 줘서 볼 수 있었어요.",
+  "Sitoplasma ialah jeli biru cair yang memenuhi sel. Kebanyakan tugas sel berlaku di sini. Pewarna menjadikannya biru supaya anda dapat melihatnya.",
+  "कोशिकाद्रव्य कोशिका को भरने वाली हल्की नीली जेली है। कोशिका के ज़्यादातर काम यहीं होते हैं। रंजक ने इसे नीला कर दिया ताकि आप इसे देख सकें।"
+ ],
+ "374": [
+  "没有细胞壁",
+  "세포벽 없음",
+  "Tiada Dinding Sel",
+  "कोशिका भित्ति नहीं"
+ ],
+ "375": [
+  "看看你的细胞的边缘。这里没有坚硬的细胞壁，只有柔软的细胞膜。植物细胞才有细胞壁。所以我们知道这些是动物细胞。",
+  "세포의 가장자리를 보세요. 딱딱한 세포벽은 없고 부드러운 세포막뿐이에요. 식물 세포에는 세포벽이 있어요. 그래서 이것이 동물 세포라는 걸 알 수 있어요.",
+  "Lihat tepi sel anda. Tiada dinding sel yang keras, hanya membran yang lembut. Sel tumbuhan mempunyai dinding sel. Begitulah kita tahu ini sel haiwan.",
+  "अपनी कोशिका के किनारे को देखें। वहाँ कोई कठोर कोशिका भित्ति नहीं है, सिर्फ़ नरम झिल्ली है। पादप कोशिकाओं में कोशिका भित्ति होती है। इसी से हमें पता चलता है कि ये जंतु कोशिकाएँ हैं।"
+ ],
+ "376": [
+  "每个部分都标注正确了！",
+  "모든 부분에 이름을 바르게 붙였어요!",
+  "Setiap bahagian dilabel dengan betul!",
+  "हर हिस्से का नाम सही लिखा गया!"
+ ],
+ "377": [
+  "点击细胞的每个部分。",
+  "세포의 모든 부분을 눌러 보세요.",
+  "Ketik setiap bahagian sel.",
+  "कोशिका के हर हिस्से पर टैप करें।"
+ ],
+ "378": [
+  "快速测验",
+  "퀵 퀴즈",
+  "Kuiz Pantas",
+  "त्वरित प्रश्नोत्तरी"
+ ],
+ "379": [
+  "连环问答！在计时结束前作答。",
+  "속사포 퀴즈! 타이머가 끝나기 전에 답하세요.",
+  "Soalan bertubi-tubi! Jawab sebelum pemasa tamat.",
+  "तेज़ सवाल! टाइमर खत्म होने से पहले जवाब दें।"
+ ],
+ "380": [
+  "什么控制着物质进入细胞？",
+  "무엇이 세포로 들어오는 것을 조절할까요?",
+  "Apakah yang mengawal apa yang memasuki sel?",
+  "कोशिका में क्या प्रवेश करेगा, इसे कौन नियंत्रित करता है?"
+ ],
+ "381": [
+  "细胞壁",
+  "세포벽",
+  "Dinding sel",
+  "कोशिका भित्ति"
+ ],
+ "382": [
+  "细胞膜",
+  "세포막",
+  "Membran sel",
+  "कोशिका झिल्ली"
+ ],
+ "383": [
+  "下面哪一项不会出现在皮普的脸颊细胞里？",
+  "핍의 볼 세포에서 찾을 수 없는 것은 무엇일까요?",
+  "Apakah yang TIDAK akan ditemui dalam sel pipi Pip?",
+  "पिप की गाल की कोशिकाओं में क्या नहीं मिलेगा?"
+ ],
+ "384": [
+  "为什么要使用碘液？",
+  "아이오딘은 왜 쓸까요?",
+  "Mengapa iodin digunakan?",
+  "आयोडीन का उपयोग क्यों किया जाता है?"
+ ],
+ "385": [
+  "它能增添颜色",
+  "색을 더해 줘요",
+  "Ia menambah warna",
+  "यह रंग जोड़ता है"
+ ],
+ "386": [
+  "它能把细胞核染色，使其清晰可见",
+  "핵을 염색해서 잘 보이게 해 줘요",
+  "Ia mewarnakan nukleus supaya kelihatan",
+  "यह केंद्रक को रंगकर उसे दिखाई देने योग्य बनाता है"
+ ],
+ "387": [
+  "它能杀死细菌",
+  "세균을 죽여요",
+  "Ia membunuh bakteria",
+  "यह जीवाणुओं को मार देता है"
+ ],
+ "388": [
+  "测验完成！",
+  "퀴즈 완료!",
+  "Kuiz selesai!",
+  "प्रश्नोत्तरी पूरी हुई!"
+ ],
+ "389": [
+  "阅读每一页，了解你做了什么、看到了什么。",
+  "각 슬라이드를 읽고 무엇을 했고 무엇을 봤는지 이해하세요.",
+  "Baca setiap slaid untuk memahami apa yang anda lakukan dan lihat.",
+  "हर स्लाइड पढ़ें और समझें कि आपने क्या किया और क्या देखा।"
+ ],
+ "390": [
+  "安全地收集动物细胞",
+  "동물 세포 안전하게 모으기",
+  "Mengumpul Sel Haiwan dengan Selamat",
+  "जंतु कोशिकाओं को सुरक्षित रूप से इकट्ठा करना"
+ ],
+ "391": [
+  "颊细胞是观察动物细胞既安全又简单的方法。用干净的棉签在脸颊内侧轻轻擦拭。一定要用自己的新棉签，千万不要共用，因为细菌会在人与人之间传播。把样本涂在载玻片上之后，立刻把棉签放进消毒液，并洗手。拿载玻片时要捏住边缘，免得被割伤。",
+  "볼 세포는 동물 세포를 안전하고 쉽게 볼 수 있는 방법이에요. 깨끗한 면봉으로 볼 안쪽을 살살 문지르세요. 항상 자신의 새 면봉을 쓰고 절대 나눠 쓰지 마세요. 세균이 사람 사이에 옮을 수 있어요. 시료를 슬라이드에 바른 뒤에는 면봉을 바로 소독액에 넣고 손을 씻으세요. 유리 슬라이드는 베이지 않게 가장자리를 잡으세요.",
+  "Sel pipi ialah cara yang selamat dan mudah untuk melihat sel haiwan. Gosok kapas calit yang bersih perlahan-lahan di bahagian dalam pipi anda. Sentiasa gunakan kapas calit baharu anda sendiri dan jangan kongsi, kerana kuman boleh berpindah antara orang. Selepas anda mencalit sampel pada slaid, masukkan kapas calit terus ke dalam pembasmi kuman dan basuh tangan anda. Pegang slaid kaca pada tepinya supaya tidak melukakan anda.",
+  "गाल की कोशिकाएँ जंतु कोशिकाओं को देखने का एक सुरक्षित और आसान तरीका हैं। साफ़ रुई की सलाई को अपने गाल के अंदर धीरे से रगड़ें। हमेशा अपनी ही नई सलाई इस्तेमाल करें और कभी साझा न करें, क्योंकि कीटाणु लोगों के बीच फैल सकते हैं। नमूना स्लाइड पर लगाने के बाद सलाई को तुरंत कीटाणुनाशक में डालें और हाथ धो लें। काँच की स्लाइड को किनारों से पकड़ें ताकि वे आपको काट न दें।"
+ ],
+ "392": [
+  "使用显微镜",
+  "현미경 사용하기",
+  "Menggunakan Mikroskop",
+  "सूक्ष्मदर्शी का उपयोग"
+ ],
+ "393": [
+  "把显微镜放在平稳的实验台上，打开灯。先用倍数最低的镜头，转动调焦旋钮让图像变清晰。然后换成更强的镜头来看更多细节，再重新调焦。搬显微镜时一定要用两只手，收起来之前要让灯先冷却。",
+  "현미경을 평평한 실험대에 놓고 불을 켜세요. 가장 배율이 낮은 렌즈로 시작해서 초점 조절 나사를 돌려 선명하게 하세요. 그다음 더 강한 렌즈로 바꿔 더 자세히 보고 다시 초점을 맞추세요. 현미경은 항상 두 손으로 옮기고, 치우기 전에 불이 식을 때까지 기다리세요.",
+  "Letakkan mikroskop di atas meja yang rata dan hidupkan lampu. Mulakan dengan kanta berkuasa paling rendah dan gunakan tombol fokus untuk menjadikan gambar jelas. Kemudian beralih ke kanta yang lebih kuat untuk melihat lebih terperinci, dan fokus semula. Sentiasa bawa mikroskop dengan dua tangan, dan biarkan lampu sejuk sebelum anda menyimpannya.",
+  "सूक्ष्मदर्शी को सपाट बेंच पर रखें और रोशनी जला दें। सबसे कम क्षमता वाले लेंस से शुरू करें और फ़ोकस नॉब से तस्वीर साफ़ करें। फिर ज़्यादा विवरण देखने के लिए तेज़ लेंस पर जाएँ और फिर फ़ोकस करें। सूक्ष्मदर्शी को हमेशा दोनों हाथों से उठाएँ, और समेटने से पहले रोशनी को ठंडा होने दें।"
+ ],
+ "394": [
+  "我们能看到什么",
+  "우리가 볼 수 있는 것",
+  "Apa yang Boleh Kita Lihat",
+  "हम क्या देख सकते हैं"
+ ],
+ "395": [
+  "显微镜让你看到细胞的形状和各个部分。在染色的颊细胞里，你能看到中间深蓝色的细胞核、周围颜色较浅的细胞质，以及边缘一层薄薄的细胞膜。需要染色是因为颊细胞几乎是透明的。有些结构，比如线粒体，太小了，用学校的显微镜看不到。",
+  "현미경으로 세포의 모양과 각 부분을 볼 수 있어요. 염색한 볼 세포에서는 가운데의 진한 파란 핵, 그 둘레의 연한 파란 세포질, 가장자리의 얇은 세포막을 볼 수 있어요. 볼 세포는 거의 투명해서 염색이 필요해요. 미토콘드리아 같은 일부는 너무 작아서 학교 현미경으로는 볼 수 없어요.",
+  "Mikroskop membolehkan anda melihat bentuk dan bahagian sel. Dalam sel pipi yang diwarnakan, anda boleh melihat nukleus biru tua di tengah, sitoplasma biru yang lebih cair di sekelilingnya, dan membran sel yang nipis di tepi. Pewarna diperlukan kerana sel pipi hampir lut sinar. Sesetengah bahagian, seperti mitokondria, terlalu kecil untuk dilihat dengan mikroskop sekolah.",
+  "सूक्ष्मदर्शी से आप कोशिका का आकार और उसके हिस्से देख सकते हैं। रंगी हुई गाल की कोशिकाओं में बीच में गहरा नीला केंद्रक, उसके चारों ओर हल्का नीला कोशिकाद्रव्य और किनारे पर पतली कोशिका झिल्ली दिखती है। रंजक की ज़रूरत इसलिए है क्योंकि गाल की कोशिकाएँ लगभग पारदर्शी होती हैं। कुछ हिस्से, जैसे माइटोकॉन्ड्रिया, इतने छोटे हैं कि स्कूल के सूक्ष्मदर्शी से नहीं दिखते।"
+ ],
+ "396": [
+  "动物细胞与植物细胞",
+  "동물 세포와 식물 세포",
+  "Sel Haiwan lwn Sel Tumbuhan",
+  "जंतु कोशिका बनाम पादप कोशिका"
+ ],
+ "397": [
+  "我们来比较一下！动物细胞和植物细胞都有细胞核、细胞质和细胞膜。只有植物细胞还有细胞壁、大液泡和叶绿体。细胞壁让植物细胞有整齐固定的形状，而动物细胞，比如你的颊细胞，看起来更圆、更不规则。叶绿体让植物利用光制造养分，动物细胞从来没有叶绿体。",
+  "비교해 봐요! 동물 세포와 식물 세포는 둘 다 핵, 세포질, 세포막이 있어요. 식물 세포에만 세포벽, 큰 액포, 엽록체도 있어요. 세포벽은 식물 세포에 반듯하고 고정된 모양을 주고, 여러분의 볼 세포 같은 동물 세포는 더 둥글고 덜 규칙적으로 보여요. 엽록체는 식물이 빛으로 양분을 만들게 해 주는데, 동물 세포에는 절대 없어요.",
+  "Mari bandingkan! Sel haiwan dan sel tumbuhan kedua-duanya mempunyai nukleus, sitoplasma dan membran sel. Hanya sel tumbuhan juga mempunyai dinding sel, vakuol besar dan kloroplas. Dinding sel memberikan sel tumbuhan bentuk yang kemas dan tetap, manakala sel haiwan, seperti sel pipi anda, kelihatan lebih bulat dan kurang sekata. Kloroplas membolehkan tumbuhan membuat makanan menggunakan cahaya, dan sel haiwan tidak pernah mempunyainya.",
+  "आइए तुलना करें! जंतु कोशिका और पादप कोशिका दोनों में केंद्रक, कोशिकाद्रव्य और कोशिका झिल्ली होती है। सिर्फ़ पादप कोशिकाओं में कोशिका भित्ति, एक बड़ी रिक्तिका और हरितलवक भी होते हैं। कोशिका भित्ति पादप कोशिकाओं को सुव्यवस्थित, स्थिर आकार देती है, जबकि जंतु कोशिकाएँ, जैसे आपकी गाल की कोशिकाएँ, ज़्यादा गोल और कम नियमित दिखती हैं। हरितलवक पौधों को प्रकाश से भोजन बनाने देते हैं, और जंतु कोशिकाओं में ये कभी नहीं होते।"
+ ],
+ "398": [
+  "你理解了生物学。这正是关键所在。",
+  "생물학을 이해했어요. 그게 핵심이에요.",
+  "Anda sudah memahami biologi itu. Itulah tujuan sebenarnya.",
+  "आपने जीव विज्ञान को समझ लिया। असली बात यही है।"
+ ],
+ "399": [
+  "搭建简单电路",
+  "간단한 회로 만들기",
+  "Membina Litar Mudah",
+  "सरल परिपथ बनाना"
+ ],
+ "400": [
+  "湿手",
+  "젖은 손",
+  "Tangan Basah",
+  "गीले हाथ"
+ ],
+ "401": [
+  "绝不要用湿手接触电路。",
+  "젖은 손으로 회로를 만지지 마세요.",
+  "Jangan sekali-kali mengendalikan litar dengan tangan basah.",
+  "गीले हाथों से परिपथ को कभी न छुएँ।"
+ ],
+ "402": [
+  "电池方向",
+  "배터리 방향",
+  "Orientasi Bateri",
+  "बैटरी की दिशा"
+ ],
+ "403": [
+  "连接前先看清+和−，接反了可能会损坏电池。",
+  "연결하기 전에 +와 −를 확인하세요. 반대로 연결하면 배터리가 손상될 수 있어요.",
+  "Semak + dan − sebelum menyambung, terbalik boleh merosakkan bateri.",
+  "जोड़ने से पहले + और − की जाँच करें, उल्टा लगाने से बैटरी खराब हो सकती है।"
+ ],
+ "404": [
+  "先断开电路",
+  "먼저 회로 열기",
+  "Buka Litar Dahulu",
+  "पहले परिपथ खोलें"
+ ],
+ "405": [
+  "在调整电路任何部分之前，先断开一根导线。",
+  "회로의 어떤 부분이든 다시 배치하기 전에 전선 하나를 먼저 떼세요.",
+  "Putuskan satu wayar sebelum menyusun semula mana-mana bahagian litar.",
+  "परिपथ के किसी भी हिस्से को दोबारा लगाने से पहले एक तार को अलग कर दें।"
+ ],
+ "406": [
+  "安全检查完成。我们来搭建你的第一个电路吧。",
+  "안전 점검을 마쳤어요. 이제 첫 번째 회로를 만들어 봐요.",
+  "Semakan keselamatan selesai. Mari bina litar pertama anda.",
+  "सुरक्षा जाँच पूरी हुई। आइए आपका पहला परिपथ बनाते हैं।"
+ ],
+ "407": [
+  "简单电路",
+  "간단한 회로",
+  "Litar Mudah",
+  "सरल परिपथ"
+ ],
+ "408": [
+  "搭建电路",
+  "회로 만들기",
+  "Bina Litar",
+  "परिपथ बनाएँ"
+ ],
+ "409": [
+  "把每个元件拖到它的虚线位置，然后从一个接线柱向下一个拖出导线。",
+  "각 부품을 점선 자리로 끌어 놓고, 연결 단자에서 다음 단자로 전선을 끌어 이으세요.",
+  "Seret setiap bahagian ke tempat bergarisnya, kemudian seret wayar dari satu penyambung ke yang seterusnya.",
+  "हर हिस्से को उसकी बिंदीदार जगह पर खींचें, फिर एक कनेक्टर से अगले कनेक्टर तक तार खींचें।"
+ ],
+ "410": [
+  "电池",
+  "배터리",
+  "Bateri",
+  "बैटरी"
+ ],
+ "411": [
+  "开关",
+  "스위치",
+  "Suis",
+  "स्विच"
+ ],
+ "412": [
+  "灯泡",
+  "전구",
+  "Mentol",
+  "बल्ब"
+ ],
+ "413": [
+  "灯亮了！电路完整了，电子正在流动！",
+  "전구가 켜졌어요! 회로가 완성돼서 전자가 흐르고 있어요!",
+  "MENTOL MENYALA! Litar sudah lengkap, elektron sedang mengalir!",
+  "बल्ब जल गया! परिपथ पूरा हो गया, इलेक्ट्रॉन बह रहे हैं!"
+ ],
+ "414": [
+  "把每个接线柱都连上导线，然后合上开关。",
+  "모든 연결 단자에 전선을 잇고 나서 스위치를 닫으세요.",
+  "Wayarkan setiap penyambung, kemudian tutup suis.",
+  "हर कनेक्टर पर तार जोड़ें, फिर स्विच बंद करें।"
+ ],
+ "415": [
+  "加入电流表",
+  "전류계 추가하기",
+  "Menambah Ammeter",
+  "अमीटर जोड़ना"
+ ],
+ "416": [
+  "加入电流表",
+  "전류계 추가하기",
+  "Tambah Ammeter",
+  "अमीटर जोड़ें"
+ ],
+ "417": [
+  "把电流表串联接入，接好导线，然后合上开关并读数。",
+  "전류계를 직렬로 놓고 전선을 연결한 다음, 스위치를 닫고 값을 읽으세요.",
+  "Letakkan ammeter secara siri, sambungkan dengan wayar, kemudian tutup suis dan bacanya.",
+  "अमीटर को श्रेणी क्रम में रखें, तार जोड़ें, फिर स्विच बंद करें और पाठ्यांक पढ़ें।"
+ ],
+ "418": [
+  "电流表",
+  "전류계",
+  "Ammeter",
+  "अमीटर"
+ ],
+ "419": [
+  "0.3安培。串联电路中各处电流相同。",
+  "0.3암페어. 직렬 회로에서는 어디서나 전류가 같아요.",
+  "0.3 ampere. Arus yang sama di mana-mana dalam litar siri.",
+  "0.3 एम्पियर। श्रेणी परिपथ में हर जगह धारा समान होती है।"
+ ],
+ "420": [
+  "0.3A，这个回路里各处的电流都一样。",
+  "0.3A, 이 고리 어디서나 전류가 같아요.",
+  "0.3A, arus itu sama di mana-mana dalam gelung ini.",
+  "0.3A, इस लूप में हर जगह वह धारा समान है।"
+ ],
+ "421": [
+  "电流表必须串联在回路中。",
+  "전류계는 직렬로, 회로 고리 안에 있어야 해요.",
+  "Ammeter mesti diletakkan secara siri, di dalam gelung itu sendiri.",
+  "अमीटर को श्रेणी क्रम में, यानी लूप के अंदर ही लगाना चाहिए।"
+ ],
+ "422": [
+  "加入电压表",
+  "전압계 추가하기",
+  "Menambah Voltmeter",
+  "वोल्टमीटर जोड़ना"
+ ],
+ "423": [
+  "加入电压表",
+  "전압계 추가하기",
+  "Tambah Voltmeter",
+  "वोल्टमीटर जोड़ें"
+ ],
+ "424": [
+  "把电压表并联在灯泡两端，它的两个接线柱都接在灯泡上，而不是接在主回路中。",
+  "전압계를 전구 양쪽에 걸쳐 놓으세요. 두 단자 모두 주 회로가 아니라 전구에 연결해요.",
+  "Letakkan voltmeter MERENTASI mentol, kedua-dua terminalnya disambung pada mentol, bukan gelung utama.",
+  "वोल्टमीटर को बल्ब के आर-पार लगाएँ, इसके दोनों टर्मिनल बल्ब से जुड़ते हैं, मुख्य लूप से नहीं।"
+ ],
+ "425": [
+  "电压表",
+  "전압계",
+  "Voltmeter",
+  "वोल्टमीटर"
+ ],
+ "426": [
+  "V = IR。1.5 ÷ 0.3 = 5欧姆。这就是灯泡的电阻。",
+  "V = IR. 1.5 ÷ 0.3 = 5옴. 이게 전구의 저항이에요.",
+  "V = IR. 1.5 ÷ 0.3 = 5 ohm. Itulah rintangan mentol.",
+  "V = IR। 1.5 ÷ 0.3 = 5 ओम। यही बल्ब का प्रतिरोध है।"
+ ],
+ "427": [
+  "灯泡两端是1.5V，电压表总是并联连接。",
+  "전구 양쪽에서 1.5V예요. 전압계는 항상 병렬로 연결해요.",
+  "1.5V merentasi mentol, voltmeter sentiasa disambung secara selari.",
+  "बल्ब के आर-पार 1.5V, वोल्टमीटर हमेशा समांतर क्रम में जुड़ता है।"
+ ],
+ "428": [
+  "电压表的两个接线柱都要接在灯泡上，而不是主回路上。",
+  "전압계의 두 단자는 모두 주 회로가 아니라 전구에 연결해야 해요.",
+  "Voltmeter memerlukan kedua-dua terminal pada mentol, bukan gelung utama.",
+  "वोल्टमीटर के दोनों टर्मिनल बल्ब पर होने चाहिए, मुख्य लूप पर नहीं।"
+ ],
+ "429": [
+  "额外挑战：神秘电路",
+  "보너스: 미스터리 회로",
+  "Bonus: Litar Misteri",
+  "बोनस: रहस्यमय परिपथ"
+ ],
+ "430": [
+  "额外挑战：搭建神秘电路！",
+  "보너스: 미스터리 회로를 만들어 보세요!",
+  "Bonus: Bina Litar Misteri!",
+  "बोनस: रहस्यमय परिपथ बनाएँ!"
+ ],
+ "431": [
+  "照着图把电路搭出来：灯泡与电动机并联。",
+  "그림과 똑같이 만들어 보세요. 전구와 모터를 병렬로 연결해요.",
+  "Tiru gambar rajah itu, sebuah mentol SELARI dengan sebuah motor.",
+  "आरेख की नकल करें: बल्ब और मोटर समांतर क्रम में।"
+ ],
+ "432": [
+  "电动机",
+  "모터",
+  "Motor",
+  "मोटर"
+ ],
+ "433": [
+  "电动机接在灯泡两端（并联），而不是串联。",
+  "모터는 전구와 직렬이 아니라 전구 양쪽에 걸쳐 연결해요.",
+  "Motor disambung merentasi mentol, bukan secara siri.",
+  "मोटर बल्ब के आर-पार जुड़ती है, श्रेणी क्रम में नहीं।"
+ ],
+ "434": [
+  "电路大师！",
+  "회로 마스터!",
+  "MAHIR LITAR!",
+  "परिपथ मास्टर!"
+ ],
+ "435": [
+  "阅读每张幻灯片，了解你的电路。",
+  "각 슬라이드를 읽고 회로를 이해하세요.",
+  "Baca setiap slaid untuk memahami litar anda.",
+  "हर स्लाइड पढ़ें और अपने सर्किट को समझें।"
+ ],
+ "436": [
+  "什么是电路？",
+  "회로란 무엇일까요?",
+  "Apakah Litar?",
+  "सर्किट क्या है?"
+ ],
+ "437": [
+  "电路是一个让电流能完整绕一圈的回路。电池推动电流，导线输送电流，灯泡用电来发光。如果回路中任何地方有缺口，电流就会停止。所以手电筒只有在里面所有东西都连成一个完整的回路时才会亮。",
+  "전기 회로는 전기가 한 바퀴 빙 돌아 흐를 수 있는 고리예요. 건전지가 전기를 밀어 주고, 전선이 전기를 나르고, 전구는 전기를 써서 빛을 내요. 고리 어디에든 틈이 생기면 전기는 멈춰요. 그래서 손전등은 안의 모든 것이 하나의 완전한 고리로 이어져 있을 때만 켜져요.",
+  "Litar elektrik ialah gelung yang boleh dilalui elektrik sepenuhnya. Bateri menolak elektrik, wayar membawanya, dan mentol menggunakannya untuk menghasilkan cahaya. Jika ada jurang di mana-mana dalam gelung itu, elektrik berhenti. Itulah sebabnya lampu suluh hanya berfungsi apabila segala-galanya di dalamnya bersambung dalam satu gelung yang lengkap.",
+  "विद्युत परिपथ एक ऐसा लूप है जिसमें बिजली पूरा चक्कर लगा सकती है। बैटरी बिजली को धक्का देती है, तार उसे ले जाते हैं, और बल्ब उसका इस्तेमाल करके रोशनी बनाता है। अगर लूप में कहीं भी खाली जगह हो, तो बिजली रुक जाती है। इसीलिए टॉर्च तभी जलती है जब उसके अंदर सब कुछ एक पूरे लूप में जुड़ा हो।"
+ ],
+ "438": [
+  "开关",
+  "스위치",
+  "Suis",
+  "स्विच"
+ ],
+ "439": [
+  "开关是电路中一个可以打开或合上的缺口。合上时，回路是完整的，灯泡就亮了。打开时，回路有了缺口，一切都会熄灭。你一整天都在用开关：墙上的电灯开关、手电筒上的按钮，还有游戏手柄上的电源键。",
+  "스위치는 회로에서 열고 닫을 수 있는 틈이에요. 닫으면 고리가 완전해져서 전구가 켜져요. 열면 틈이 생겨서 모든 것이 꺼져요. 우리는 하루 종일 스위치를 써요. 벽의 전등 스위치, 손전등의 버튼, 게임 컨트롤러의 전원 버튼처럼요.",
+  "Suis ialah jurang dalam litar yang boleh anda buka atau tutup. Apabila ditutup, gelung menjadi lengkap dan mentol menyala. Apabila dibuka, ada jurang dan semuanya padam. Anda menggunakan suis sepanjang hari: suis lampu di dinding, butang pada lampu suluh dan butang kuasa pada alat kawalan permainan.",
+  "स्विच परिपथ में एक ऐसी खाली जगह है जिसे आप खोल या बंद कर सकते हैं। बंद होने पर लूप पूरा हो जाता है और बल्ब जल उठता है। खुला होने पर खाली जगह बन जाती है और सब कुछ बंद हो जाता है। आप दिन भर स्विच इस्तेमाल करते हैं: दीवार का बत्ती का स्विच, टॉर्च का बटन और गेम कंट्रोलर का पावर बटन।"
+ ],
+ "440": [
+  "串联电路",
+  "직렬 회로",
+  "Litar Siri",
+  "श्रेणी परिपथ"
+ ],
+ "441": [
+  "在串联电路中，所有东西都在同一个回路上，就像孩子们手拉手围成一圈。相同的电流经过每一个部件。如果有一个部件坏了，整个回路就会停止。老式的彩灯串就是这样连接的，所以一个坏灯泡就可能让整串灯熄灭。回路中加的灯泡越多，每个灯泡就越暗。",
+  "직렬 회로에서는 모든 것이 하나의 고리에 있어요. 아이들이 손을 잡고 동그랗게 선 것과 같아요. 같은 전류가 모든 부품을 지나가요. 부품 하나가 고장 나면 고리 전체가 멈춰요. 옛날 꼬마전구 줄이 이렇게 연결되어 있어서 전구 하나가 고장 나면 줄 전체가 꺼질 수 있어요. 고리에 전구를 더 달수록 전구 하나하나는 더 어두워져요.",
+  "Dalam litar siri, semuanya berada pada satu gelung, seperti kanak-kanak berpegangan tangan dalam bulatan. Arus yang sama melalui setiap bahagian. Jika satu bahagian rosak, seluruh gelung berhenti. Rentetan lampu hiasan lama disambung begini, jadi satu mentol yang rosak boleh memadamkan seluruh rentetan. Tambah lebih banyak mentol pada gelung dan setiap satu menjadi lebih malap.",
+  "श्रेणी परिपथ में सब कुछ एक ही लूप में होता है, जैसे बच्चे हाथ पकड़कर गोला बनाए हों। हर हिस्से से वही धारा गुज़रती है। अगर एक हिस्सा टूट जाए, तो पूरा लूप रुक जाता है। पुरानी झालरें इसी तरह जुड़ी होती हैं, इसलिए एक ख़राब बल्ब पूरी लड़ी को बंद कर सकता है। लूप में जितने ज़्यादा बल्ब जोड़ेंगे, हर बल्ब उतना ही धीमा जलेगा।"
+ ],
+ "442": [
+  "并联电路",
+  "병렬 회로",
+  "Litar Selari",
+  "समानांतर परिपथ"
+ ],
+ "443": [
+  "在并联电路中，电流有不止一条路可走，就像一条分成两股的路。每个灯泡都有自己的路径，所以一个灯泡坏了，其他的仍然亮着。你家里的灯就是并联的。所以你关掉厨房的灯，客厅的灯还是亮着。",
+  "병렬 회로에서는 전기가 갈 수 있는 길이 둘 이상이에요. 둘로 갈라지는 길과 같아요. 전구마다 자기만의 길이 있어서 전구 하나가 고장 나도 나머지는 켜져 있어요. 우리 집 전등은 병렬로 연결되어 있어요. 그래서 부엌 불을 꺼도 거실 불은 켜져 있는 거예요.",
+  "Dalam litar selari, elektrik mempunyai lebih daripada satu laluan, seperti jalan yang bercabang dua. Setiap mentol mempunyai laluannya sendiri, jadi jika satu mentol rosak, yang lain kekal menyala. Lampu di rumah anda disambung secara selari. Itulah sebabnya anda boleh memadamkan lampu dapur dan lampu ruang tamu masih menyala.",
+  "समानांतर परिपथ में बिजली के पास एक से ज़्यादा रास्ते होते हैं, जैसे दो हिस्सों में बँटी सड़क। हर बल्ब का अपना रास्ता होता है, इसलिए एक बल्ब ख़राब हो जाए तो बाकी जलते रहते हैं। आपके घर की बत्तियाँ समानांतर में जुड़ी होती हैं। इसीलिए आप रसोई की बत्ती बुझा दें, तब भी बैठक की बत्ती जलती रहती है।"
+ ],
+ "444": [
+  "电流表和电压表",
+  "전류계와 전압계",
+  "Ammeter dan Voltmeter",
+  "ऐमीटर और वोल्टमीटर"
+ ],
+ "445": [
+  "电流表测量电流，也就是每秒有多少电流流过。它要串联，接在回路里面。电压表测量电压，也就是电池推动电流的力度。它要并联，接在你想检查的部件两端。手机充电器就是一个真实的例子，因为上面印着伏特和安培。",
+  "전류계는 전류, 즉 매초 얼마나 많은 전기가 흘러가는지를 재요. 직렬로, 고리 안에 달아요. 전압계는 전압, 즉 건전지가 얼마나 세게 미는지를 재요. 병렬로, 확인하고 싶은 부품의 양쪽에 달아요. 휴대폰 충전기가 실제 예예요. 볼트와 암페어가 적혀 있거든요.",
+  "Ammeter mengukur arus, iaitu berapa banyak elektrik yang mengalir setiap saat. Ia dipasang secara siri, di dalam gelung. Voltmeter mengukur voltan, iaitu betapa kuat bateri menolak. Ia dipasang secara selari, merentasi bahagian yang ingin anda periksa. Pengecas telefon ialah contoh sebenar, kerana ia mempunyai volt dan amp yang tercetak padanya.",
+  "ऐमीटर धारा मापता है, यानी हर सेकंड कितनी बिजली बहती है। इसे श्रेणी में, लूप के अंदर लगाया जाता है। वोल्टमीटर वोल्टता मापता है, यानी बैटरी कितने ज़ोर से धक्का देती है। इसे समानांतर में, उस हिस्से के आर-पार लगाया जाता है जिसे आप जाँचना चाहते हैं। फ़ोन का चार्जर एक असली उदाहरण है, क्योंकि उस पर वोल्ट और ऐम्पियर छपे होते हैं।"
+ ],
+ "446": [
+  "你身边的电路",
+  "우리 주변의 회로",
+  "Litar di Sekeliling Anda",
+  "आपके आस-पास के परिपथ"
+ ],
+ "447": [
+  "电路无处不在。手电筒、自行车灯、门铃、玩具车和你的手机都用到电路。墙上插座的电比电池强得多，所以千万不要把东西插进插座，也不要用湿手碰插头。保险丝和断路器会在电流过大时切断电路，保护我们的安全。",
+  "회로는 어디에나 있어요. 손전등, 자전거 등, 초인종, 장난감 자동차, 휴대폰 모두 회로를 써요. 벽 콘센트의 전기는 건전지보다 훨씬 세기 때문에, 콘센트에 아무것도 꽂지 말고 젖은 손으로 플러그를 만지지도 마세요. 퓨즈와 차단기는 전기가 너무 많이 흐르면 회로를 끊어 우리를 지켜 줘요.",
+  "Litar ada di mana-mana. Lampu suluh, lampu basikal, loceng pintu, kereta mainan dan telefon anda semuanya menggunakan litar. Elektrik dari soket dinding jauh lebih kuat daripada bateri, jadi jangan sekali-kali memasukkan apa-apa ke dalam soket dan jangan sentuh palam dengan tangan basah. Fius dan pemutus litar memutuskan litar jika terlalu banyak elektrik mengalir, untuk memastikan kita selamat.",
+  "परिपथ हर जगह हैं। टॉर्च, साइकिल की बत्ती, दरवाज़े की घंटी, खिलौना कार और आपका फ़ोन, सब परिपथ इस्तेमाल करते हैं। दीवार के सॉकेट की बिजली बैटरी से बहुत ज़्यादा तेज़ होती है, इसलिए सॉकेट में कभी कुछ न डालें और गीले हाथों से प्लग को न छुएँ। फ़्यूज़ और सर्किट ब्रेकर बहुत ज़्यादा बिजली बहने पर परिपथ को बंद कर देते हैं ताकि हम सुरक्षित रहें।"
+ ],
+ "448": [
+  "食物检测：碘液、本尼迪克特试剂、双缩脲",
+  "식품 검사: 아이오딘, 베네딕트, 뷰렛",
+  "Ujian Makanan: Iodin, Benedict, Biuret",
+  "खाद्य परीक्षण: आयोडीन, बेनेडिक्ट, ब्यूरेट"
+ ],
+ "449": [
+  "焰色反应：鉴别金属离子",
+  "불꽃 반응: 금속 이온 확인하기",
+  "Ujian Nyalaan: Mengenal Pasti Ion Logam",
+  "ज्वाला परीक्षण: धातु आयनों की पहचान"
+ ],
+ "450": [
+  "酶的活性：淀粉酶作用于淀粉",
+  "효소 활성: 아밀레이스와 녹말",
+  "Aktiviti Enzim: Amilase pada Kanji",
+  "एंज़ाइम की सक्रियता: स्टार्च पर एमिलेज़"
+ ],
+ "451": [
+  "探究金属的活动性",
+  "금속의 반응성 알아보기",
+  "Menyiasat Kereaktifan Logam",
+  "धातुओं की अभिक्रियाशीलता की जाँच"
+ ],
+ "452": [
+  "反射与折射",
+  "반사와 굴절",
+  "Pantulan dan Pembiasan",
+  "परावर्तन और अपवर्तन"
+ ],
+ "453": [
+  "食物检测：完整IGCSE水平",
+  "식품 검사: IGCSE 전체 수준",
+  "Ujian Makanan: Tahap IGCSE Penuh",
+  "खाद्य परीक्षण: पूर्ण IGCSE स्तर"
+ ],
+ "454": [
+  "探究光照强度与光合作用速率",
+  "빛의 세기와 광합성 속도 알아보기",
+  "Menyiasat Keamatan Cahaya dan Kadar Fotosintesis",
+  "प्रकाश की तीव्रता और प्रकाश संश्लेषण की दर की जाँच"
+ ],
+ "455": [
+  "探究土豆片中的渗透作用",
+  "감자 조각에서 삼투 현상 알아보기",
+  "Menyiasat Osmosis dalam Cakera Kentang",
+  "आलू के टुकड़ों में परासरण की जाँच"
+ ],
+ "456": [
+  "纸层析",
+  "종이 크로마토그래피",
+  "Kromatografi Kertas",
+  "कागज़ वर्णलेखन"
+ ],
+ "457": [
+  "弹簧的力与伸长量",
+  "용수철의 힘과 늘어난 길이",
+  "Daya-Pemanjangan Spring",
+  "स्प्रिंग का बल-विस्तार"
+ ]
+}

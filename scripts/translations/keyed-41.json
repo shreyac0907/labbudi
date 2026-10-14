@@ -1,0 +1,89 @@
+{
+ "game.mx_complete": ["Complete", "完成", "완료", "Selesai", "पूरा करें"],
+ "game.mx_light": ["Light", "灯", "조명", "Lampu", "बत्ती"],
+ "game.mx_reset_view": ["Reset view", "重置视角", "시점 되돌리기", "Tetapkan semula pandangan", "दृश्य रीसेट करें"],
+ "game.mx_part_eyepiece": [
+  "The eyepiece is the lens you look through. It usually magnifies ×10, so everything is already ten times bigger before the other lenses start.",
+  "目镜是你用来观察的镜头。它通常放大×10，所以在其他镜头开始工作之前，东西就已经放大了十倍。",
+  "접안렌즈는 눈으로 들여다보는 렌즈예요. 보통 ×10으로 확대해서, 다른 렌즈가 일하기 전에 이미 열 배로 커져요.",
+  "Kanta mata ialah kanta yang anda lihat melaluinya. Biasanya ia membesarkan ×10, jadi segalanya sudah sepuluh kali lebih besar sebelum kanta lain bermula.",
+  "नेत्रिका वह लेंस है जिससे आप देखते हैं। यह आमतौर पर ×10 बड़ा करती है, इसलिए दूसरे लेंस काम शुरू करने से पहले ही सब कुछ दस गुना बड़ा हो जाता है।"
+ ],
+ "game.mx_part_nosepiece": [
+  "The nosepiece is the spinning wheel that holds the objective lenses. Tap it to click a different lens over your sample.",
+  "物镜转换器是装着物镜的转轮。点击它，就能把另一个镜头转到样本上方。",
+  "렌즈 회전판은 대물렌즈를 달고 있는 돌아가는 바퀴예요. 눌러서 다른 렌즈를 시료 위로 딸깍 돌려 보세요.",
+  "Pemutar kanta ialah roda berputar yang memegang kanta objektif. Ketik untuk memutar kanta lain ke atas sampel anda.",
+  "लेंस घुमाने वाला हिस्सा घूमने वाला पहिया है जिस पर अभिदृश्यक लेंस लगे होते हैं। टैप करें और दूसरा लेंस आपके नमूने के ऊपर आ जाएगा।"
+ ],
+ "game.mx_part_objective": [
+  "The objective lenses do the main magnifying. The short red one is ×4, the yellow one is ×10 and the long blue one is ×40. Always start with ×4.",
+  "物镜负责主要的放大。短的红色是×4，黄色是×10，长的蓝色是×40。总是从×4开始。",
+  "대물렌즈가 주된 확대를 해요. 짧은 빨간 것은 ×4, 노란 것은 ×10, 긴 파란 것은 ×40이에요. 항상 ×4부터 시작하세요.",
+  "Kanta objektif membuat pembesaran utama. Yang pendek berwarna merah ialah ×4, yang kuning ×10 dan yang panjang berwarna biru ×40. Sentiasa mulakan dengan ×4.",
+  "अभिदृश्यक लेंस मुख्य रूप से बड़ा करते हैं। छोटा लाल ×4 है, पीला ×10 है और लंबा नीला ×40 है। हमेशा ×4 से शुरू करें।"
+ ],
+ "game.mx_part_stage": [
+  "The stage is the flat platform your slide sits on. It has a hole in the middle so the light can shine up through your sample.",
+  "载物台是放玻片的平台。中间有个孔，让光线能向上穿过你的样本。",
+  "재물대는 슬라이드를 올려 두는 평평한 판이에요. 가운데에 구멍이 있어서 빛이 시료를 뚫고 올라가요.",
+  "Pentas ialah pelantar rata tempat slaid anda diletakkan. Ia mempunyai lubang di tengah supaya cahaya boleh menembusi sampel anda.",
+  "मंच वह समतल पटल है जिस पर आपकी स्लाइड रखी जाती है। बीच में एक छेद होता है ताकि रोशनी आपके नमूने से होकर ऊपर जा सके।"
+ ],
+ "game.mx_part_clips": [
+  "The stage clips hold the slide still so it cannot slide about while you look. Tap them to open and close them.",
+  "载物台夹子把玻片固定住，观察时它就不会滑动。点击它们可以打开和合上。",
+  "재물대 클립은 슬라이드가 보는 동안 미끄러지지 않게 잡아 줘요. 눌러서 열고 닫아 보세요.",
+  "Klip pentas memegang slaid supaya tidak bergeser semasa anda melihat. Ketik untuk membuka dan menutupnya.",
+  "मंच की क्लिप स्लाइड को थामे रखती हैं ताकि देखते समय वह इधर-उधर न खिसके। टैप करके उन्हें खोलें और बंद करें।"
+ ],
+ "game.mx_part_light": [
+  "The light shines up from underneath, through your slide. Cells are so thin that you need light behind them to see them.",
+  "光从下方向上照射，穿过你的玻片。细胞非常薄，需要从后面照亮才能看清。",
+  "조명은 아래에서 위로 슬라이드를 비춰 줘요. 세포는 아주 얇아서 뒤에서 빛을 비춰야 보여요.",
+  "Cahaya bersinar ke atas dari bawah, menembusi slaid anda. Sel sangat nipis sehingga anda memerlukan cahaya di belakangnya untuk melihatnya.",
+  "रोशनी नीचे से ऊपर की ओर आपकी स्लाइड से होकर जाती है। कोशिकाएँ इतनी पतली होती हैं कि उन्हें देखने के लिए पीछे से रोशनी चाहिए।"
+ ],
+ "game.mx_part_switch": [
+  "Tap the light switch to turn the lamp on and off. Switch it off when you finish so the bulb can cool down.",
+  "点击灯的开关，打开或关闭灯。用完后把它关掉，让灯泡冷却。",
+  "조명 스위치를 눌러 조명을 켜고 꺼 보세요. 다 쓰면 전구가 식도록 꺼 두세요.",
+  "Ketik suis lampu untuk menghidupkan dan mematikannya. Matikan apabila selesai supaya mentol boleh sejuk.",
+  "बत्ती का स्विच दबाकर बत्ती जलाएँ और बुझाएँ। काम पूरा होने पर उसे बंद कर दें ताकि बल्ब ठंडा हो जाए।"
+ ],
+ "game.mx_part_coarse": [
+  "The coarse focus knob is the big one. It moves things a long way, so use it first to get the picture roughly clear. Only use it with the ×4 lens.",
+  "粗调焦旋钮是大的那个。它一次移动的距离很大，所以先用它把图像调到大致清楚。只能在×4镜头下使用。",
+  "조동 나사는 큰 나사예요. 많이 움직이니까 먼저 이것으로 상을 대충 또렷하게 맞추세요. ×4 렌즈에서만 쓰세요.",
+  "Tombol fokus kasar ialah yang besar. Ia menggerakkan jauh, jadi gunakan dahulu untuk menjadikan gambar jelas secara kasar. Gunakan hanya dengan kanta ×4.",
+  "मोटा फ़ोकस नॉब बड़ा वाला है। यह चीज़ों को काफ़ी दूर तक हिलाता है, इसलिए तस्वीर को मोटे तौर पर साफ़ करने के लिए पहले इसका इस्तेमाल करें। इसे सिर्फ़ ×4 लेंस के साथ चलाएँ।"
+ ],
+ "game.mx_part_fine": [
+  "The fine focus knob is the small one. It moves things by tiny amounts to make the picture sharp. Use it after the coarse knob.",
+  "细调焦旋钮是小的那个。它每次只移动一点点，让图像变得清晰。在粗调焦之后使用。",
+  "미동 나사는 작은 나사예요. 아주 조금씩 움직여서 상을 선명하게 해 줘요. 조동 나사 다음에 쓰세요.",
+  "Tombol fokus halus ialah yang kecil. Ia menggerakkan sedikit sahaja untuk menjadikan gambar tajam. Gunakan selepas tombol fokus kasar.",
+  "महीन फ़ोकस नॉब छोटा वाला है। यह चीज़ों को बहुत थोड़ा-थोड़ा हिलाकर तस्वीर को तीखा बनाता है। इसे मोटे नॉब के बाद चलाएँ।"
+ ],
+ "game.mx_part_arm": [
+  "The arm joins all the parts together. When you carry the microscope, hold the arm with one hand and the base with the other.",
+  "镜臂把所有部件连在一起。搬显微镜时，一只手握住镜臂，另一只手托住底座。",
+  "팔은 모든 부분을 이어 줘요. 현미경을 옮길 때는 한 손으로 팔을, 다른 손으로 받침대를 잡으세요.",
+  "Lengan menyambung semua bahagian. Apabila membawa mikroskop, pegang lengan dengan satu tangan dan tapak dengan tangan yang lain.",
+  "भुजा सभी हिस्सों को जोड़ती है। माइक्रोस्कोप उठाते समय एक हाथ से भुजा और दूसरे हाथ से आधार पकड़ें।"
+ ],
+ "game.mx_part_base": [
+  "The base is the heavy foot that keeps the microscope steady, and the lamp is inside it. Always put it on a flat, steady bench.",
+  "底座是沉重的脚，让显微镜保持稳定，灯就装在里面。一定要把它放在平稳的桌面上。",
+  "받침대는 현미경을 안정되게 잡아 주는 무거운 발이고, 그 안에 조명이 있어요. 항상 평평하고 튼튼한 실험대 위에 두세요.",
+  "Tapak ialah kaki yang berat yang menstabilkan mikroskop, dan lampu berada di dalamnya. Sentiasa letakkan di atas meja yang rata dan kukuh.",
+  "आधार भारी पैर है जो माइक्रोस्कोप को स्थिर रखता है, और बत्ती उसी के अंदर होती है। इसे हमेशा समतल, मज़बूत मेज़ पर रखें।"
+ ],
+ "game.mx_lens_in": [
+  "{{label}} lens in place. With the ×10 eyepiece, the total magnification is ×{{total}}.",
+  "{{label}}镜头已就位。配合×10目镜，总放大倍数是×{{total}}。",
+  "{{label}} 렌즈가 제자리에 왔어요. ×10 접안렌즈와 함께 전체 배율은 ×{{total}}이에요.",
+  "Kanta {{label}} sudah di tempatnya. Dengan kanta mata ×10, jumlah pembesaran ialah ×{{total}}.",
+  "{{label}} लेंस अपनी जगह पर है। ×10 नेत्रिका के साथ कुल आवर्धन ×{{total}} है।"
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "game.pull_right_hint": [
+  "Press and hold 👉 to pull the meter to the right. The string goes taut and the block climbs the ramp.",
+  "按住 👉 向右拉动测力计。绳子会绷紧，木块就会沿斜面向上滑动。",
+  "👉를 길게 눌러 측정기를 오른쪽으로 당기세요. 줄이 팽팽해지고 블록이 경사면을 올라가요.",
+  "Tekan dan tahan 👉 untuk menarik meter ke kanan. Tali menjadi tegang dan blok naik di atas landasan.",
+  "👉 को दबाकर रखें और मीटर को दाईं ओर खींचें। डोरी तन जाएगी और ब्लॉक रैंप पर ऊपर चढ़ेगा।"
+ ],
+ "game.pull_btn": ["Hold to pull", "按住拉动", "길게 눌러 당기기", "Tahan untuk tarik", "दबाकर खींचें"]
+}

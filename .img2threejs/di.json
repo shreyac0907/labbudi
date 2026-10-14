@@ -1,0 +1,176 @@
+{
+  "sourceImage": "/Users/shreya/Desktop/microscope .png",
+  "zonesDir": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory",
+  "detailInventory": {
+    "scanMethod": "grid-3x3",
+    "targetMinDetails": 6,
+    "details": [
+      {
+        "id": "zone-r0c0",
+        "kind": "background",
+        "description": "Empty white studio background, no object content.",
+        "region": { "x": 0.0, "y": 0.0, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "n/a",
+        "affects": "none",
+        "mapsTo": { "type": "none", "ref": "" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r0c0.png",
+        "confidence": 1.0
+      },
+      {
+        "id": "zone-r0c1-eyepiece-opening",
+        "kind": "opening",
+        "description": "Top rim of the eyepiece tube: a circular black opening at the very end of the tube, angled with the ~45 degree tube tilt.",
+        "region": { "x": 0.3333, "y": 0.0, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "micro",
+        "affects": "eyepiece top-face geometry (open circular face, not capped)",
+        "mapsTo": { "type": "component.localFeatures", "ref": "eyepiece.opening" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r0c1.png",
+        "confidence": 0.9
+      },
+      {
+        "id": "zone-r0c1-eyepiece-label",
+        "kind": "decal",
+        "description": "Small light teal/green rectangular sticker/label partway down the eyepiece tube barrel.",
+        "region": { "x": 0.3333, "y": 0.0, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "micro",
+        "affects": "cosmetic only -- not modelled as geometry, noted so it is not mistaken for a seam or component boundary",
+        "mapsTo": { "type": "material.localOverrides", "ref": "eyepiece.decalNote" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r0c1.png",
+        "confidence": 0.6
+      },
+      {
+        "id": "zone-r0c2",
+        "kind": "background",
+        "description": "Empty white studio background, no object content.",
+        "region": { "x": 0.6667, "y": 0.0, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "n/a",
+        "affects": "none",
+        "mapsTo": { "type": "none", "ref": "" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r0c2.png",
+        "confidence": 1.0
+      },
+      {
+        "id": "zone-r1c0",
+        "kind": "background",
+        "description": "Empty white studio background, no object content.",
+        "region": { "x": 0.0, "y": 0.3333, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "n/a",
+        "affects": "none",
+        "mapsTo": { "type": "none", "ref": "" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r1c0.png",
+        "confidence": 1.0
+      },
+      {
+        "id": "zone-r1c1-nosepiece-disc",
+        "kind": "revolving-disc",
+        "description": "Dark grey/near-black circular nosepiece disc at the base of the body tube, underside visible, with 2-3 objective barrel sockets arranged radially.",
+        "region": { "x": 0.3333, "y": 0.3333, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "meso",
+        "affects": "nosepiece disc radius, socket count/spacing, disc thickness",
+        "mapsTo": { "type": "component.localFeatures", "ref": "nosepiece.discGeometry" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/crop_wide_big.png",
+        "confidence": 0.85
+      },
+      {
+        "id": "zone-r1c1-objective-bands",
+        "kind": "colour-band",
+        "description": "Chrome objective barrels each carry a single painted colour ring near the base (nosepiece end): confirmed yellow/orange band on the x10 barrel and blue band on the x40 barrel from the close-up school-lab reference (ref2, crop_ref2_objectives.png); this primary product-shot reference (ref1) shows two barrels with an orange-toned band and a faint iridescent blue-purple sheen higher on the barrel that reads as lens-coating reflection, not a third distinct band, at this resolution/angle.",
+        "region": { "x": 0.3333, "y": 0.3333, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "micro",
+        "affects": "objective_x4/x10/x40 colour band materials -- identity-critical per task spec",
+        "mapsTo": { "type": "material.localOverrides", "ref": "objective.colourBand" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/crop_ref2_objectives.png",
+        "confidence": 0.9
+      },
+      {
+        "id": "zone-r1c1-stage-clips",
+        "kind": "spring-clip",
+        "description": "Thin diagonal bent-metal strips on the stage top surface (2 visible), consistent with spring-loaded stage clips pressing toward the aperture centre.",
+        "region": { "x": 0.3333, "y": 0.3333, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "meso",
+        "affects": "stageClipLeft/stageClipRight geometry and rest angle",
+        "mapsTo": { "type": "component.localFeatures", "ref": "stage.clipGeometry" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/crop_wide_big.png",
+        "confidence": 0.8
+      },
+      {
+        "id": "zone-r1c1-focus-knobs",
+        "kind": "disc-knob",
+        "description": "Large black disc (coarse focus) with a smaller concentric silver/black hub, mounted on the arm's right face; visible in this zone's upper-right edge.",
+        "region": { "x": 0.3333, "y": 0.3333, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "meso",
+        "affects": "coarseKnob geometry, hub detail",
+        "mapsTo": { "type": "component.localFeatures", "ref": "coarseKnob.hubDetail" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r1c1.png",
+        "confidence": 0.75
+      },
+      {
+        "id": "zone-r1c2",
+        "kind": "background",
+        "description": "Empty white studio background, no object content.",
+        "region": { "x": 0.6667, "y": 0.3333, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "n/a",
+        "affects": "none",
+        "mapsTo": { "type": "none", "ref": "" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r1c2.png",
+        "confidence": 1.0
+      },
+      {
+        "id": "zone-r2c0",
+        "kind": "background",
+        "description": "Empty white studio background, no object content.",
+        "region": { "x": 0.0, "y": 0.6667, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "n/a",
+        "affects": "none",
+        "mapsTo": { "type": "none", "ref": "" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r2c0.png",
+        "confidence": 1.0
+      },
+      {
+        "id": "zone-r2c1-base-switch",
+        "kind": "toggle-switch",
+        "description": "Small flush black rectangular ON/OFF switch on the base's front face, left of the illuminator housing base.",
+        "region": { "x": 0.3333, "y": 0.6667, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "micro",
+        "affects": "illuminatorSwitch position and silhouette (mounted on base front face in this reference rather than the illuminator housing side -- reconciled by placing the modelled switch on the illuminator housing per task spec, since the task explicitly calls for a switch 'on its side' of the illuminator housing)",
+        "mapsTo": { "type": "component.localFeatures", "ref": "illuminatorSwitch.mountNote" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r2c1.png",
+        "confidence": 0.8
+      },
+      {
+        "id": "zone-r2c1-base-logo-omitted",
+        "kind": "decal",
+        "description": "Manufacturer wordmark and a small 'CE' compliance mark on the base top face in the source photo. Intentionally NOT reproduced in the model (avoids depicting a specific real product's trademark on a generic in-game asset) -- base is modelled unbranded.",
+        "region": { "x": 0.3333, "y": 0.6667, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "micro",
+        "affects": "none (explicitly excluded)",
+        "mapsTo": { "type": "material.localOverrides", "ref": "base.noDecal" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r2c1.png",
+        "confidence": 0.95
+      },
+      {
+        "id": "zone-r2c1-illuminator-housing",
+        "kind": "cylindrical-housing",
+        "description": "Black cylindrical substage housing directly below the stage, with a lens/diffuser disc visible on its top face and small ventilation holes around its lower barrel.",
+        "region": { "x": 0.3333, "y": 0.6667, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "meso",
+        "affects": "illuminator housing proportions and top lens disc",
+        "mapsTo": { "type": "component.localFeatures", "ref": "illuminator.housingGeometry" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/crop_wide_big.png",
+        "confidence": 0.75
+      },
+      {
+        "id": "zone-r2c2",
+        "kind": "background",
+        "description": "Empty white studio background with a faint soft shadow from the base's rounded front corner.",
+        "region": { "x": 0.6667, "y": 0.6667, "width": 0.3333, "height": 0.3333, "units": "normalized" },
+        "scale": "n/a",
+        "affects": "none",
+        "mapsTo": { "type": "none", "ref": "" },
+        "evidenceRef": "/Users/shreya/Desktop/labbudi/.img2threejs/detail-inventory/zone-r2c2.png",
+        "confidence": 0.9
+      }
+    ]
+  },
+  "authoringInstruction": "Open each zone crop under zonesDir and replace every detail stub's kind, description, scale, affects, mapsTo, and confidence with what is actually observed. Add more detail entries per zone if a single zone contains multiple distinct marks; do not leave stubs unfilled or unlinked (mapsTo must reference a real component.localFeatures or material.localOverrides entry)."
+}

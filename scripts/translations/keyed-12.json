@@ -1,0 +1,37 @@
+{
+ "overworld.label_p1": [
+  "testing pH using indicators",
+  "使用指示剂测试pH值",
+  "지시약으로 pH 테스트하기",
+  "menguji pH menggunakan penunjuk",
+  "सूचकों से pH का परीक्षण"
+ ],
+ "overworld.label_p2": [
+  "measuring forces",
+  "测量力",
+  "힘 측정하기",
+  "mengukur daya",
+  "बल मापना"
+ ],
+ "overworld.label_p3": [
+  "heating using a bunsen burner",
+  "使用本生灯加热",
+  "분젠 버너로 가열하기",
+  "memanaskan menggunakan penunu bunsen",
+  "बुन्सेन बर्नर से गर्म करना"
+ ],
+ "overworld.label_p4": [
+  "using a microscope to observe animal cells",
+  "使用显微镜观察动物细胞",
+  "현미경으로 동물 세포 관찰하기",
+  "menggunakan mikroskop untuk memerhati sel haiwan",
+  "सूक्ष्मदर्शी से जंतु कोशिकाओं का अवलोकन"
+ ],
+ "overworld.label_p5": [
+  "building simple circuits",
+  "搭建简单电路",
+  "간단한 회로 만들기",
+  "membina litar mudah",
+  "सरल परिपथ बनाना"
+ ]
+}

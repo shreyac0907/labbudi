@@ -1,0 +1,142 @@
+{
+ "game.axis_angle": [
+  "Angle (°)",
+  "角度 (°)",
+  "각도 (°)",
+  "Sudut (°)",
+  "कोण (°)"
+ ],
+ "game.axis_force": [
+  "Force (N)",
+  "力 (N)",
+  "힘 (N)",
+  "Daya (N)",
+  "बल (N)"
+ ],
+ "game.table_pick_first": [
+  "Tap a reading on the right first, then tap the angle it belongs to.",
+  "先点击右边的一个读数，再点击它所属的角度。",
+  "오른쪽의 측정값을 먼저 누르고, 그다음 해당하는 각도를 누르세요.",
+  "Ketik satu bacaan di sebelah kanan dahulu, kemudian ketik sudut yang sepadan.",
+  "पहले दाईं ओर की एक रीडिंग दबाएँ, फिर वह कोण दबाएँ जिससे वह जुड़ती है।"
+ ],
+ "game.table_wrong": [
+  "That reading doesn't go with {{angle}}. The steeper the ramp, the bigger the force.",
+  "这个读数和 {{angle}} 不匹配。斜面越陡，力越大。",
+  "그 측정값은 {{angle}}에 맞지 않아요. 경사가 가파를수록 힘이 커져요.",
+  "Bacaan itu tidak sepadan dengan {{angle}}. Semakin curam landasan, semakin besar daya.",
+  "वह रीडिंग {{angle}} के साथ नहीं मिलती। रैंप जितना ढलवाँ, बल उतना बड़ा।"
+ ],
+ "game.part_scale": [
+  "Scale",
+  "刻度",
+  "눈금",
+  "Skala",
+  "पैमाना"
+ ],
+ "game.part_axis": [
+  "Axis",
+  "坐标轴",
+  "축",
+  "Paksi",
+  "अक्ष"
+ ],
+ "game.part_plots": [
+  "Plots",
+  "数据点",
+  "점",
+  "Plot",
+  "बिंदु"
+ ],
+ "game.part_units": [
+  "Units",
+  "单位",
+  "단위",
+  "Unit",
+  "इकाइयाँ"
+ ],
+ "game.part_scale_def": [
+  "The scale is the row of numbers along an axis. Every step is the same size.",
+  "刻度是坐标轴上的一排数字。每一格大小都一样。",
+  "눈금은 축을 따라 놓인 숫자들이에요. 한 칸의 크기는 모두 같아요.",
+  "Skala ialah barisan nombor di sepanjang paksi. Setiap langkah sama saiz.",
+  "पैमाना अक्ष के साथ लगी संख्याओं की पंक्ति है। हर कदम का आकार बराबर होता है।"
+ ],
+ "game.part_axis_def": [
+  "An axis is a line the numbers sit on. Angle goes along the bottom, force goes up the side.",
+  "坐标轴是数字所在的线。角度在底部，力在侧边向上。",
+  "축은 숫자가 놓인 선이에요. 각도는 아래쪽, 힘은 옆쪽 위로 가요.",
+  "Paksi ialah garisan tempat nombor berada. Sudut di sepanjang bawah, daya ke atas di tepi.",
+  "अक्ष वह रेखा है जिस पर संख्याएँ होती हैं। कोण नीचे की ओर, बल बग़ल में ऊपर की ओर जाता है।"
+ ],
+ "game.part_plots_def": [
+  "Plots are the crosses. Each one is a result from your table.",
+  "数据点就是那些叉。每一个都是你表格里的一个结果。",
+  "점은 X 표시예요. 각각 표에 있는 결과 하나예요.",
+  "Plot ialah tanda pangkah. Setiap satu ialah keputusan daripada jadual anda.",
+  "बिंदु वे क्रॉस हैं। हर एक आपकी तालिका का एक परिणाम है।"
+ ],
+ "game.part_units_def": [
+  "Units say what was measured: degrees (°) for angle and newtons (N) for force.",
+  "单位说明测量的是什么：角度用度 (°)，力用牛顿 (N)。",
+  "단위는 무엇을 쟀는지 알려 줘요. 각도는 도(°), 힘은 뉴턴(N)이에요.",
+  "Unit menunjukkan apa yang diukur: darjah (°) untuk sudut dan newton (N) untuk daya.",
+  "इकाइयाँ बताती हैं कि क्या मापा गया: कोण के लिए डिग्री (°) और बल के लिए न्यूटन (N)।"
+ ],
+ "game.graph_start": [
+  "Pick a word on the right, then tap the numbered badge that points at that part of the graph.",
+  "先在右边选一个词，再点击指向图表那一部分的编号圆标。",
+  "오른쪽에서 단어를 고른 다음, 그래프의 그 부분을 가리키는 번호 표시를 누르세요.",
+  "Pilih satu perkataan di sebelah kanan, kemudian ketik lencana bernombor yang menunjuk bahagian graf itu.",
+  "दाईं ओर से एक शब्द चुनें, फिर ग्राफ़ के उस हिस्से की ओर इशारा करने वाले संख्या वाले बैज को दबाएँ।"
+ ],
+ "game.graph_pick_first": [
+  "Pick a word on the right first.",
+  "请先在右边选一个词。",
+  "먼저 오른쪽에서 단어를 고르세요.",
+  "Pilih satu perkataan di sebelah kanan dahulu.",
+  "पहले दाईं ओर से एक शब्द चुनें।"
+ ],
+ "game.graph_yes": [
+  "Yes!",
+  "对！",
+  "맞아요!",
+  "Betul!",
+  "सही!"
+ ],
+ "game.graph_wrong": [
+  "Not that one. That badge points at something else.",
+  "不是这个。那个圆标指的是别的东西。",
+  "그게 아니에요. 그 표시는 다른 것을 가리켜요.",
+  "Bukan yang itu. Lencana itu menunjuk sesuatu yang lain.",
+  "यह नहीं। वह बैज किसी और चीज़ की ओर इशारा करता है।"
+ ],
+ "game.fit_start": [
+  "Slide the slider to tilt the line. It starts at your first result. Make it go through every cross.",
+  "拖动滑块来倾斜直线。它从你的第一个结果开始。让它穿过每一个叉。",
+  "슬라이더를 움직여 선을 기울이세요. 선은 첫 번째 결과에서 시작해요. 모든 X 표시를 지나게 하세요.",
+  "Gelongsorkan penggelongsor untuk mencondongkan garisan. Ia bermula pada keputusan pertama anda. Buat ia melalui setiap tanda pangkah.",
+  "स्लाइडर खिसकाकर रेखा को झुकाएँ। वह आपके पहले परिणाम से शुरू होती है। उसे हर क्रॉस से गुज़ारें।"
+ ],
+ "game.fit_high": [
+  "The line is above the crosses. Slide it back a little.",
+  "直线在叉的上方。把滑块往回拉一点。",
+  "선이 X 표시보다 위에 있어요. 슬라이더를 조금 되돌리세요.",
+  "Garisan berada di atas tanda pangkah. Gelongsorkan sedikit ke belakang.",
+  "रेखा क्रॉस के ऊपर है। स्लाइडर को थोड़ा पीछे करें।"
+ ],
+ "game.fit_low": [
+  "The line is below the crosses. Slide it on a little.",
+  "直线在叉的下方。把滑块再往前拉一点。",
+  "선이 X 표시보다 아래에 있어요. 슬라이더를 조금 더 움직이세요.",
+  "Garisan berada di bawah tanda pangkah. Gelongsorkan sedikit ke hadapan.",
+  "रेखा क्रॉस के नीचे है। स्लाइडर को थोड़ा आगे करें।"
+ ],
+ "game.fit_good": [
+  "That line goes through every cross. As the angle goes up, the force goes up.",
+  "这条线穿过了每一个叉。角度增大，力也增大。",
+  "그 선이 모든 X 표시를 지나요. 각도가 커질수록 힘도 커져요.",
+  "Garisan itu melalui setiap tanda pangkah. Apabila sudut meningkat, daya pun meningkat.",
+  "वह रेखा हर क्रॉस से गुज़रती है। कोण बढ़ता है तो बल भी बढ़ता है।"
+ ]
+}

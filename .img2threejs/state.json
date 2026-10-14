@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "status": "active",
+  "profile": "generic",
+  "currentStep": "build-current-pass",
+  "currentPass": "",
+  "checklist": [
+    {
+      "id": "image-analysis",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/image_analysis.md"
+      ],
+      "reason": "",
+      "command": "Read grimoire/intake/image_analysis.md and analyze {reference}"
+    },
+    {
+      "id": "reference-suitability",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/image_analysis.md"
+      ],
+      "reason": "layered analysis complete; object class=microscope, primaryDomain=object, confidence 0.95; single-object clean-background refs, technically and semantically suitable",
+      "command": "Read grimoire/intake/validation_rubric.md and record a pass, conditional, or reject verdict for {reference}"
+    },
+    {
+      "id": "reference-admission",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/refs/admit_ref1.json"
+      ],
+      "reason": "",
+      "command": "python3 forge/stage1_intake/check_reference_admission.py {reference} --out admission.json --probe-out probe.json"
+    },
+    {
+      "id": "local-spec-search",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/assessment.json"
+      ],
+      "reason": "",
+      "command": "Run the local evidence search before authoring the assessment"
+    },
+    {
+      "id": "pre-spec-assessment",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/assessment.json"
+      ],
+      "reason": "",
+      "command": "python3 forge/stage2_spec/new_pre_spec_assessment.py \"<name>\" --image {reference} --domain generic --out assessment.json"
+    },
+    {
+      "id": "detail-inventory",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/di.json"
+      ],
+      "reason": "",
+      "command": "python3 forge/stage1_intake/build_detail_inventory.py {reference} --mode grid-3x3 --out-dir detail-inventory --out di.json"
+    },
+    {
+      "id": "projection-route",
+      "scope": "setup",
+      "status": "skipped",
+      "evidence": [
+        ".img2threejs/image_analysis.md"
+      ],
+      "reason": "skipped: all surfaces are flat/solid-colour PBR materials (cream body paint, matte black, chrome, solid colour bands) per image_analysis.md Layer 5/6 -- no patterned skin, decal, or reference-matched surface requiring pixel projection. Procedural MeshStandardMaterial per the task's explicit material spec is sufficient.",
+      "command": "Record whether projection is required; if required run solve_camera_pose.py, delight_albedo.py, and bake_projected_texture.py, otherwise skip with a reason"
+    },
+    {
+      "id": "spec-authoring",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/object-sculpt-spec.json"
+      ],
+      "reason": "",
+      "command": "python3 forge/stage2_spec/new_sculpt_spec.py \"<name>\" --image {reference} --assessment assessment.json --augmentation spec-augmentation.json --domain generic --out object-sculpt-spec.json"
+    },
+    {
+      "id": "material-evidence",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/pbr/objectiveChrome_report.json"
+      ],
+      "reason": "real reference-pixel PBR extraction run for bodyPaint(0.86)/opticsBlack(0.86)/objectiveChrome(0.82)/stageBlack(0.86); remaining 7 small/thin materials documented as an accepted limitation in lookDevTargets.materialPass.referencePbrExtraction.acceptedLimitation",
+      "command": "python3 forge/stage1_intake/material_region_analysis.py --manifest material-regions.json --out-dir material-evidence --out material-analysis.json (single-crop route: analyze_texture.py + extract_pbr_evidence.py per verified crop; otherwise skip with a reason)"
+    },
+    {
+      "id": "material-spec-wiring",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/object-sculpt-spec.json"
+      ],
+      "reason": "",
+      "command": "python3 forge/stage2_spec/apply_material_analysis.py {spec} material-analysis.json --in-place"
+    },
+    {
+      "id": "strict-validation",
+      "scope": "setup",
+      "status": "done",
+      "evidence": [
+        ".img2threejs/strict_validation_result.txt"
+      ],
+      "reason": "strict-quality reports exactly 1 residual item: preSpecAssessment has unresolved unknowns before implementation. This is accepted and intentional -- the 6 listed unknowns (back of arm, stage underside, objective glass tips, illuminator rear/cabling, exact arm-curve radius, mirror-transplant onto the LED body) are genuine single-image reconstruction limits per grimoire's own 'state explicitly when output is approximate' principle, not omissions we can fix by re-authoring the spec. All other strict-quality items (materials, componentTree, topologyClass, colorMaterialRecipe, lighting, featureReviewTargets) are fully resolved.",
+      "command": "python3 forge/stage2_spec/validate_sculpt_spec.py {spec} --strict-quality"
+    },
+    {
+      "id": "build-current-pass",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage3_build/generate_threejs_factory.py {spec} --out src/createObjectModel.ts --pass-id {pass_id}"
+    },
+    {
+      "id": "render-capture",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "Render {pass_id} and capture the fixed review view plus meaningful orbit views"
+    },
+    {
+      "id": "review-contract-read",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "Read grimoire/review/gates_reference.md and grimoire/review/self_correction.md completely"
+    },
+    {
+      "id": "tier1-diagnostics",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage4_review/diagnose_render.py --reference {reference} --render <shot> --spec {spec} --pass-id {pass_id} --in-place"
+    },
+    {
+      "id": "multi-angle-review",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage4_review/diagnose_render_multi_angle.py --reference <fixed-shot> --orbit <orbit-shot> --orbit <orbit-shot>"
+    },
+    {
+      "id": "pass-gate-check",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage3_build/orchestrate_passes.py check {spec} --pass-id {pass_id}"
+    },
+    {
+      "id": "ai-review-recorded",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "Create the comparison sheet, inspect it with agent vision, and append exactly one review action"
+    },
+    {
+      "id": "pipeline-sync",
+      "scope": "pass",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage3_build/orchestrate_passes.py sync {spec} --in-place"
+    },
+    {
+      "id": "part-coverage",
+      "scope": "final",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage4_review/check_part_coverage.py --spec {spec} --manifest parts.json"
+    },
+    {
+      "id": "action-ready",
+      "scope": "final",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "Verify explodable/clickable hierarchy, pivots, sockets, and root.userData.sculptRuntime"
+    },
+    {
+      "id": "emission-target",
+      "scope": "final",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage3_build/emit_target.py --spec {spec} --workspace . [--target <kind> [--plugin <id>]]"
+    },
+    {
+      "id": "plugin-gates",
+      "scope": "final",
+      "status": "pending",
+      "evidence": [],
+      "reason": "",
+      "command": "python3 forge/stage3_build/run_gates.py --workspace ."
+    }
+  ],
+  "loops": {
+    "perPass": {},
+    "total": 0,
+    "maxPerPass": 3,
+    "maxTotal": 6
+  },
+  "artifacts": {
+    "reference": "/Users/shreya/Desktop/microscope .png",
+    "spec": "object-sculpt-spec.json"
+  },
+  "passHistory": [],
+  "reviewCursor": 0,
+  "iterationAction": "initial",
+  "stopReason": ""
+}

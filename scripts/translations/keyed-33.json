@@ -1,0 +1,30 @@
+{
+ "game.heat_blue_solution": [
+  "Blue solution",
+  "蓝色溶液",
+  "파란 용액",
+  "Larutan biru",
+  "नीला घोल"
+ ],
+ "game.heat_white_powder": [
+  "White powder solid",
+  "白色粉末固体",
+  "흰색 가루 고체",
+  "Pepejal serbuk putih",
+  "सफ़ेद चूर्ण ठोस"
+ ],
+ "game.gas_tap": [
+  "Gas tap",
+  "煤气阀",
+  "가스 밸브",
+  "Paip gas",
+  "गैस नल"
+ ],
+ "game.press_gas_tap": [
+  "Press the gas tap!",
+  "按下煤气阀！",
+  "가스 밸브를 누르세요!",
+  "Tekan paip gas!",
+  "गैस नल दबाएँ!"
+ ]
+}

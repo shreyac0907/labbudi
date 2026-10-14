@@ -1,0 +1,121 @@
+{
+ "game.drop_here": [
+  "drop here",
+  "放这里",
+  "여기에 놓기",
+  "letak di sini",
+  "यहाँ छोड़ें"
+ ],
+ "game.tap_to_record": [
+  "tap to record",
+  "点击记录",
+  "눌러서 기록",
+  "ketik untuk merekod",
+  "दर्ज करने के लिए टैप करें"
+ ],
+ "game.chart_litmus": [
+  "Litmus Paper Chart",
+  "石蕊试纸对照表",
+  "리트머스 종이 색 표",
+  "Carta Kertas Litmus",
+  "लिटमस पत्र चार्ट"
+ ],
+ "game.chart_phph": [
+  "Phenolphthalein Chart",
+  "酚酞对照表",
+  "페놀프탈레인 색 표",
+  "Carta Fenolftalein",
+  "फेनॉल्फथेलिन चार्ट"
+ ],
+ "game.chart_ui": [
+  "Universal Indicator Chart",
+  "通用指示剂对照表",
+  "만능 지시약 색 표",
+  "Carta Penunjuk Sejagat",
+  "सार्वभौमिक सूचक चार्ट"
+ ],
+ "game.note_litmus": [
+  "Litmus paper only shows acid, neutral, or alkali, not the exact pH. Universal Indicator is more precise.",
+  "石蕊试纸只能显示酸性、中性或碱性，不能给出确切的pH值。通用指示剂更精确。",
+  "리트머스 종이는 산성, 중성, 알칼리성만 알려 주고 정확한 pH는 알려 주지 못해요. 만능 지시약이 더 정확해요.",
+  "Kertas litmus hanya menunjukkan asid, neutral atau alkali, bukan pH yang tepat. Penunjuk Sejagat lebih tepat.",
+  "लिटमस पत्र केवल अम्ल, उदासीन या क्षार दिखाता है, सटीक pH नहीं। सार्वभौमिक सूचक अधिक सटीक है।"
+ ],
+ "game.note_phph": [
+  "Phenolphthalein is invisible in acids. It only reacts to alkalis, turning pink or bright pink.",
+  "酚酞在酸中看不见。它只与碱反应，变成粉色或亮粉色。",
+  "페놀프탈레인은 산에서는 보이지 않아요. 알칼리에만 반응해서 분홍색이나 진한 분홍색으로 변해요.",
+  "Fenolftalein tidak kelihatan dalam asid. Ia hanya bertindak balas dengan alkali, bertukar merah jambu atau merah jambu terang.",
+  "फेनॉल्फथेलिन अम्लों में दिखाई नहीं देता। यह केवल क्षारों से अभिक्रिया करता है और गुलाबी या चमकीला गुलाबी हो जाता है।"
+ ],
+ "game.sw_acid_neutral": [
+  "Acid or Neutral",
+  "酸性或中性",
+  "산성 또는 중성",
+  "Asid atau Neutral",
+  "अम्लीय या उदासीन"
+ ],
+ "game.sw_alkali_weak": [
+  "Alkali (weak)",
+  "碱性（弱）",
+  "알칼리 (약함)",
+  "Alkali (lemah)",
+  "क्षार (दुर्बल)"
+ ],
+ "game.sw_alkali_strong": [
+  "Strong alkali",
+  "强碱",
+  "강한 알칼리",
+  "Alkali kuat",
+  "तीव्र क्षार"
+ ],
+ "game.rec_match": [
+  "Nice, that matches what you saw.",
+  "不错，这和你看到的一致。",
+  "좋아요, 본 것과 일치해요.",
+  "Bagus, itu sepadan dengan apa yang anda lihat.",
+  "बढ़िया, यह आपके देखे हुए से मेल खाता है।"
+ ],
+ "game.rec_check_tube": [
+  "Check your test tube, what colour did YOU see?",
+  "看看你的试管，你看到的是什么颜色？",
+  "시험관을 확인해 보세요, 여러분은 어떤 색을 봤나요?",
+  "Semak tabung uji anda, apakah warna yang ANDA lihat?",
+  "अपनी परखनली देखें, आपने कौन सा रंग देखा?"
+ ],
+ "game.memory_bonus_banner": [
+  "Remembered it!",
+  "记住了！",
+  "기억했어요!",
+  "Ingat!",
+  "याद रहा!"
+ ],
+ "game.memory_try": [
+  "Think you can remember them all? Try it!",
+  "觉得你能把它们都记住吗？试试看！",
+  "전부 기억할 수 있을까요? 도전해 보세요!",
+  "Rasa anda boleh mengingati semuanya? Cubalah!",
+  "क्या आपको सब याद रह सकते हैं? कोशिश करें!"
+ ],
+ "game.memory_active": [
+  "Memory Mode active",
+  "记忆模式已开启",
+  "기억 모드 켜짐",
+  "Mod Ingatan aktif",
+  "स्मृति मोड चालू"
+ ],
+ "game.memory_cta": [
+  "Memory Mode: record from memory!",
+  "记忆模式：凭记忆来记录！",
+  "기억 모드: 기억으로 기록하세요!",
+  "Mod Ingatan: rekod daripada ingatan!",
+  "स्मृति मोड: याद से दर्ज करें!"
+ ],
+ "game.rec_wrong_place": [
+  "That doesn't belong there, check your reading and try again.",
+  "那个不属于这里，检查一下你的读数再试一次。",
+  "그건 거기에 맞지 않아요, 값을 확인하고 다시 해 보세요.",
+  "Itu tidak sesuai di situ, semak bacaan anda dan cuba lagi.",
+  "वह वहाँ नहीं आता, अपना पाठ्यांक जाँचें और फिर कोशिश करें।"
+ ]
+}

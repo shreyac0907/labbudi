@@ -1,0 +1,41 @@
+[
+  {
+    "id": "objectiveBarrels",
+    "name": "Objective Lens Barrels",
+    "baseComponentRef": "objective_x4",
+    "instances": ["objective_x4", "objective_x10", "objective_x40"],
+    "variation": {
+      "scale": "each instance scaled independently (x4 shortest 20mm, x10 medium 28mm, x40 longest 36mm)",
+      "colour": "each instance has a distinct localFeatures colour-band material override (red/yellow/blue)",
+      "placement": "radially arranged around the nosepiece disc at 120 degree intervals, matching nosepiece.rotation.y sockets"
+    },
+    "evidenceRefs": ["lab-use-detail"],
+    "notes": "The single most identity-critical repetition system per image_analysis.md Layer 7 -- same barrel primitive family, scaled and colour-banded differently per objective."
+  },
+  {
+    "id": "feetRepetition",
+    "name": "Base Rubber Feet",
+    "baseComponentRef": "baseFoot",
+    "instances": ["baseFoot-fl", "baseFoot-fr", "baseFoot-bl", "baseFoot-br"],
+    "variation": {
+      "scale": "uniform, identical geometry",
+      "colour": "uniform rubberFoot material",
+      "placement": "one at each of the base's 4 corners, mirrored in X and Z from the baseFoot component's authored position"
+    },
+    "evidenceRefs": ["three-quarter-primary"],
+    "notes": "4 instances generated from the single baseFoot component definition via corner-mirroring, not 4 separate componentTree entries."
+  },
+  {
+    "id": "illuminatorVents",
+    "name": "Illuminator Housing Ventilation Holes",
+    "baseComponentRef": "illuminatorVentHoles",
+    "instances": ["illuminatorVentHoles-0", "illuminatorVentHoles-1", "illuminatorVentHoles-2", "illuminatorVentHoles-3", "illuminatorVentHoles-4", "illuminatorVentHoles-5"],
+    "variation": {
+      "scale": "uniform",
+      "colour": "uniform opticsBlack material",
+      "placement": "6 holes evenly spaced around the illuminator housing's lower barrel circumference (60 degree intervals)"
+    },
+    "evidenceRefs": ["lab-use-detail"],
+    "notes": "Inferred count/spacing (confidence 0.65, see illuminatorVentHoles.surfaceDetail.notes) -- generated as a ring instance from the single illuminatorVentHoles component definition."
+  }
+]

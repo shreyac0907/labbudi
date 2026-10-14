@@ -1,0 +1,30 @@
+{
+ "game.tip_prefix": [
+  "Tip:",
+  "提示：",
+  "팁:",
+  "Tip:",
+  "सुझाव:"
+ ],
+ "game.guide_back": [
+  "Previous tip",
+  "上一条提示",
+  "이전 안내",
+  "Petua sebelumnya",
+  "पिछला सुझाव"
+ ],
+ "game.guide_next": [
+  "Next tip",
+  "下一条提示",
+  "다음 안내",
+  "Petua seterusnya",
+  "अगला सुझाव"
+ ],
+ "game.go_to_step": [
+  "Go back to step {{n}}",
+  "返回第 {{n}} 步",
+  "{{n}}단계로 돌아가기",
+  "Kembali ke langkah {{n}}",
+  "चरण {{n}} पर वापस जाएँ"
+ ]
+}

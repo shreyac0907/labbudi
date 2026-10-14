@@ -1,0 +1,23 @@
+{
+ "overworld.subject_chemistry": [
+  "Chemistry",
+  "化学",
+  "화학",
+  "Kimia",
+  "रसायन विज्ञान"
+ ],
+ "overworld.subject_biology": [
+  "Biology",
+  "生物",
+  "생물학",
+  "Biologi",
+  "जीव विज्ञान"
+ ],
+ "overworld.subject_physics": [
+  "Physics",
+  "物理",
+  "물리학",
+  "Fizik",
+  "भौतिकी"
+ ]
+}

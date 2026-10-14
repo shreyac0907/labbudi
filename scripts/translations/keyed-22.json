@@ -1,0 +1,13 @@
+{
+ "game.slides_notes": ["Notes", "笔记", "노트", "Nota", "नोट्स"],
+ "game.slide_of": [
+  "Slide {{n}} of {{total}}",
+  "第 {{n}} / {{total}} 张",
+  "슬라이드 {{n}} / {{total}}",
+  "Slaid {{n}} daripada {{total}}",
+  "स्लाइड {{n}} / {{total}}"
+ ],
+ "game.slide_prev": ["Previous slide", "上一张", "이전 슬라이드", "Slaid sebelumnya", "पिछली स्लाइड"],
+ "game.slide_next": ["Next slide", "下一张", "다음 슬라이드", "Slaid seterusnya", "अगली स्लाइड"],
+ "game.slide_finish": ["Got it!", "明白了！", "알겠어요!", "Faham!", "समझ गया!"]
+}

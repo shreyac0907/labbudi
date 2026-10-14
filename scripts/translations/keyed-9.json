@@ -1,0 +1,30 @@
+{
+ "roadmap.steps_in_checkpoint_one": [
+  "{{count}} step in this checkpoint",
+  "此检查点共有{{count}}步",
+  "이 체크포인트에는 {{count}}단계가 있어요",
+  "{{count}} langkah dalam pusat pemeriksaan ini",
+  "इस चेकपॉइंट में {{count}} चरण"
+ ],
+ "roadmap.steps_in_checkpoint_other": [
+  "{{count}} steps in this checkpoint",
+  "此检查点共有{{count}}步",
+  "이 체크포인트에는 {{count}}단계가 있어요",
+  "{{count}} langkah dalam pusat pemeriksaan ini",
+  "इस चेकपॉइंट में {{count}} चरण"
+ ],
+ "game.quick_fire_counter": [
+  "QUICK FIRE: {{done}} / 5 ramps pulled",
+  "快速挑战：已拉动 {{done}} / 5 个斜面",
+  "번개 라운드: 경사면 {{done}} / 5개 당김",
+  "CABARAN PANTAS: {{done}} / 5 satah condong ditarik",
+  "तेज़ राउंड: {{done}} / 5 आनत तल खींचे गए"
+ ],
+ "game.daily_banner": [
+  "Daily Challenge: beat your best score! Best: {{best}}",
+  "每日挑战：打破你的最高分！最高分：{{best}}",
+  "데일리 챌린지: 최고 기록을 넘어서세요! 최고: {{best}}",
+  "Cabaran Harian: pecahkan skor terbaik anda! Terbaik: {{best}}",
+  "दैनिक चुनौती: अपना सर्वश्रेष्ठ स्कोर पार करें! सर्वश्रेष्ठ: {{best}}"
+ ]
+}

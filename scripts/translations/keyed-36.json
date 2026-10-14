@@ -1,0 +1,86 @@
+{
+ "game.mic_eyepiece": [
+  "Eyepiece",
+  "目镜",
+  "접안렌즈",
+  "Kanta mata",
+  "नेत्रिका"
+ ],
+ "game.mic_nosepiece": [
+  "Nosepiece",
+  "物镜转换器",
+  "회전판",
+  "Pemegang kanta",
+  "नोज़पीस"
+ ],
+ "game.mic_objective": [
+  "Objective lens",
+  "物镜",
+  "대물렌즈",
+  "Kanta objektif",
+  "अभिदृश्यक लेंस"
+ ],
+ "game.mic_clips": [
+  "Stage clips",
+  "载物台夹",
+  "재물대 클립",
+  "Klip pentas",
+  "मंच क्लिप"
+ ],
+ "game.mic_stage": [
+  "Stage",
+  "载物台",
+  "재물대",
+  "Pentas",
+  "मंच"
+ ],
+ "game.mic_stage_knobs": [
+  "Stage knobs",
+  "载物台旋钮",
+  "재물대 손잡이",
+  "Tombol pentas",
+  "मंच की घुंडियाँ"
+ ],
+ "game.mic_switch": [
+  "Light switch",
+  "灯开关",
+  "조명 스위치",
+  "Suis lampu",
+  "बत्ती का स्विच"
+ ],
+ "game.mic_arm": [
+  "Arm",
+  "镜臂",
+  "경통 팔",
+  "Lengan",
+  "भुजा"
+ ],
+ "game.mic_coarse": [
+  "Coarse focus",
+  "粗调焦",
+  "거칠게 초점",
+  "Fokus kasar",
+  "मोटा फ़ोकस"
+ ],
+ "game.mic_fine": [
+  "Fine focus",
+  "细调焦",
+  "미세 초점",
+  "Fokus halus",
+  "महीन फ़ोकस"
+ ],
+ "game.mic_base": [
+  "Base",
+  "底座",
+  "받침",
+  "Tapak",
+  "आधार"
+ ],
+ "game.mic_view": [
+  "What you see",
+  "你看到的",
+  "보이는 모습",
+  "Apa yang anda lihat",
+  "आप क्या देखते हैं"
+ ]
+}

@@ -1,0 +1,87 @@
+/* Our Mission page (src/screens/MissionPage.jsx). Plain and still: white page,
+   Inter, black, centred text, with the grass footer fixed to the bottom. */
+
+.mission-scroll {
+  position: fixed;
+  inset: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #ffffff;
+  font-family: Inter, sans-serif;
+  color: #000000;
+}
+
+.mission-column {
+  min-height: 100%;
+}
+.mission-content-wrapper {
+  /* clear the fixed footer; both values are set from src/config/missionFooter.js */
+  padding-bottom: calc(var(--mission-footer-height) + var(--mission-footer-gap));
+}
+
+.mission-hero {
+  box-sizing: border-box;
+  padding: 40px 32px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.mission-logo {
+  display: block;
+  width: 640px;
+  max-width: 86%;
+  height: auto;
+  margin: 0 auto 24px;
+}
+.mission-tagline {
+  margin: 0;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 400;
+  color: #000000;
+  text-transform: lowercase;
+}
+
+.mission-text {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 36px 32px 24px;
+  box-sizing: content-box;
+  text-align: center;
+}
+.mission-p {
+  margin: 0 0 32px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.85;
+  color: #000000;
+}
+.mission-heading {
+  margin: 48px 0 16px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+}
+.mission-quote {
+  margin: 56px 0 0;
+  padding: 0;
+}
+.mission-quote-text {
+  margin: 0 0 8px;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.7;
+  color: #000000;
+}
+.mission-quote-attribution {
+  font-size: 14px;
+  color: #000000;
+}
+
+/* Hindi needs more line height */
+:lang(hi) .mission-p,
+:lang(hi) .mission-quote-text {
+  line-height: 2;
+}

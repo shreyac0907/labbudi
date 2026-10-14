@@ -1,0 +1,23 @@
+{
+ "game.ms_wrong_lens": [
+  "That's the {{label}} lens. This step needs the {{want}} lens, so tap that one.",
+  "那是{{label}}镜头。这一步需要{{want}}镜头，请点它。",
+  "그건 {{label}} 렌즈예요. 이 단계에는 {{want}} 렌즈가 필요해요. 그 렌즈를 누르세요.",
+  "Itu kanta {{label}}. Langkah ini memerlukan kanta {{want}}, jadi ketik yang itu.",
+  "वह {{label}} लेंस है। इस कदम में {{want}} लेंस चाहिए, इसलिए उसी पर टैप करें।"
+ ],
+ "game.mic_centred": [
+  "Selected cell centred",
+  "所选细胞已居中",
+  "선택한 세포가 가운데에 있어요",
+  "Sel yang dipilih berada di tengah",
+  "चुनी हुई कोशिका बीच में है"
+ ],
+ "game.mic_not_centred": [
+  "Centre the selected cell",
+  "请把所选细胞移到中央",
+  "선택한 세포를 가운데로 옮기세요",
+  "Letakkan sel yang dipilih di tengah",
+  "चुनी हुई कोशिका को बीच में लाएँ"
+ ]
+}

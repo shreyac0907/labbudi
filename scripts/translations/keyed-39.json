@@ -1,0 +1,44 @@
+{
+ "game.ms_photo": [
+  "Take a photo of the final view. Press the camera when one cell is big, in the middle and sharp.",
+  "给最后的视野拍一张照片。当一个细胞又大又居中又清晰时，按下相机。",
+  "마지막 화면의 사진을 찍으세요. 세포 하나가 크고, 가운데에 있고, 선명할 때 카메라를 누르세요.",
+  "Ambil gambar pandangan akhir. Tekan kamera apabila satu sel besar, di tengah dan jelas.",
+  "अंतिम दृश्य की फ़ोटो लें। जब एक कोशिका बड़ी, बीच में और साफ़ हो, तब कैमरा दबाएँ।"
+ ],
+ "game.ms_photo_btn": [
+  "Take a photo",
+  "拍照",
+  "사진 찍기",
+  "Ambil gambar",
+  "फ़ोटो लें"
+ ],
+ "game.ms_photo_ok": [
+  "A clear photo! You can see the nucleus, the cytoplasm and the membrane of a cheek cell.",
+  "照片很清晰！你能看到颊细胞的细胞核、细胞质和细胞膜。",
+  "선명한 사진이에요! 볼 세포의 핵, 세포질, 세포막이 보여요.",
+  "Gambar yang jelas! Anda boleh nampak nukleus, sitoplasma dan membran sel pipi.",
+  "साफ़ फ़ोटो! आप गाल की कोशिका का केंद्रक, कोशिकाद्रव्य और झिल्ली देख सकते हैं।"
+ ],
+ "game.ms_photo_retry": [
+  "That photo is not a clear cell, so we can't use it. Let's try again from the start!",
+  "这张照片不是清晰的细胞，不能用。我们从头再来一次！",
+  "그 사진은 선명한 세포가 아니라서 쓸 수 없어요. 처음부터 다시 해 봐요!",
+  "Gambar itu bukan sel yang jelas, jadi kita tidak boleh menggunakannya. Mari cuba lagi dari awal!",
+  "वह फ़ोटो साफ़ कोशिका की नहीं है, इसलिए हम उसे इस्तेमाल नहीं कर सकते। चलो शुरू से फिर कोशिश करें!"
+ ],
+ "game.ms_photo_clear": [
+  "Clear cell",
+  "清晰的细胞",
+  "선명한 세포",
+  "Sel yang jelas",
+  "साफ़ कोशिका"
+ ],
+ "game.ms_photo_unclear": [
+  "Not clear",
+  "不清晰",
+  "선명하지 않음",
+  "Tidak jelas",
+  "साफ़ नहीं"
+ ]
+}

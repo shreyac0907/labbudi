@@ -1,0 +1,23 @@
+{
+ "game.swab_to_cheek": [
+  "Pick up the cotton swab and carry it to the glowing spot on Pip's cheek.",
+  "拿起棉签，把它送到皮普脸颊上发光的位置。",
+  "면봉을 집어 핍의 볼에서 빛나는 곳으로 가져가세요.",
+  "Ambil kapas calit dan bawa ke tempat yang bercahaya pada pipi Pip.",
+  "रुई की सलाई उठाएँ और उसे पिप के गाल पर चमकती जगह तक ले जाएँ।"
+ ],
+ "game.swab_rub": [
+  "Now rub the swab round the circle, gently, to collect cells.",
+  "现在轻轻地沿着圆圈转动棉签来收集细胞。",
+  "이제 면봉을 동그라미를 따라 살살 돌려 세포를 모으세요.",
+  "Sekarang gosok kapas calit mengelilingi bulatan dengan lembut untuk mengumpul sel.",
+  "अब सलाई को धीरे से गोले में घुमाएँ ताकि कोशिकाएँ जमा हों।"
+ ],
+ "game.cotton_swab": [
+  "Cotton swab",
+  "棉签",
+  "면봉",
+  "Kapas calit",
+  "रुई की सलाई"
+ ]
+}

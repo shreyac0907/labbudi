@@ -1,0 +1,149 @@
+{
+ "game.big_drop_msg": [
+  "What a drop! The chemistry worked perfectly!",
+  "好大一滴！化学反应完美成功！",
+  "정말 대단한 한 방울! 화학이 완벽하게 작동했어요!",
+  "Titisan yang hebat! Kimia berfungsi dengan sempurna!",
+  "क्या बूँद थी! रसायन विज्ञान ने एकदम सही काम किया!"
+ ],
+ "game.hold_over_tube": [
+  "Hold it over the {{tube}} test tube!",
+  "把它放在{{tube}}试管上方！",
+  "{{tube}} 시험관 위에 대세요!",
+  "Pegang di atas tabung uji {{tube}}!",
+  "इसे {{tube}} वाली परखनली के ऊपर रखें!"
+ ],
+ "game.hold_longer_short": [
+  "Hold a little longer!",
+  "再多按住一会儿！",
+  "조금 더 오래 누르세요!",
+  "Tahan sedikit lebih lama!",
+  "थोड़ी देर और दबाए रखें!"
+ ],
+ "game.stain_loaded": [
+  "Stain loaded, drag it above the slide and squeeze once.",
+  "染色剂已吸好，把它拖到载玻片上方，挤压一次。",
+  "염색약을 채웠어요, 슬라이드 위로 끌어다 놓고 한 번 짜세요.",
+  "Pewarna telah dimuatkan, seret ke atas slaid dan picit sekali.",
+  "अभिरंजक भर गया, इसे स्लाइड के ऊपर खींचें और एक बार दबाएँ।"
+ ],
+ "game.aim_slide": [
+  "Aim above the slide!",
+  "对准载玻片的上方！",
+  "슬라이드 위를 겨냥하세요!",
+  "Bidik di atas slaid!",
+  "स्लाइड के ऊपर निशाना लगाएँ!"
+ ],
+ "game.one_drop_enough": [
+  "One drop is enough, too much obscures the cells!",
+  "一滴就够了，太多会盖住细胞！",
+  "한 방울이면 충분해요, 너무 많으면 세포가 가려져요!",
+  "Satu titik sudah cukup, terlalu banyak akan menghalang sel!",
+  "एक बूँद काफ़ी है, ज़्यादा डालने से कोशिकाएँ ढक जाती हैं!"
+ ],
+ "game.stain_visible": [
+  "The stain makes the cell structures visible under the microscope.",
+  "染色剂能让细胞结构在显微镜下清晰可见。",
+  "염색약은 현미경으로 세포 구조가 보이게 해 줘요.",
+  "Pewarna menjadikan struktur sel kelihatan di bawah mikroskop.",
+  "अभिरंजक सूक्ष्मदर्शी के नीचे कोशिका की संरचनाओं को दिखाई देने योग्य बनाता है।"
+ ],
+ "game.cell_stain": [
+  "Cell Stain",
+  "细胞染色剂",
+  "세포 염색약",
+  "Pewarna sel",
+  "कोशिका अभिरंजक"
+ ],
+ "game.watch_flame_lit": [
+  "Keep watching closely, the flame needs to stay lit the whole time.",
+  "继续仔细观察，火焰必须一直保持点燃。",
+  "계속 자세히 지켜보세요, 불꽃이 내내 켜져 있어야 해요.",
+  "Teruskan memerhati dengan teliti, nyalaan mesti kekal menyala sepanjang masa.",
+  "ध्यान से देखते रहें, ज्वाला को पूरे समय जलते रहना चाहिए।"
+ ],
+ "game.not_quite_zero": [
+  "Not quite zero, let it settle and try again.",
+  "还没到零，等它稳定下来再试一次。",
+  "아직 0이 아니에요, 안정되길 기다렸다가 다시 해 보세요.",
+  "Belum tepat sifar, biar ia tetap dan cuba lagi.",
+  "अभी ठीक शून्य नहीं, इसे स्थिर होने दें और फिर कोशिश करें।"
+ ],
+ "game.zero_first": [
+  "Always zero the meter first, otherwise your measurements will all be wrong by the same amount!",
+  "一定要先校零，否则你所有的测量值都会偏差同样的数值！",
+  "항상 먼저 영점을 맞추세요. 그러지 않으면 모든 측정값이 똑같은 양만큼 틀려요!",
+  "Sentiasa sifarkan meter dahulu, jika tidak semua ukuran anda akan salah dengan jumlah yang sama!",
+  "हमेशा पहले मीटर को शून्य पर करें, वरना आपके सभी माप उतनी ही मात्रा से गलत होंगे!"
+ ],
+ "game.tap_zero": [
+  "Tap when the needle hits zero!",
+  "指针指到零时点击！",
+  "바늘이 0에 닿을 때 누르세요!",
+  "Ketik apabila jarum mencecah sifar!",
+  "जब सुई शून्य पर पहुँचे तब टैप करें!"
+ ],
+ "game.tap_meter_zoom": [
+  "Tap the meter to zoom in",
+  "点击仪表放大",
+  "미터를 눌러 확대하세요",
+  "Ketik meter untuk zum masuk",
+  "ज़ूम करने के लिए मीटर पर टैप करें"
+ ],
+ "game.force_vs_angle": [
+  "Force vs Angle",
+  "力与角度",
+  "힘과 각도",
+  "Daya lwn Sudut",
+  "बल बनाम कोण"
+ ],
+ "game.recorded_check": [
+  "Recorded ✓",
+  "已记录 ✓",
+  "기록됨 ✓",
+  "Direkodkan ✓",
+  "दर्ज हो गया ✓"
+ ],
+ "game.scrap_title": [
+  "These chemicals are in your home!",
+  "这些化学物质就在你家里！",
+  "이 화학 물질들은 여러분의 집에도 있어요!",
+  "Bahan kimia ini ada di rumah anda!",
+  "ये रसायन आपके घर में ही हैं!"
+ ],
+ "game.scrap_sub": [
+  "Tap each one to see where you've seen it before.",
+  "点击每一个，看看你在哪里见过它们。",
+  "하나씩 눌러 어디서 본 적이 있는지 확인해 보세요.",
+  "Ketik setiap satu untuk melihat di mana anda pernah melihatnya.",
+  "हर एक पर टैप करें और देखें कि आपने इसे पहले कहाँ देखा है।"
+ ],
+ "game.scrap_page": [
+  "Your scrapbook page goes here",
+  "你的剪贴簿页面放在这里",
+  "여러분의 스크랩북 페이지가 여기에 들어가요",
+  "Halaman buku skrap anda diletakkan di sini",
+  "आपका स्क्रैपबुक पेज यहाँ आएगा"
+ ],
+ "game.scrap_size": [
+  "Design size: {{w}}px × {{h}}px",
+  "设计尺寸：{{w}}px × {{h}}px",
+  "디자인 크기: {{w}}px × {{h}}px",
+  "Saiz reka bentuk: {{w}}px × {{h}}px",
+  "डिज़ाइन का आकार: {{w}}px × {{h}}px"
+ ],
+ "game.coming_soon_bang": [
+  "Coming soon!",
+  "即将推出！",
+  "곧 만나요!",
+  "Akan datang!",
+  "जल्द आ रहा है!"
+ ],
+ "game.back_to_results": [
+  "← Back to results",
+  "← 返回结果",
+  "← 결과로 돌아가기",
+  "← Kembali ke keputusan",
+  "← परिणामों पर वापस जाएँ"
+ ]
+}
