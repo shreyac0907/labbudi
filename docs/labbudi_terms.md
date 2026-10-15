@@ -130,6 +130,6 @@ For questions, corrections to the science, permission requests or feedback, plea
 
 [www.linkedin.com/in/shreya-challagali-853311397](https://www.linkedin.com/in/shreya-challagali-853311397)
 
-Website: **[WEBSITE URL]**
+Website: [labbudi.vercel.app](https://labbudi.vercel.app/)
 
 Thank you for using LabBudi, and happy experimenting!
