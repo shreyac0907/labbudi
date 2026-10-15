@@ -1,0 +1,30 @@
+{
+ "mission.guide_say_pip": [
+  "Hi hi! Ready to explore some science with me?!",
+  "嗨嗨！准备好跟我一起探索科学了吗？！",
+  "안녕 안녕! 저와 함께 과학을 탐험할 준비 됐나요?!",
+  "Hai hai! Dah sedia untuk meneroka sains bersama saya?!",
+  "हाय हाय! मेरे साथ विज्ञान की खोज करने के लिए तैयार हो?!"
+ ],
+ "mission.guide_say_lili": [
+  "Ooh! Living things are SO cool!!",
+  "哇！生物真的太酷了！！",
+  "우와! 생물은 정말 멋져요!!",
+  "Wah! Benda hidup memang hebat!!",
+  "वाह! जीव-जंतु कितने कमाल के हैं!!"
+ ],
+ "mission.guide_say_madu": [
+  "WOO!! Reactions are fascinating!!",
+  "哇哦！！化学反应太迷人了！！",
+  "우와!! 화학 반응은 정말 신기해요!!",
+  "WOO!! Tindak balas memang menarik!!",
+  "वूहू!! रासायनिक अभिक्रियाएँ कितनी शानदार होती हैं!!"
+ ],
+ "mission.guide_say_lumi": [
+  "WOW!! Physics is everywhere you look!!",
+  "哇！！物理无处不在！！",
+  "우와!! 물리는 어디에나 있어요!!",
+  "WOW!! Fizik ada di mana-mana!!",
+  "वाह!! भौतिकी तो हर जगह है!!"
+ ]
+}

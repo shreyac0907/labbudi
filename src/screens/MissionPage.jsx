@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import { ASSETS } from '../config/assets';
 import { MissionFooter } from '../components/MissionFooter';
+import MissionGuides from '../components/MissionGuides';
 import { MISSION_FOOTER, MISSION_FOOTER_HEIGHT } from '../config/missionFooter';
 import './MissionPage.css';
 
@@ -50,14 +51,19 @@ export default function MissionPage() {
 
             <h2 className="mission-heading">{plain(t('mission.block5_header'))}</h2>
             <p className="mission-p">{p('mission.block5_body')}</p>
+          </main>
 
+          {/* the four guides, in a line like the home page: hover one and it speaks */}
+          <MissionGuides />
+
+          <div className="mission-text mission-text--after">
             <p className="mission-p">{p('mission.block6')}</p>
 
             <blockquote className="mission-quote">
               <p className="mission-quote-text">“{t('mission.quote')}”</p>
               <footer className="mission-quote-attribution">{t('mission.quote_attribution')}</footer>
             </blockquote>
-          </main>
+          </div>
         </div>
 
         <MissionFooter />

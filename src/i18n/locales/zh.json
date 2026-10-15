@@ -978,7 +978,16 @@
     "sticker_1": "在玩中学",
     "sticker_2": "尝试。失败。再尝试。",
     "sticker_3": "机会很重要",
-    "sticker_4": "科学属于每一个人"
+    "sticker_4": "科学属于每一个人",
+    "guides_title": "认识你的向导！",
+    "guide_pip": "主向导",
+    "guide_lili": "生物",
+    "guide_madu": "化学",
+    "guide_lumi": "物理",
+    "guide_say_pip": "嗨嗨！准备好跟我一起探索科学了吗？！",
+    "guide_say_lili": "哇！生物真的太酷了！！",
+    "guide_say_madu": "哇哦！！化学反应太迷人了！！",
+    "guide_say_lumi": "哇！！物理无处不在！！"
   },
   "language": {
     "english_sub": "（英语）",

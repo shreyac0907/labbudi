@@ -978,7 +978,16 @@
     "sticker_1": "Play to learn",
     "sticker_2": "Try. Fail. Try again.",
     "sticker_3": "Access matters",
-    "sticker_4": "Science is for everyone"
+    "sticker_4": "Science is for everyone",
+    "guides_title": "Meet your guides!",
+    "guide_pip": "Main guide",
+    "guide_lili": "Biology",
+    "guide_madu": "Chemistry",
+    "guide_lumi": "Physics",
+    "guide_say_pip": "Hi hi! Ready to explore some science with me?!",
+    "guide_say_lili": "Ooh! Living things are SO cool!!",
+    "guide_say_madu": "WOO!! Reactions are fascinating!!",
+    "guide_say_lumi": "WOW!! Physics is everywhere you look!!"
   },
   "language": {
     "english_sub": "(English)",

@@ -978,7 +978,16 @@
     "sticker_1": "놀며 배우기",
     "sticker_2": "도전. 실패. 다시 도전.",
     "sticker_3": "접근성이 중요해요",
-    "sticker_4": "과학은 모두를 위한 것"
+    "sticker_4": "과학은 모두를 위한 것",
+    "guides_title": "안내자들을 만나 보세요!",
+    "guide_pip": "메인 안내자",
+    "guide_lili": "생물",
+    "guide_madu": "화학",
+    "guide_lumi": "물리",
+    "guide_say_pip": "안녕 안녕! 저와 함께 과학을 탐험할 준비 됐나요?!",
+    "guide_say_lili": "우와! 생물은 정말 멋져요!!",
+    "guide_say_madu": "우와!! 화학 반응은 정말 신기해요!!",
+    "guide_say_lumi": "우와!! 물리는 어디에나 있어요!!"
   },
   "language": {
     "english_sub": "(영어)",

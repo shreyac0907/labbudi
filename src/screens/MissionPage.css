@@ -85,3 +85,106 @@
 :lang(hi) .mission-quote-text {
   line-height: 2;
 }
+
+/* "Meet your guides!": the four characters in a line, like the home page, with their names and subjects underneath
+   (src/components/MissionGuides.jsx). Hover one and it speaks in a bubble above it. */
+.mission-guides {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 8px 24px 8px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.mission-guides-title {
+  margin: 8px 0 0;
+}
+.mission-guides-row {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-end;
+  gap: min(48px, 3.5vw);
+  padding-top: 112px; /* room for a speech bubble above the tallest guide */
+}
+.mission-guide {
+  position: relative;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  outline: none;
+}
+.mission-guide-img {
+  display: block;
+  height: auto;
+  max-width: none;
+  transition: opacity 0.15s ease;
+}
+.mission-guide-img--speak {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+.mission-guide figcaption {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+.mission-guide-name {
+  font-size: 22px;
+  font-weight: 700;
+  color: #000000;
+}
+.mission-guide-subject {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.mission-guide-bubble {
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  width: 210px;
+  margin-bottom: 14px;
+  padding: 10px 14px;
+  box-sizing: border-box;
+  border: 1.5px solid #DDD8D0;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  font-size: 15px;
+  line-height: 1.45;
+  color: #000000;
+  text-align: center;
+  opacity: 0;
+  transform: translate(-50%, 8px) scale(0.92);
+  transform-origin: 50% 100%;
+  transition: opacity 0.2s ease, transform 0.25s cubic-bezier(0.3, 1.5, 0.5, 1);
+  pointer-events: none;
+  z-index: 6;
+}
+.mission-guide-bubble.is-on {
+  opacity: 1;
+  transform: translate(-50%, 0) scale(1);
+}
+.mission-guide-bubble::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  width: 12px;
+  height: 12px;
+  background: #ffffff;
+  border-right: 1.5px solid #DDD8D0;
+  border-bottom: 1.5px solid #DDD8D0;
+  transform: translate(-50%, -7px) rotate(45deg);
+}
+.mission-text--after {
+  padding-top: 24px;
+}

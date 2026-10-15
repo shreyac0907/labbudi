@@ -1,0 +1,37 @@
+{
+ "mission.guides_title": [
+  "Meet your guides!",
+  "认识你的向导！",
+  "안내자들을 만나 보세요!",
+  "Kenali pemandu anda!",
+  "अपने गाइड्स से मिलिए!"
+ ],
+ "mission.guide_pip": [
+  "Main guide",
+  "主向导",
+  "메인 안내자",
+  "Pemandu utama",
+  "मुख्य गाइड"
+ ],
+ "mission.guide_lili": [
+  "Biology",
+  "生物",
+  "생물",
+  "Biologi",
+  "जीव विज्ञान"
+ ],
+ "mission.guide_madu": [
+  "Chemistry",
+  "化学",
+  "화학",
+  "Kimia",
+  "रसायन विज्ञान"
+ ],
+ "mission.guide_lumi": [
+  "Physics",
+  "物理",
+  "물리",
+  "Fizik",
+  "भौतिक विज्ञान"
+ ]
+}

@@ -978,7 +978,16 @@
     "sticker_1": "Belajar sambil bermain",
     "sticker_2": "Cuba. Gagal. Cuba lagi.",
     "sticker_3": "Akses itu penting",
-    "sticker_4": "Sains untuk semua orang"
+    "sticker_4": "Sains untuk semua orang",
+    "guides_title": "Kenali pemandu anda!",
+    "guide_pip": "Pemandu utama",
+    "guide_lili": "Biologi",
+    "guide_madu": "Kimia",
+    "guide_lumi": "Fizik",
+    "guide_say_pip": "Hai hai! Dah sedia untuk meneroka sains bersama saya?!",
+    "guide_say_lili": "Wah! Benda hidup memang hebat!!",
+    "guide_say_madu": "WOO!! Tindak balas memang menarik!!",
+    "guide_say_lumi": "WOW!! Fizik ada di mana-mana!!"
   },
   "language": {
     "english_sub": "(Inggeris)",
